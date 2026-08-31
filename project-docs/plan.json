@@ -33,13 +33,6 @@
  },
  "act_now": [
   {
-   "title": "Shirakawa-gō bus — book the 16:35 RETURN (07:50 outbound booked ✓)",
-   "deadline": "Now — return seats sell out in September too",
-   "detail": "Outbound booked & paid Aug 30: res 08312001231, car 01 seats 11A/11B, ¥5,600 for 2. E-ticket = the confirmation email (print it, or show on phone to the driver — no counter exchange). Still to book: 16:35 Shirakawa-gō → Takayama return, ¥2,800 pp, same site.",
-   "link": "https://japanbusonline.com/en/CourseSearch/11900040002",
-   "leg": "takayama"
-  },
-  {
    "title": "N'EX Tokyo Stn → Narita T1, Wed Sep 23 ~11:30",
    "deadline": "Now (holiday; free cancel to 21:00 Sep 22)",
    "detail": "Eki-net, same account as the Azusa; ~¥3,250 pp. QR e-ticket or machine pickup at Tokyo Stn Sep 19–22.",
@@ -170,7 +163,7 @@
   {
    "group": "Trains & buses",
    "title": "Sep 17 · Shirakawa-gō express bus",
-   "detail": "OUT booked & paid: 07:50 Takayama Nohi Bus Center → 08:40 Shirakawa-gō (Ogimachi), japanbusonline res 08312001231, car 01 seats 11A/11B, ¥5,600 for 2 (Nohi Bus). E-ticket = the confirmation email — print it (recommended) or show on phone to the driver; no counter exchange. Changes = cancel & rebook via Manage my Booking before the deadline. RETURN 16:35 → Takayama still TO BOOK (¥2,800 pp)."
+   "detail": "BOTH LEGS booked & paid on japanbusonline (Nohi Bus, ¥5,600 for 2 each way). OUT: 07:50 Takayama Nohi Bus Center → 08:40 Shirakawa-gō (Ogimachi), res 08312001231, car 01 seats 11A/11B. RETURN: 16:35 Shirakawa-gō → 17:25 Takayama, res 08312035491, car 01 seats 7A/7B; free cancel to 13:45 JST on the day. E-tickets = the two confirmation emails (Aug 30 & Aug 31) — print them (recommended) or show on phone to the driver; no counter exchange. Changes = cancel & rebook via Manage my Booking."
   },
   {
    "group": "Trains & buses",
@@ -7160,7 +7153,7 @@
     {
      "time": "13:12",
      "title": "Hida 7 arrives Takayama",
-     "detail": "Paper tickets picked up at Osaka Stn Sep 14–15. Nohi Bus Center is directly across the station forecourt (counter 06:30–19:00 daily, tel 0577-32-1688) — no exchange needed for the booked 07:50 Shirakawa-gō bus (the e-ticket email itself boards you); buy the 16:35 return here if it wasn't booked online.",
+     "detail": "Paper tickets picked up at Osaka Stn Sep 14–15. Nohi Bus Center is directly across the station forecourt (counter 06:30–19:00 daily, tel 0577-32-1688) — nothing to do there for Shirakawa-gō: both Sep 17 buses are booked and the e-ticket emails themselves board you.",
      "address": "Takayama Station, Showamachi 1-22-2, Takayama",
      "map": "https://www.google.com/maps/search/?api=1&query=Takayama%20Station%20Gifu",
      "phone": ""
@@ -7280,8 +7273,8 @@
        "timeline": [
         {
          "time": "13:20",
-         "title": "Bags to Takayama Ouan; Nohi Bus Center only if the 16:35 return isn't booked yet",
-         "why": "Both are on the station forecourt. The booked 07:50 e-ticket needs no exchange (print the email or show it on the phone); the counter matters only for a still-unbooked return — the 07:35 queue can be 20 min.",
+         "title": "Bags to Takayama Ouan (no Nohi counter stop needed)",
+         "why": "Hotel is 3 min from the station. Both Sep 17 Shirakawa-gō buses are booked with email e-tickets — print both at the hotel or keep them on the phone; nothing to collect at the counter.",
          "address": "Nohi Bus Center, 6-125 Hanasato-machi, Takayama",
          "map": "https://www.google.com/maps/search/?api=1&query=Takayama%20Nohi%20Bus%20Center",
          "hours": "counter 06:30–19:00 daily",
@@ -7677,7 +7670,7 @@
    "notes": [
     "Leave the hotel by 08:20 at the latest; Shin-Osaka's Shinkansen gates are a 5-min walk from the Midōsuji platform.",
     "If the Hida paper tickets were not collected on Sep 14/15, the Shin-Osaka JR-West green machines are the last chance (card …1969 + res 45760 + 4-digit ID) — allow 10 min.",
-    "Tomorrow's 07:50 Shirakawa-gō bus is booked (res 08312001231, car 01 seats 11A/11B) — print the e-ticket email at the hotel or keep it on the phone; no counter exchange. If the 16:35 return still isn't booked, buy it at the Nohi counter this afternoon (06:30–19:00).",
+    "Both of tomorrow's Shirakawa-gō buses are booked (out 07:50 res 08312001231 seats 11A/B; return 16:35 res 08312035491 seats 7A/B) — print both e-ticket emails at the hotel or keep them on the phone; no Nohi counter stop needed.",
     "All brewery tasting counters close at 16:00 even though shops stay open later; do sake before the Yatai Kaikan if you care more about sake than floats.",
     "LE MiDi kitchen closes 20:30 — do not be late for the 19:00 seating.",
     "Morning markets (Miyagawa / Jinya-mae, ~07:00–12:00) are only reachable Sep 17 before the 07:50 bus — realistically skip."
@@ -7698,7 +7691,7 @@
     {
      "time": "07:50",
      "title": "Nohi bus Takayama → Shirakawa-gō (BOOKED — res 08312001231)",
-     "detail": "Booked & paid Aug 30 on japanbusonline: car 01, seats 11A/11B, ¥5,600 for 2, arr 08:40. Show the e-ticket email (printed copy recommended) to the driver. Return 16:35 → Takayama ~17:25 STILL TO BOOK.",
+     "detail": "Booked & paid Aug 30 on japanbusonline: car 01, seats 11A/11B, ¥5,600 for 2, arr 08:40. Show the e-ticket email (printed copy recommended) to the driver. Return 16:35 → Takayama 17:25 also booked: res 08312035491, car 01 seats 7A/7B (free cancel to 13:45 JST that day).",
      "address": "Takayama Nohi Bus Center, 6-125 Hanasato-machi",
      "map": "https://www.google.com/maps/search/?api=1&query=Takayama%20Nohi%20Bus%20Center",
      "phone": "0577-32-1688"
@@ -7848,12 +7841,12 @@
         {
          "time": "16:35",
          "title": "Nohi bus Shirakawa-gō → Takayama (arr ~17:25) → Kyōya 19:00",
-         "why": "STILL TO BOOK (outbound is booked; return isn't); the 17:25 last bus makes Kyōya too tight.",
+         "why": "Booked (res 08312035491, car 01 seats 7A/7B); the 17:25 last bus makes Kyōya too tight.",
          "address": "Shirakawa-gō Bus Terminal",
          "map": "https://www.google.com/maps/search/?api=1&query=Shirakawa-go%20Bus%20Terminal",
          "hours": "16:35",
-         "price": "¥2,800 pp (TO BOOK)",
-         "booking": "japanbusonline — book now",
+         "price": "¥2,800 pp (booked)",
+         "booking": "japanbusonline res 08312035491",
          "phone": "0577-32-1688",
          "transit": "Kyōya is a 15-min walk / 5-min taxi north-east of the station",
          "veg": "",
@@ -7866,7 +7859,7 @@
        "book": {
         "need": "hard",
         "by": "2026-08-31",
-        "what": "07:50 outbound BOOKED (res 08312001231); 16:35 return still to book on japanbusonline — a MUST-DO item"
+        "what": "Both buses BOOKED — out 07:50 res 08312001231, return 16:35 res 08312035491 (japanbusonline). Nothing left to do."
        }
       },
       {
@@ -7969,12 +7962,12 @@
         {
          "time": "16:35",
          "title": "Bus → Takayama 17:25 → Kyōya 19:00",
-         "why": "STILL TO BOOK (only the outbound is booked).",
+         "why": "Booked (res 08312035491, seats 7A/7B).",
          "address": "Shirakawa-gō Bus Terminal",
          "map": "https://www.google.com/maps/search/?api=1&query=Shirakawa-go%20Bus%20Terminal",
          "hours": "16:35",
-         "price": "¥2,800 pp (TO BOOK)",
-         "booking": "japanbusonline — book now",
+         "price": "¥2,800 pp (booked)",
+         "booking": "japanbusonline res 08312035491",
          "phone": "0577-32-1688",
          "transit": "Kyōya 15 min walk from the station",
          "veg": "",
@@ -8299,7 +8292,7 @@
     }
    ],
    "notes": [
-    "Outbound confirmed: 07:50 Takayama → 08:40 Shirakawa-gō, res 08312001231, car 01 seats 11A/11B (Nohi Bus). The return list on japanbusonline mixes through-services from Kanazawa — when booking the 16:35, take whichever time the confirmation actually says and be at the Shirakawa-gō terminal 15 min early.",
+    "Both buses confirmed (Nohi Bus): out 07:50 → 08:40 res 08312001231 seats 11A/B; return 16:35 → 17:25 res 08312035491 seats 7A/B, free cancel to 13:45 JST on the day. The return is a through-service from the Kanazawa direction — be at the Shirakawa-gō terminal 15 min early with the printed e-ticket.",
     "World Heritage Bus times (09:15 out / 12:13 back) are from the 2025 table; the 09:15 is confirmed on Kaetsunō's page. Confirm on the terminal board at 08:40; ¥1,300 pp cash each way, no reservations.",
     "Shiroyama shuttle: ¥200 per the tourist association (japan-guide says ¥300) — carry coins; or just walk the 15–20 min trail.",
     "Kyōya is on the east side, 15 min walk from the station — book a taxi at Ouan if you arrive at 17:25 wet.",
