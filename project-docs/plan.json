@@ -47,13 +47,6 @@
    "leg": "tokyo-front"
   },
   {
-   "title": "AIROS Osaka night helicopter — send the reservation request (Tue Sep 15)",
-   "deadline": "By Sat Sep 5 (keeps a free date change; cancellation fees start 10 days out)",
-   "detail": "10-min Downtown Skyline ¥74,200 per flight (≤3 pax). Request ~18:45 (sunset 18:08). Weather cancellation = full refund.",
-   "link": "https://skyview.airos.jp/en/osaka/night/378",
-   "leg": "osaka"
-  },
-  {
    "title": "Sumo resale watch — one day, any seat (Sep 20 or 21)",
    "deadline": "Daily until Sep 19/20 (calendar reminder set)",
    "detail": "sumo.pia.jp/en face-value resale. Sun Sep 20: QR listings close 23:59 Sep 17, uncollected 23:59 Sep 19. Mon Sep 21: Sep 18 / Sep 20. Backup: Viator 21490P12 (from $469 pp, free cancel to 24 h).",
@@ -392,13 +385,6 @@
    "detail": "Klook EEV842685 · 4-3-3 Namba, Chuo-ku, Osaka 542-0076 (Kengo Kuma building on the old Shin-Kabukiza site, Nankai/Midōsuji Namba 2 min) · check-in 15:00 / out 11:00 (inferred) · luggage to desk 08:30 Sep 15 for takkyūbin to The Tokyo Station Hotel (Klook YTX109746, arr Sep 19)",
    "map": "https://www.google.com/maps/search/?api=1&query=Hotel%20Royal%20Classic%20Osaka%20Namba",
    "phone": "+81 6-6633-0030",
-   "leg": "osaka"
-  },
-  {
-   "title": "AIROS Skyview — Osaka Heliport",
-   "detail": "2-1-1 Hokkoryokuchi, Konohana-ku, Osaka 554-0042 · JR Sakurajima Stn + free reserved shuttle (red post box) or taxi 5 min · night courses per flight: 7 min ¥57,400 / 10 min ¥74,200 / 15 min ¥94,600 · cancellation 20–50% from 10 days out, weather = full refund",
-   "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Heliport%20Hokkoryokuchi%20Konohana",
-   "phone": "+81 50-1745-1498",
    "leg": "osaka"
   },
   {
@@ -6578,14 +6564,6 @@
      "address": "Osaka Station, Umeda",
      "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Station%20Umeda",
      "phone": ""
-    },
-    {
-     "time": "~18:45",
-     "title": "AIROS Skyview night helicopter — Osaka Heliport (Hokkō/Maishima)",
-     "detail": "Departure: Osaka Heliport, 2-1-1 Hokkōryokuchi, Konohana-ku, Osaka 554-0042. Nearest station JR Sakurajima (Yumesaki line, 1 stop past Universal City); FREE shuttle from the red post box outside Sakurajima Station — must be reserved with the flight; taxi 5 min. Courses (per FLIGHT, up to 3 pax): 7-min Bay Area ¥57,400 · 10-min Downtown Skyline ¥74,200 (= ¥37,100 pp for two; the '¥19,200 pp' headline assumes 3 passengers) · 15-min Deluxe ¥94,600. Route (10-min): USJ, Kyocera Dome, Tempozan wheel, Kaiyukan, Cosmo Tower, Tsūtenkaku, Osaka Castle, Umeda. Book via the reservation-request form on the course page or LINE; card payment. Cancellation: 20% at 10–8 days, 30% 7–2 days, 40% day before, 50% same day; one free date change up to 4 days before; weather cancellation = full refund/reschedule. Night window ~18:00–20:00 (sunset 18:08 — ask for the first fully-dark slot, ~18:45–19:00). Arrive 20–30 min early (inferred).",
-     "address": "2-1-1 Hokkoryokuchi, Konohana-ku, Osaka 554-0042",
-     "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Heliport%20Hokkoryokuchi%20Konohana",
-     "phone": "AirX customer support +81 50-1745-1498"
     }
    ],
    "parts": [
@@ -6597,9 +6575,9 @@
       {
        "key": "A",
        "role": "default",
-       "character": "Kobe half day → night helicopter → late Kitashinchi dinner",
-       "title": "Nada sake (Hakutsuru + Sawanotsuru) → Kobe beef lunch at Mouriya → Kitano houses → Shin-Kobe ropeway/Nunobiki → 17:00 train → 18:45 helicopter → 21:00 Kushikatsu Bon",
-       "summary": "Sake, beef and a hillside cable car in Kobe, then Osaka from 300 m in the dark, finishing at the city's best kushikatsu counter which seats until 21:30.",
+       "character": "Kobe half day → relaxed evening → Kitashinchi dinner",
+       "title": "Nada sake (Hakutsuru + Sawanotsuru) → Kobe beef lunch at Mouriya → Kitano houses → Shin-Kobe ropeway/Nunobiki → ~17:30 train back → 20:00 Kushikatsu Bon",
+       "summary": "Sake, beef and a hillside cable car in Kobe, finishing at Osaka's best kushikatsu counter — with the helicopter dropped (Aug 31), the evening is unhurried.",
        "timeline": [
         {
          "time": "08:45",
@@ -6692,44 +6670,29 @@
          "source": "https://www.japan-guide.com/e/e3563.html"
         },
         {
-         "time": "16:50",
-         "title": "Kobe → Osaka Heliport: JR Sannomiya → Osaka (Special Rapid 21 min) → Loop line Nishikujō → Yumesaki line Sakurajima",
-         "why": "Going straight from Kobe to the heliport saves the detour to Namba; the free shuttle meets you at Sakurajima's red post box.",
-         "address": "JR Sakurajima Station, 1-2-8 Sakurajima, Konohana-ku",
-         "map": "https://www.google.com/maps/search/?api=1&query=JR%20Sakurajima%20Station%20Osaka",
+         "time": "17:30",
+         "title": "Kobe → Osaka: JR Sannomiya → Osaka (Special Rapid, 21 min) — hotel drop-off or a Kitashinchi stroll before dinner",
+         "why": "No evening commitment any more (helicopter dropped Aug 31): time for the rooftop bath at the hotel, or aperitif in Kitashinchi before Bon.",
+         "address": "JR Sannomiya Station, Kobe",
+         "map": "https://www.google.com/maps/search/?api=1&query=JR%20Sannomiya%20Station%20Kobe",
          "hours": "trains every 5–10 min",
-         "price": "≈¥580 pp, ~50 min total (Sannomiya 16:50 → Osaka 17:12 → Nishikujō 17:20 → Sakurajima 17:30)",
-         "booking": "book the shuttle when you book the flight",
+         "price": "≈¥420 pp, 21 min",
+         "booking": "none (IC card)",
          "phone": "",
-         "transit": "if you must return to the hotel first: Namba → Sakurajima = Midōsuji/Hanshin to Nishikujō 15 min + Yumesaki 7 min",
+         "transit": "JR Osaka → Kitashinchi is 1 stop / 10-min walk; Midōsuji to Namba for the hotel",
          "veg": "",
          "status": "inferred",
-         "source": "https://skyview.airos.jp/access/osaka_heliport"
+         "source": ""
         },
         {
-         "time": "18:45",
-         "title": "AIROS night helicopter — 10-min Downtown Skyline (or 15-min Deluxe)",
-         "why": "USJ, the bay, Tsūtenkaku, the castle and Umeda lit up from 300 m; the best wow-per-yen of the leg.",
-         "address": "Osaka Heliport, 2-1-1 Hokkoryokuchi, Konohana-ku, Osaka 554-0042",
-         "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Heliport%20Hokkoryokuchi%20Konohana",
-         "hours": "night flights ~18:00–20:00 (request first full-dark slot ≈18:45)",
-         "price": "¥74,200 per flight (10 min, 2 pax = ¥37,100 pp) · 7 min ¥57,400 · 15 min ¥94,600",
-         "booking": "https://skyview.airos.jp/en/osaka/night/378 reservation-request form (or LINE); card; 1 free date change ≥4 days out; cancellation 20–50%; weather = full refund",
-         "phone": "+81 50-1745-1498",
-         "transit": "shuttle back to Sakurajima ~19:30 → Nishikujō → Osaka/Kitashinchi by ~20:10",
-         "veg": "",
-         "status": "verified",
-         "source": "https://skyview.airos.jp/en/osaka/night/378"
-        },
-        {
-         "time": "21:00",
-         "title": "Late dinner — Kushikatsu Bon, Kitashinchi (last seating 21:30)",
-         "why": "The only top-tier Osaka dinner that seats this late; 16–20 skewers with ~10 seasonal vegetables built in.",
+         "time": "20:00",
+         "title": "Dinner — Kushikatsu Bon, Kitashinchi",
+         "why": "16–20 skewers with ~10 seasonal vegetables built in; last seating 21:30 leaves plenty of slack.",
          "address": "1-3-16 Dojima, Dojima Merry Center Bldg B1F, Kita-ku, Osaka 530-0003",
          "map": "https://www.google.com/maps/search/?api=1&query=Kushikatsu%20Bon%20Kitashinchi%20Dojima",
          "hours": "17:00–22:30 (LO), last seating 21:30; closed only Dec 31–Jan 1",
          "price": "¥14,000–16,000 pp courses",
-         "booking": "TableCheck https://www.tablecheck.com/en/bon-kitashinchi or tel — book a 20:30–21:00 slot and tell them you are coming from a flight",
+         "booking": "TableCheck https://www.tablecheck.com/en/bon-kitashinchi or tel — book a 19:30–20:00 slot",
          "phone": "+81 6-6344-0400",
          "transit": "JR Osaka → Kitashinchi 1 stop or 10 min walk; Midōsuji Umeda → Namba after",
          "veg": "vegetable skewers are part of the course; ask for a veg-weighted set for Rachel",
@@ -6737,20 +6700,20 @@
          "source": "https://restaurant.ikyu.com/108430"
         }
        ],
-       "fallback": "Helicopter weather-cancelled (full refund): go back to Namba at 17:45 and take the 19:30 Yugen/Bon slot instead; or Umeda Sky at 20:00 then Bon. Ropeway closed in wind → walk the Nunobiki Falls path from Shin-Kobe (20 min) instead.",
-       "cost": "≈¥65,000 for two excl. the helicopter (trains ¥4k, beef lunch ¥20k, houses ¥3k, ropeway ¥2.8k, Bon dinner ¥32k, drinks ¥3k) + helicopter ¥74,200/flight",
+       "fallback": "Ropeway closed in wind → walk the Nunobiki Falls path from Shin-Kobe (20 min) instead. Fancy a skyline moment anyway: Umeda Sky Building at dusk before Bon.",
+       "cost": "≈¥65,000 for two (trains ¥4k, beef lunch ¥20k, houses ¥3k, ropeway ¥2.8k, Bon dinner ¥32k, drinks ¥3k)",
        "book": {
         "need": "hard",
-        "by": "2026-09-05",
-        "what": "AIROS night helicopter request (by Sep 5 keeps free date-change; fees from 10 days out); Mouriya lunch by Sep 12; Bon 21:00 by Sep 13"
+        "by": "2026-09-12",
+        "what": "Mouriya lunch by Sep 12; Bon 19:30–20:00 by Sep 13"
        }
       },
       {
        "key": "B",
        "role": "alt",
-       "character": "Osaka icons: castle at opening → Tenjinbashi → Kyōbashi Toyo → helicopter → dinner",
-       "title": "Osaka Castle + Nishinomaru (open Tue) → Harukoma sushi or Izakaya Toyo (Kyōbashi, Tue 13:00–17:00) → Tenjinbashi-suji arcade → Osaka Stn (Hida tickets) → helicopter → Yugen/Bon",
-       "summary": "The keep from the empty Nishinomaru lawn at 09:00, the flame-torch tuna theatre at Toyo (which is actually in Kyōbashi and only open weekday afternoons), and Japan's longest arcade — then the helicopter.",
+       "character": "Osaka icons: castle at opening → Tenjinbashi → Kyōbashi Toyo → dinner",
+       "title": "Osaka Castle + Nishinomaru (open Tue) → Harukoma sushi or Izakaya Toyo (Kyōbashi, Tue 13:00–17:00) → Tenjinbashi-suji arcade → Osaka Stn (Hida tickets) → Yugen/Bon",
+       "summary": "The keep from the empty Nishinomaru lawn at 09:00, the flame-torch tuna theatre at Toyo (which is actually in Kyōbashi and only open weekday afternoons), and Japan's longest arcade.",
        "timeline": [
         {
          "time": "09:00",
@@ -6814,63 +6777,48 @@
         },
         {
          "time": "16:15",
-         "title": "Osaka Station — collect Hida tickets (green machine) → Loop line to Nishikujō → Sakurajima",
-         "why": "Ticket pickup on the way to the heliport.",
+         "title": "Osaka Station — collect Hida tickets (green machine)",
+         "why": "Ticket pickup done while you're at Umeda; frees tomorrow morning.",
          "address": "Osaka Station Central concourse",
          "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Station%20Umeda",
          "hours": "machines ~05:30–23:00",
-         "price": "≈¥200 pp to Sakurajima",
+         "price": "",
          "booking": "",
          "phone": "",
-         "transit": "Tanimachi Minami-Morimachi → Higashi-Umeda 2 stops; then JR",
+         "transit": "Tanimachi Minami-Morimachi → Higashi-Umeda 2 stops",
          "veg": "",
          "status": "inferred",
          "source": "https://www.westjr.co.jp/global/en/howto/train-reservation/receive/"
         },
         {
-         "time": "18:45",
-         "title": "AIROS night helicopter (as A)",
-         "why": "See anchor.",
-         "address": "2-1-1 Hokkoryokuchi, Konohana-ku, Osaka",
-         "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Heliport%20Hokkoryokuchi%20Konohana",
-         "hours": "~18:00–20:00",
-         "price": "¥74,200 per 10-min flight",
-         "booking": "https://skyview.airos.jp/en/osaka/night/378",
-         "phone": "+81 50-1745-1498",
-         "transit": "shuttle from Sakurajima",
-         "veg": "",
-         "status": "verified",
-         "source": "https://skyview.airos.jp/en/osaka/night/378"
-        },
-        {
-         "time": "20:30",
-         "title": "Dinner — Yugen (Uehommachi, 2★ veg-forward kaiseki; ask for a 20:30 seating) or Bon 21:00",
-         "why": "Ex-Kitchō chef's vegetable-and-dashi kaiseki, the best fit for Rachel in Osaka; Bon is the safer timing.",
+         "time": "19:30",
+         "title": "Dinner — Yugen (Uehommachi, 2★ veg-forward kaiseki, 19:30) or Bon",
+         "why": "Ex-Kitchō chef's vegetable-and-dashi kaiseki, the best fit for Rachel in Osaka; with no evening flight (helicopter dropped Aug 31) a 19:30 seating is comfortable.",
          "address": "14-14 Ishigatsujimachi, Zeniya Honpo West Bldg 1F, Tennoji-ku, Osaka 543-0031",
          "map": "https://www.google.com/maps/search/?api=1&query=Yugen%20kaiseki%20Uehommachi%20Osaka",
-         "hours": "18:00–22:00, closed Wed (open Tue) — a 20:30 start is possible only if they agree at booking; standard last start is ~20:00",
+         "hours": "18:00–22:00, closed Wed (open Tue); standard last start ~20:00",
          "price": "¥20,000–30,000 pp",
          "booking": "Pocket Concierge https://pocket-concierge.jp/en/restaurants/245106 (or Ikyu/TableAll); confirm start time and vegetarian course in the request",
          "phone": "+81 6-6796-9959",
-         "transit": "Sakurajima → Nishikujō → Loop to Tsuruhashi/Osaka-Uehommachi ~40 min; realistically tight — Bon (Kitashinchi, 21:30 last seating) is 20 min closer",
+         "transit": "from Umeda: Tanimachi line Higashi-Umeda → Tanimachi 9-chōme, ~20 min door to door (inferred)",
          "veg": "vegetable-forward kaiseki; full veg course on request",
          "status": "verified",
          "source": "https://restaurant.ikyu.com/113150"
         }
        ],
-       "fallback": "Rain → Osaka Museum of History instead of Nishinomaru; heli cancelled → 19:30 Yugen and an earlier evening.",
-       "cost": "≈¥65,000 for two excl. helicopter (castle ¥3k, boat ¥3k, lunch ¥6k, Yugen ¥55k) + ¥74,200 flight",
+       "fallback": "Rain → Osaka Museum of History instead of Nishinomaru.",
+       "cost": "≈¥65,000 for two (castle ¥3k, boat ¥3k, lunch ¥6k, Yugen ¥55k)",
        "book": {
         "need": "hard",
-        "by": "2026-09-05",
-        "what": "AIROS helicopter as A; Yugen (Pocket Concierge) by Sep 12"
+        "by": "2026-09-12",
+        "what": "Yugen (Pocket Concierge) by Sep 12"
        }
       },
       {
        "key": "C",
        "role": "alt",
-       "character": "shopping & design: Amerikamura → Horie → Shinsaibashi → helicopter → dinner",
-       "title": "Amemura vintage → Horie/Orange Street → QUARTZ Shinsaibashi → Doguyasuji if not done → helicopter → Bon",
+       "character": "shopping & design: Amerikamura → Horie → Shinsaibashi → dinner",
+       "title": "Amemura vintage → Horie/Orange Street → QUARTZ Shinsaibashi → Doguyasuji if not done → Bon",
        "summary": "The best second-hand hunting outside Shimokitazawa (Kinji, Pigsty, Chicago), Osaka's design street, the Apr-2026 QUARTZ complex — and no train to Kobe.",
        "timeline": [
         {
@@ -6920,36 +6868,21 @@
         },
         {
          "time": "16:00",
-         "title": "Doguyasuji + Kuromon edges (if not done Mon) → Namba → Sakurajima",
-         "why": "Last knife stop before the heliport; from Namba the Hanshin Namba line to Nishikujō then Yumesaki line to Sakurajima is ~25 min.",
+         "title": "Doguyasuji + Kuromon edges (if not done Mon)",
+         "why": "Last knife stop of the trip; both are a short walk from the hotel, so bags can go back before dinner.",
          "address": "Doguyasuji, Nanbasennichimae",
          "map": "https://www.google.com/maps/search/?api=1&query=Doguyasuji%20Shotengai%20Osaka",
          "hours": "~10:00–18:00",
          "price": "",
          "booking": "",
          "phone": "",
-         "transit": "Ōsaka-Namba → Nishikujō (Hanshin, 10 min ¥210) → Sakurajima (JR, 7 min ¥170); shuttle from the red post box",
+         "transit": "5–10 min walk from Namba",
          "veg": "",
          "status": "inferred",
          "source": ""
         },
         {
-         "time": "18:45",
-         "title": "AIROS night helicopter (as A)",
-         "why": "See anchor.",
-         "address": "2-1-1 Hokkoryokuchi, Konohana-ku, Osaka",
-         "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Heliport%20Hokkoryokuchi%20Konohana",
-         "hours": "~18:00–20:00",
-         "price": "¥74,200 per 10-min flight",
-         "booking": "https://skyview.airos.jp/en/osaka/night/378",
-         "phone": "+81 50-1745-1498",
-         "transit": "",
-         "veg": "",
-         "status": "verified",
-         "source": "https://skyview.airos.jp/en/osaka/night/378"
-        },
-        {
-         "time": "21:00",
+         "time": "20:00",
          "title": "Kushikatsu Bon, Kitashinchi (as A) → Bar Nayuta after",
          "why": "Seats until 21:30; Nayuta runs to 03:00 back near the hotel.",
          "address": "1-3-16 Dojima, Kita-ku",
@@ -6964,20 +6897,20 @@
          "source": "https://restaurant.ikyu.com/108430"
         }
        ],
-       "fallback": "All indoor except the walk between districts; heli cancelled → 19:30 dinner and teamLab Botanical Garden Nagai (open Sep 15 18:30–21:30, ¥1,800) instead.",
-       "cost": "≈¥45,000 for two excl. shopping and helicopter (coffee/lunch ¥6k, dinner ¥32k, bar ¥7k)",
+       "fallback": "All indoor except the walk between districts. Evening add-on: teamLab Botanical Garden Nagai (open Sep 15 18:30–21:30, ¥1,800) before a later Bon seating.",
+       "cost": "≈¥45,000 for two excl. shopping (coffee/lunch ¥6k, dinner ¥32k, bar ¥7k)",
        "book": {
-        "need": "hard",
-        "by": "2026-09-05",
-        "what": "AIROS helicopter as A; Bon by Sep 13"
+        "need": "light",
+        "by": "2026-09-13",
+        "what": "Bon by Sep 13"
        }
       },
       {
        "key": "D",
        "role": "rainy",
        "character": "indoor / relaxed",
-       "title": "Shinsaibashi/Amemura shopping → Kaiyukan or Umekita Onsen REN → (helicopter if it flies) → Bon",
-       "summary": "Everything under cover, with the helicopter kept as a go/no-go call AIROS makes on the day (full refund if grounded).",
+       "title": "Shinsaibashi/Amemura shopping → Kaiyukan or Umekita Onsen REN → Bon",
+       "summary": "Everything under cover.",
        "timeline": [
         {
          "time": "10:30",
@@ -7012,7 +6945,7 @@
         {
          "time": "14:30",
          "title": "Kaiyukan (timed e-ticket) — or Umekita Onsen REN 90-min soak",
-         "why": "Whale sharks or hot spring; Kaiyukan is 15 min from the heliport side of the city (Osakakō → Bentenchō → Nishikujō).",
+         "why": "Whale sharks or hot spring — pick by mood.",
          "address": "1-1-10 Kaigandori, Minato-ku (Kaiyukan)",
          "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Aquarium%20Kaiyukan",
          "hours": "Kaiyukan 10:00–20:00; REN 24 h",
@@ -7025,24 +6958,9 @@
          "source": "https://en-61698.site-translation.com/info/ticket/kaiyukan/"
         },
         {
-         "time": "18:45",
-         "title": "AIROS helicopter — only if AIROS confirms it flies (rain/low cloud = cancelled, full refund)",
-         "why": "Keep the slot; the pilot decides.",
-         "address": "2-1-1 Hokkoryokuchi, Konohana-ku",
-         "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Heliport%20Hokkoryokuchi%20Konohana",
-         "hours": "~18:00–20:00",
-         "price": "¥74,200 per flight",
-         "booking": "https://skyview.airos.jp/en/osaka/night/378",
-         "phone": "+81 50-1745-1498",
-         "transit": "Osakakō → Bentenchō (Chūō) → Nishikujō (Loop) → Sakurajima ~25 min",
-         "veg": "",
-         "status": "verified",
-         "source": "https://skyview.airos.jp/en/osaka/night/378"
-        },
-        {
-         "time": "20:30",
-         "title": "Kushikatsu Bon (or, if the heli is cancelled, 19:30 Yugen)",
-         "why": "Flexible late seating.",
+         "time": "19:30",
+         "title": "Kushikatsu Bon (or 19:30 Yugen)",
+         "why": "Flexible seating either way.",
          "address": "1-3-16 Dojima, Kita-ku",
          "map": "https://www.google.com/maps/search/?api=1&query=Kushikatsu%20Bon%20Kitashinchi%20Dojima",
          "hours": "last seating 21:30",
@@ -7055,8 +6973,8 @@
          "source": "https://restaurant.ikyu.com/108430"
         }
        ],
-       "fallback": "If the helicopter is cancelled, AIROS offers reschedule or refund — there is no later Osaka date on this trip, so take the refund.",
-       "cost": "≈¥50,000 for two excl. helicopter (lunch ¥5k, Kaiyukan/REN ¥7k, dinner ¥32k, drinks ¥5k)",
+       "fallback": "If the rain clears by evening: teamLab Botanical Garden Nagai (18:30–21:30, ¥1,800) before a later Bon seating.",
+       "cost": "≈¥50,000 for two (lunch ¥5k, Kaiyukan/REN ¥7k, dinner ¥32k, drinks ¥5k)",
        "book": {
         "need": "light",
         "by": "2026-09-15",
@@ -7089,7 +7007,7 @@
     },
     {
      "slot": "dinner",
-     "name": "Kushikatsu Bon, Kitashinchi — 20:30–21:00 seating (post-helicopter)",
+     "name": "Kushikatsu Bon, Kitashinchi — evening seating (last 21:30)",
      "why": "Last seating 21:30 — the only Michelin-level room that works after a 19:00 flight.",
      "price": "¥14,000–16,000 pp",
      "booking": "TableCheck https://www.tablecheck.com/en/bon-kitashinchi or +81 6-6344-0400 — book now",
@@ -7100,7 +7018,7 @@
     {
      "slot": "dinner-alt",
      "name": "Yugen (Uehommachi, 2★)",
-     "why": "Best vegetarian kaiseki in Osaka; open Tue (closed Wed) 18:00–22:00 — only if they accept a 20:30 start, otherwise use it on a no-helicopter evening.",
+     "why": "Best vegetarian kaiseki in Osaka; open Tue (closed Wed) 18:00–22:00 — with the evening free (helicopter dropped Aug 31), a 19:30 start works.",
      "price": "¥20,000–30,000 pp",
      "booking": "Pocket Concierge / Ikyu",
      "phone": "+81 6-6796-9959",
@@ -7120,7 +7038,6 @@
    ],
    "notes": [
     "Kiku-Masamune Sake Museum is CLOSED TUESDAYS from Apr 2026 — use Hakutsuru + Sawanotsuru (or Kobe Shushinkan/Fukuju) instead.",
-    "Helicopter price is per flight, not per person: 10-min Downtown Skyline ¥74,200 for the two of you (the ¥19,200 pp headline assumes 3 passengers on the 7-min flight). Book the free Sakurajima shuttle with the flight.",
     "Go Kobe → heliport directly (Sannomiya → Osaka → Nishikujō → Sakurajima ~50 min); returning to Namba first wastes 40 min. Luggage is already handed over at 08:30.",
     "Post-flight dinner: Bon seats until 21:30 (verified); 010 closes 22:00; Yugen 18:00–22:00 — ask for 20:30 or keep Yugen for a non-heli plan.",
     "Weathercock House may be shut on the 3rd Tuesday (conflicting sources) — Moegi and Uroko are open.",

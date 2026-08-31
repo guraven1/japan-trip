@@ -13,3 +13,4 @@
 - Principle: decide on the go — only pre-book what is truly necessary; options that depend on booking must be marked with the actionable date, not turned into to-dos
 - Only booked/verified activities are approved; rest of the daily itinerary is tentative until Gur signs off — wants ≥3 options per day, then calendar events + a mobile trip page (decided Aug 30)
 - Use Google Calendar for all calendar-related actions without needing to confirm
+- Decision Aug 31: dropped the Osaka night helicopter (Sep 15) — overly pricey, not that exciting. Sep 15 evening freed: dinner moves earlier (Yugen 19:30 now viable); no heliport logistics.

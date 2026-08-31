@@ -13,7 +13,7 @@ The old spreadsheet (`Japan_2026_Gur_and_Rachel_ScheduleA.xlsx` on Gur's Mac; st
 - Travelers: **Gur & Rachel** (couple, 29). Rachel's **sister Tamar + boyfriend** join the **Hokkaido leg (Sep 7–10)**.
 - Dates: **Thu Sep 3 – Wed Sep 23, 2026** (20 nights). Route: Tokyo → Hokkaido (Sapporo + Noboribetsu onsen) → Kyoto → Osaka → Takayama/Alps → Tokyo (Silver Week).
 - Dietary: **Rachel = vegetarian** (may try fish); **Tamar = strict vegan** — flag at every kaiseki/ryokan.
-- Style decisions (Aug 30): not big on museums/workshops (rainy-day alternates only); city days stay in the city, nature is Hokkaido + Alps (Fuji the exception); 1–2 dawn starts max; no theme parks; no go-karting; one sumo day (Sep 20 or 21) if tickets appear; Osaka night helicopter Sep 15; spa block Sep 22 before FARO; Sep 22 FARO is an engagement-level evening.
+- Style decisions (Aug 30): not big on museums/workshops (rainy-day alternates only); city days stay in the city, nature is Hokkaido + Alps (Fuji the exception); 1–2 dawn starts max; no theme parks; no go-karting; one sumo day (Sep 20 or 21) if tickets appear; Osaka night helicopter dropped Aug 31 (too pricey, not compelling); spa block Sep 22 before FARO; Sep 22 FARO is an engagement-level evening.
 
 ## Lodging (all booked via Klook)
 Shibuya Stream (PBZ943404) · Sapporo Stream (KGG392117) · Takinoya Noboribetsu (JFN966234, non-refundable) · HOTEL RINGS KYOTO (HZR550734) · Hotel Royal Classic Osaka (EEV842685) · Takayama Ouan (ERB149933) · Kutsuroginoya Yuu, Shin-Hirayu/Ippōsui (GFV226893) · The Tokyo Station Hotel (YTX109746).
