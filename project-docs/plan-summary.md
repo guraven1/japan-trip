@@ -198,7 +198,7 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 
 ## Must-do list (checklist on the page)
 - N'EX Tokyo Stn → Narita T1, Wed Sep 23 ~11:30 — Now (holiday; free cancel to 21:00 Sep 22)
-- Udatsu Sushi — confirm Rachel's vegetable omakase — By Wed Sep 2
+- Udatsu Sushi — confirm Rachel's vegetable omakase — By Wed Sep 2. Booking carries NO dietary note (verified Aug 31): send the Gmail draft to reservations@udatsu-sushi.com + the AutoReserve chat message; phone backup 050-3550-5938.
 - AIROS Osaka night helicopter — send the reservation request (Tue Sep 15) — By Sat Sep 5 (keeps a free date change; cancellation fees start 10 days out)
 - Sumo resale watch — one day, any seat (Sep 20 or 21) — Daily until Sep 19/20 (calendar reminder set)
 - Email The Tokyo Station Hotel about the takkyūbin bags — Sun Sep 13 (calendar reminder set)
@@ -226,7 +226,7 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 - **Sep 19 · Azusa 42 Matsumoto 15:10 → Shinjuku 18:04** — Eki-net res E37835. Car 5, seats 1-A/1-B, ¥13,460 for 2. ⚠ PAPER tickets: pick up at any JR East reserved-seat machine in Tokyo Sep 3–6 with QR / code 29372419579521238. Ticket valid to Tokyo Stn: at Shinjuku stay inside the gates, Chūō rapid to Tokyo.
 - **Sep 23 · N'EX Tokyo Stn → Narita T1** — TO BOOK on Eki-net (same account as the Azusa). Target ~11:30 → T1 ~12:30. ~¥3,250 pp. Free cancel to 21:00 Sep 22.
 - **teamLab Planets · Fri Sep 4 11:00–11:30** — DMM My Tickets QR (appears after 00:00 Sep 4; the email alone does not admit). Adults ×2, ¥9,200 paid. Change date/time up to 3× on My Tickets, ≥2 h before entry. No refunds.
-- **Udatsu Sushi · Fri Sep 4 20:30** — 2-48-10 Kamimeguro, Nakameguro. AutoReserve, name Aven Gur. Chef's selection ¥36,300 pp; ¥7,280 confirmation fee paid. Cancel ≤2 days = 100%. Tel 050-3550-5938. Confirm Rachel's vegetable omakase (2 days' notice).
+- **Udatsu Sushi · Fri Sep 4 20:30** — 2-48-10 Kamimeguro, Nakameguro. AutoReserve, name Aven Gur. Chef's selection ¥36,300 pp; ¥7,280 confirmation fee paid. Cancel ≤2 days = 100%. Tel 050-3550-5938, email reservations@udatsu-sushi.com. Confirm Rachel's vegetable omakase (2 days' notice) — NOT on the booking as of Aug 31.
 - **The SG Club (Sip, B1) · Sat Sep 5 19:30** — 1-7-8 Jinnan, Shibuya. TableCheck conf HLCCCM. Seat-only, free cancel. 15 min late = may cancel; 90-min limit when busy.
 - **Sōjiki Nakahigashi · Fri Sep 11 18:00** — Near Ginkaku-ji. Pocket Concierge #885962, PREPAID ¥31,460. Veg note on file (fish dashi unavoidable). Changes after 18:00 Sep 10 by phone only: 075-752-3500. Smart casual.
 - **Hikiniku to Come · Sat Sep 12 12:45 check-in** — 363 Kiyomoto-chō, Higashiyama. TableCheck #RQAM9V, PREPAID ¥5,960. Show the number at the door; 10 min late = auto-cancel; expect a wait after check-in.
