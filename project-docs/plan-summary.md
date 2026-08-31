@@ -198,7 +198,7 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 
 ## Must-do list (checklist on the page)
 - N'EX Tokyo Stn → Narita T1, Wed Sep 23 ~11:30 — Now (holiday; free cancel to 21:00 Sep 22)
-- Udatsu Sushi — confirm Rachel's vegetable omakase — By Wed Sep 2. Booking carries NO dietary note (verified Aug 31): send the Gmail draft to reservations@udatsu-sushi.com + the AutoReserve chat message; phone backup 050-3550-5938.
+- Udatsu Sushi — await veg-omakase confirmation (email sent Aug 31 to reservations@udatsu-sushi.com; Rachel not strict — dashi/sauce traces fine). Chase by Wed Sep 2 if no reply: AutoReserve chat, then phone 050-3550-5938.
 - AIROS Osaka night helicopter — send the reservation request (Tue Sep 15) — By Sat Sep 5 (keeps a free date change; cancellation fees start 10 days out)
 - Sumo resale watch — one day, any seat (Sep 20 or 21) — Daily until Sep 19/20 (calendar reminder set)
 - Email The Tokyo Station Hotel about the takkyūbin bags — Sun Sep 13 (calendar reminder set)
