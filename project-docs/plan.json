@@ -193,6 +193,11 @@
   },
   {
    "group": "Tickets & bookings",
+   "title": "Enoteca Via Salaria · Sun Sep 13 19:00",
+   "detail": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku (near Tōfuku-ji). TableCheck, 2 pax, 9-dish course ¥9,680 pp + 10% service = ¥21,296 at venue; wine pairing requested: small amount, premium (list ¥8,400 pp). Rachel noted vegetarian (not strict). Same-day cancel = 100%; 15 min late may cancel. Tel 075-366-5361; manage https://tblc.hk/rSFWL9D."
+  },
+  {
+   "group": "Tickets & bookings",
    "title": "LE MiDi · Wed Sep 16 19:00",
    "detail": "Honmachi 2-85, Takayama. AutoReserve confirmed; ¥4,680 fee paid. Table only, à la carte. Kitchen closes 20:30 that day. >15 min late = table may be released; tel 0577-36-6386."
   },
@@ -371,6 +376,13 @@
    "detail": "GO app works in Kyoto; MK Taxi 075-778-4141; flagfall ≈¥500, ~¥100/280 m",
    "map": "",
    "phone": "075-778-4141",
+   "leg": "kyoto"
+  },
+  {
+   "title": "Enoteca Via Salaria (Sep 13, 19:00)",
+   "detail": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku 605-0994 · booked via TableCheck, 2 pax, ¥9,680 course + pairing · same-day cancel 100%",
+   "map": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Via%20Salaria%20Kyoto",
+   "phone": "075-366-5361",
    "leg": "kyoto"
   },
   {
@@ -5379,6 +5391,14 @@
      "address": "Kitano Tenmangu, Bakurocho, Kamigyo Ward, Kyoto 602-8386",
      "map": "https://www.google.com/maps/search/?api=1&query=Kitano%20Tenmangu%20Kyoto",
      "phone": "organiser: shichido.kyoto@gmail.com"
+    },
+    {
+     "time": "19:00",
+     "title": "Dinner — Enoteca Via Salaria (booked, TableCheck)",
+     "detail": "Italian wine-pairing dinner in Higashiyama (near Tōfuku-ji, NOT Gion). 2 pax, 9-dish course ¥9,680 pp + 10% service (¥21,296 at venue); pairing requested: small amount, premium wines (list ¥8,400 pp). Rachel noted vegetarian (not strict) on the booking. Same-day cancel 100%; call if >15 min late. From the Bon Odori at Kitano Tenmangū allow ~35 min by taxi — leave by 18:15 (travel time inferred).",
+     "address": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku, Kyoto 605-0994",
+     "map": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Via%20Salaria%20Kyoto",
+     "phone": "075-366-5361"
     }
    ],
    "parts": [
@@ -5391,8 +5411,8 @@
        "key": "A",
        "role": "default",
        "character": "city",
-       "title": "Sleep in → Fushimi sake district (Gekkeikan, canal, Fujioka) → back → 16:00 Kamishichiken Bon Odori → Yasaka Endō",
-       "summary": "A gentle brewery-quarter morning, then the one day a year Kyoto's oldest hanamachi's geiko and maiko dance in public, and a 365-day tempura kaiseki to finish.",
+       "title": "Sleep in → Fushimi sake district (Gekkeikan, canal, Fujioka) → back → 16:00 Kamishichiken Bon Odori → Via Salaria",
+       "summary": "A gentle brewery-quarter morning, then the one day a year Kyoto's oldest hanamachi's geiko and maiko dance in public, and a booked Italian wine-pairing dinner in Higashiyama to finish.",
        "timeline": [
         {
          "time": "09:30",
@@ -5471,18 +5491,18 @@
         },
         {
          "time": "19:00",
-         "title": "Dinner: Kyoto Gion Tempura Yasaka Endō (main branch)",
-         "why": "Tempura kaiseki in a Gion sukiya house, open 365 days — the safe great Sunday table; vegetarian course on request.",
-         "address": "566 Komatsu-cho, Higashiyama Ward, Kyoto (100 m east of Kennin-ji south gate)",
-         "map": "https://www.google.com/maps/search/?api=1&query=Tempura%20Endo%20Yasaka%20Kyoto",
-         "hours": "dinner 17:00–21:30 (LO 20:30); open year-round",
-         "price": "courses ≈¥15,000–33,000 pp",
-         "booking": "TableCheck https://www.tablecheck.com/en/shops/honten-endo/reserve or phone",
-         "phone": "075-551-1488",
-         "transit": "taxi 20 min from Kitano ~¥2,500 (book 19:30 if you want the last VIP session)",
-         "veg": "request vegetable course when booking",
-         "status": "verified",
-         "source": "https://www.gion-endo.com/en/"
+         "title": "Dinner: Enoteca Via Salaria (booked 19:00)",
+         "why": "Booked anchor — 9-course Italian with a premium wine pairing; the one non-Japanese dinner of the trip, and Rachel's vegetarian note is on the reservation.",
+         "address": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku, Kyoto 605-0994",
+         "map": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Via%20Salaria%20Kyoto",
+         "hours": "19:00 seating; allow ~2.5 h",
+         "price": "¥9,680 pp course + 10% service (¥21,296 for 2) + wine pairing (small/premium, list ¥8,400 pp) — all paid at venue",
+         "booking": "BOOKED — TableCheck (manage: https://tblc.hk/rSFWL9D). 9-dish course ¥9,680 pp + 10% service = ¥21,296 for 2, paid at venue; wine pairing requested on the form: 'small amount, premium' (list ¥8,400 pp). Same-day cancel = 100%; 15 min late without calling = may cancel.",
+         "phone": "075-366-5361",
+         "transit": "From Kitano Tenmangū: taxi ~35 min (inferred) — leave the Bon Odori by 18:15. From the hotel: Keihan to Tōfuku-ji then 5–10 min walk, or taxi ~15 min (inferred).",
+         "veg": "vegetarian (not strict) noted on the booking — confirm on arrival",
+         "status": "verified (TableCheck confirmation Sep 1); transit times inferred",
+         "source": "TableCheck confirmation email, Sep 1 2026"
         },
         {
          "time": "21:30",
@@ -5500,19 +5520,19 @@
          "source": "https://tabelog.com/en/kyoto/A2601/A260202/26001197/"
         }
        ],
-       "fallback": "Rain: Bon Odori moves to Sep 19 (you will have left) — replace with Option D (Nishiki/Teramachi + UZU) and keep Endō.",
-       "cost": "≈¥60,000 for two (Fushimi ≈¥6,000, taxis/transit ≈¥8,000, stalls ≈¥3,000, Endō ≈¥40,000, bar) + VIP room if taken",
+       "fallback": "Rain: Bon Odori moves to Sep 19 (you will have left) — replace with Option D (Nishiki/Teramachi + UZU) and keep Via Salaria (booked).",
+       "cost": "≈¥60,000 for two (Fushimi ≈¥6,000, taxis/transit ≈¥8,000, stalls ≈¥3,000, Via Salaria ≈¥38,000 incl. pairing, bar) + VIP room if taken",
        "book": {
         "need": "light",
-        "by": "2026-09-11",
-        "what": "Yasaka Endō 19:00 (TableCheck; open daily); Bon Odori VIP room by email (shichido.kyoto@gmail.com) by Sep 6 if wanted"
+        "by": "2026-09-06",
+        "what": "Dinner booked (Via Salaria). Bon Odori VIP room by email (shichido.kyoto@gmail.com) by Sep 6 if wanted"
        }
       },
       {
        "key": "B",
        "role": "alt",
        "character": "outdoors",
-       "title": "Kurama–Kibune hike + Hirobun nagashi-sōmen → Bon Odori → dinner",
+       "title": "Kurama–Kibune hike + Hirobun nagashi-sōmen → Bon Odori → Via Salaria",
        "summary": "A 90-minute temple-to-shrine ridge walk and lunch on a platform over a mountain stream in its last fortnight, back in town for the geiko dance.",
        "timeline": [
         {
@@ -5591,34 +5611,34 @@
          "source": "https://www.city.kyoto.lg.jp/bunshi/page/0000355574.html"
         },
         {
-         "time": "19:30",
-         "title": "Dinner: Yasaka Endō or Vegan Ramen UZU",
-         "why": "Both open Sunday.",
-         "address": "566 Komatsu-cho, Higashiyama Ward, Kyoto",
-         "map": "https://www.google.com/maps/search/?api=1&query=Tempura%20Endo%20Yasaka%20Kyoto",
-         "hours": "Endō to 21:30 (LO 20:30); UZU 17:30–22:00",
-         "price": "Endō ≈¥15,000–33,000 pp; UZU ¥2,000–8,800",
-         "booking": "TableCheck",
-         "phone": "075-551-1488",
-         "transit": "taxi 20 min",
-         "veg": "",
-         "status": "verified",
-         "source": "https://www.gion-endo.com/en/"
+         "time": "19:00",
+         "title": "Dinner: Enoteca Via Salaria (booked 19:00)",
+         "why": "Booked anchor — 9-course Italian with a premium wine pairing; the one non-Japanese dinner of the trip, and Rachel's vegetarian note is on the reservation.",
+         "address": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku, Kyoto 605-0994",
+         "map": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Via%20Salaria%20Kyoto",
+         "hours": "19:00 seating; allow ~2.5 h",
+         "price": "¥9,680 pp course + 10% service (¥21,296 for 2) + wine pairing (small/premium, list ¥8,400 pp) — all paid at venue",
+         "booking": "BOOKED — TableCheck (manage: https://tblc.hk/rSFWL9D). 9-dish course ¥9,680 pp + 10% service = ¥21,296 for 2, paid at venue; wine pairing requested on the form: 'small amount, premium' (list ¥8,400 pp). Same-day cancel = 100%; 15 min late without calling = may cancel.",
+         "phone": "075-366-5361",
+         "transit": "From Kitano Tenmangū: taxi ~35 min (inferred) — leave the Bon Odori by 18:15. From the hotel: Keihan to Tōfuku-ji then 5–10 min walk, or taxi ~15 min (inferred).",
+         "veg": "vegetarian (not strict) noted on the booking — confirm on arrival",
+         "status": "verified (TableCheck confirmation Sep 1); transit times inferred",
+         "source": "TableCheck confirmation email, Sep 1 2026"
         }
        ],
        "fallback": "Rain/high water: Hirobun serves indoors or closes; ride Eizan to Kurama and back without the hike, or switch to A.",
        "cost": "≈¥55,000 for two (transit ≈¥3,500, temple ¥1,000, lunch ¥4,000, taxis ≈¥5,000, dinner ≈¥40,000)",
        "book": {
-        "need": "light",
-        "by": "2026-09-11",
-        "what": "Yasaka Endō as A; Hirobun sōmen is walk-in"
+        "need": "none",
+        "by": "",
+        "what": "Dinner booked (Via Salaria); Hirobun sōmen is walk-in"
        }
       },
       {
        "key": "C",
        "role": "alt",
        "character": "gentle culture",
-       "title": "Uji half day (Byōdō-in, Nakamura Tōkichi, river) → Bon Odori → dinner",
+       "title": "Uji half day (Byōdō-in, Nakamura Tōkichi, river) → Bon Odori → Via Salaria",
        "summary": "Twenty minutes to the tea town: the Phoenix Hall, Japan's oldest shrine building, and the matcha institution, back by 14:30.",
        "timeline": [
         {
@@ -5698,26 +5718,26 @@
         },
         {
          "time": "19:00",
-         "title": "Dinner: Yasaka Endō",
-         "why": "See Option A.",
-         "address": "566 Komatsu-cho, Higashiyama Ward, Kyoto",
-         "map": "https://www.google.com/maps/search/?api=1&query=Tempura%20Endo%20Yasaka%20Kyoto",
-         "hours": "17:00–21:30",
-         "price": "≈¥15,000–33,000 pp",
-         "booking": "TableCheck",
-         "phone": "075-551-1488",
-         "transit": "taxi 20 min",
-         "veg": "veg course on request",
-         "status": "verified",
-         "source": "https://www.gion-endo.com/en/"
+         "title": "Dinner: Enoteca Via Salaria (booked 19:00)",
+         "why": "Booked anchor — 9-course Italian with a premium wine pairing; the one non-Japanese dinner of the trip, and Rachel's vegetarian note is on the reservation.",
+         "address": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku, Kyoto 605-0994",
+         "map": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Via%20Salaria%20Kyoto",
+         "hours": "19:00 seating; allow ~2.5 h",
+         "price": "¥9,680 pp course + 10% service (¥21,296 for 2) + wine pairing (small/premium, list ¥8,400 pp) — all paid at venue",
+         "booking": "BOOKED — TableCheck (manage: https://tblc.hk/rSFWL9D). 9-dish course ¥9,680 pp + 10% service = ¥21,296 for 2, paid at venue; wine pairing requested on the form: 'small amount, premium' (list ¥8,400 pp). Same-day cancel = 100%; 15 min late without calling = may cancel.",
+         "phone": "075-366-5361",
+         "transit": "From Kitano Tenmangū: taxi ~35 min (inferred) — leave the Bon Odori by 18:15. From the hotel: Keihan to Tōfuku-ji then 5–10 min walk, or taxi ~15 min (inferred).",
+         "veg": "vegetarian (not strict) noted on the booking — confirm on arrival",
+         "status": "verified (TableCheck confirmation Sep 1); transit times inferred",
+         "source": "TableCheck confirmation email, Sep 1 2026"
         }
        ],
        "fallback": "Uji is fine in rain (temple, museum, café).",
        "cost": "≈¥55,000 for two",
        "book": {
-        "need": "light",
-        "by": "2026-09-11",
-        "what": "Yasaka Endō as A"
+        "need": "none",
+        "by": "",
+        "what": "Dinner booked (Via Salaria)"
        }
       },
       {
@@ -5774,7 +5794,7 @@
         },
         {
          "time": "16:30",
-         "title": "Bon Odori if running (check organiser Instagram/city page that morning) → 19:00 Yasaka Endō",
+         "title": "Bon Odori if running (check organiser Instagram/city page that morning) → 19:00 Via Salaria (booked)",
          "why": "Rain date is Sep 19; if postponed, go straight to the Night Market's last hours (held in rain, 15:00–22:00) and dinner.",
          "address": "Kitano Tenmangu, Kamigyo Ward, Kyoto",
          "map": "https://www.google.com/maps/search/?api=1&query=Kitano%20Tenmangu%20Kyoto",
@@ -5789,7 +5809,7 @@
         }
        ],
        "fallback": "",
-       "cost": "≈¥50,000 for two incl. Endō",
+       "cost": "≈¥50,000 for two incl. Via Salaria",
        "book": {
         "need": "light",
         "by": "2026-09-12",
@@ -5822,12 +5842,12 @@
     },
     {
      "slot": "dinner",
-     "name": "Kyoto Gion Tempura Yasaka Endō",
-     "why": "Open 365 days; tempura kaiseki; veg course on request",
-     "price": "≈¥15,000–33,000 pp",
-     "booking": "TableCheck honten-endo — book now",
-     "phone": "075-551-1488",
-     "veg": "on request",
+     "name": "Enoteca Via Salaria (booked 19:00)",
+     "why": "Booked anchor — Italian, 9-dish course with wine pairing; southern Higashiyama near Tōfuku-ji.",
+     "price": "¥9,680 pp course + 10% service + pairing (small/premium, list ¥8,400 pp)",
+     "booking": "booked — TableCheck (https://tblc.hk/rSFWL9D); same-day cancel 100%",
+     "phone": "075-366-5361",
+     "veg": "vegetarian (not strict) noted on the booking",
      "status": "verified"
     },
     {
@@ -5862,6 +5882,7 @@
     }
    ],
    "notes": [
+    "Dinner (Via Salaria) is in southern Higashiyama near Tōfuku-ji, not Gion — from Kitano Tenmangū allow ~35 min by taxi (inferred); leave the Bon Odori by 18:15. 9 courses + pairing runs ~2.5 h, so the Night Market afterwards is optional at best.",
     "Bon Odori VIP room: price/booking not published on the city page — email shichido.kyoto@gmail.com this week; 3 sessions 14:00–19:30.",
     "Bon Odori rain date Sep 19 = after you leave; the stage is an open car park (no roof).",
     "Kibune kawadoko: Hirobun's 2025 season ended Sep 28; 2026 end date not yet posted — assume open Sep 13.",

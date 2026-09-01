@@ -81,6 +81,7 @@ story.append(P('Screenshot each voucher in the Klook app. Kutsuroginoya = Hitoeg
 story.append(P('TICKETS &amp; RESTAURANTS', sec))
 story.append(P(f'{B("teamLab Planets")} Fri Sep 4, 11:00-11:30 entry · QR appears on {B("DMM My Tickets")} after 00:00 Sep 4 - the email does NOT admit. Barefoot + knee-deep water: shorts.'))
 story.append(P(f'{B("Udatsu Sushi")} Fri Sep 4, 20:30 · AutoReserve, name Aven Gur · CONFIRMED Sep 1: 2 guests, 1 Vegetarian Course + 1 regular Omakase, both paid at the restaurant · tel 050-3550-5938'))
+story.append(P(f'{B("Enoteca Via Salaria")} Sun Sep 13, 19:00 (Kyoto, Higashiyama near Tofuku-ji - NOT Gion) · TableCheck, 2 pax, 9-dish course 9,680 yen pp + premium pairing · same-day cancel 100% · tel 075-366-5361'))
 story.append(P(f'{B("LE MiDi")} Wed Sep 16, 19:00 (kitchen closes 20:30 - be on time) · {B("Kyoya")} Thu Sep 17, 19:00 · both AutoReserve, fees paid'))
 story.append(P(f'{B("IRORIYA")} Sun Sep 20, 19:00 · TableCheck {C("#EUQMTC")} · {B("FARO")} Tue Sep 22, 19:00 · TableCheck {C("#C3SAA5")} (Rachel vegan course confirmed)'))
 
@@ -90,7 +91,7 @@ story.append(P('The Tokyo Station Hotel, 1-9-1 Marunouchi, Chiyoda-ku, Tokyo 100
                'Keep 3 nights of clothes in hand luggage (Takayama / Okuhida).'))
 
 story.append(P('KEY PHONES', sec))
-story.append(P('Nohi Bus (Takayama) 0577-32-1688 · Kutsuroginoya Yuu 0578-89-3345 · Udatsu 050-3550-5938 · Kyoya 0577-34-7660 · LE MiDi 0577-36-6386 · Tokyo Station Hotel +81 3-5220-1111'))
+story.append(P('Nohi Bus (Takayama) 0577-32-1688 · Kutsuroginoya Yuu 0578-89-3345 · Udatsu 050-3550-5938 · Kyoya 0577-34-7660 · LE MiDi 0577-36-6386 · Via Salaria 075-366-5361 · Tokyo Station Hotel +81 3-5220-1111'))
 story.append(P('CASH: World Heritage Bus to Ainokura 1,300 yen pp each way + Shiroyama shuttle = coins; 7-Eleven ATM on day one.', wstyle))
 
 doc = BaseDocTemplate('preflight-codes.pdf', pagesize=A4,
