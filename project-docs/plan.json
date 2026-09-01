@@ -33,18 +33,11 @@
  },
  "act_now": [
   {
-   "title": "N'EX Tokyo Stn → Narita T1, Wed Sep 23 ~11:30",
-   "deadline": "Now (holiday; free cancel to 21:00 Sep 22)",
-   "detail": "Eki-net, same account as the Azusa; ~¥3,250 pp. QR e-ticket or machine pickup at Tokyo Stn Sep 19–22.",
-   "link": "https://www.eki-net.com/en/jreast-train-reservation/Top/Index",
-   "leg": "tokyo-finale"
-  },
-  {
-   "title": "Udatsu Sushi — confirm final: 2 guests, 1 veg + 1 regular",
-   "deadline": "Chase by Wed Sep 2 if no reply",
-   "detail": "Restaurant replied Aug 31: their Vegetarian Course is 100% vegetables (perfect for Rachel) BUT their booking shows only 1 guest (veg course) while AutoReserve shows 2 guests (chef's selection). Reply drafted/sent asking them to register ONE reservation, 2 guests total: 1 × Vegetarian + 1 × regular Omakase, Sep 4 20:30. Awaiting their final confirmation — check before Friday; phone backup 050-3550-5938.",
+   "title": "Pick up N'EX paper tickets at Tokyo Station",
+   "deadline": "Sep 19–22 (you're staying inside the station)",
+   "detail": "Any JR East reserved-seat machine; QR in the Eki-net 'E48412' email or pickup code 20292476220521218. Seat + basic-fare tickets print together; must be issued before boarding on Sep 23.",
    "link": "",
-   "leg": "tokyo-front"
+   "leg": "tokyo-finale"
   },
   {
    "title": "Sumo resale watch — one day, any seat (Sep 20 or 21)",
@@ -101,7 +94,7 @@
   {
    "group": "Flights",
    "title": "El Al LY92 NRT T1 → TLV",
-   "detail": "Wed Sep 23 15:35 → 22:20. Holiday — be at NRT ~13:00; leave hotel ~11:00 by N'EX (book on Eki-net)."
+   "detail": "Wed Sep 23 15:35 → 22:20. Holiday — be at NRT ~13:00; N'EX booked: Tokyo 11:33 → T1 12:31 (E48412, car 3 seats 3-A/B)."
   },
   {
    "group": "Hotels",
@@ -170,8 +163,8 @@
   },
   {
    "group": "Trains & buses",
-   "title": "Sep 23 · N'EX Tokyo Stn → Narita T1",
-   "detail": "TO BOOK on Eki-net (same account as the Azusa). Target ~11:30 → T1 ~12:30. ~¥3,250 pp. Free cancel to 21:00 Sep 22."
+   "title": "Sep 23 · N'EX (Shinjuku) 21 Tokyo 11:33 → Narita T1 12:31",
+   "detail": "Eki-net res E48412 (member 411453331). Car 3, seats 3-A/3-B, ¥6,280 for 2 incl. basic fare (Mastercard …6051). ⚠ PAPER tickets — must be issued before boarding: JR East reserved-seat machine, QR in the E48412 email or pickup code 20292476220521218; pick up at Tokyo Stn Sep 19–22."
   },
   {
    "group": "Tickets & bookings",
@@ -181,7 +174,7 @@
   {
    "group": "Tickets & bookings",
    "title": "Udatsu Sushi · Fri Sep 4 20:30",
-   "detail": "2-48-10 Kamimeguro, Nakameguro. AutoReserve, name Aven Gur. Chef's selection ¥36,300 pp; ¥7,280 confirmation fee paid. Cancel ≤2 days = 100%. Tel 050-3550-5938, email reservations@udatsu-sushi.com. Confirm Rachel's vegetable omakase (2 days' notice) — NOT on the booking as of Aug 31."
+   "detail": "2-48-10 Kamimeguro, Nakameguro. AutoReserve, name Aven Gur. FINAL (restaurant email Sep 1): 2 guests, counter — 1 × Vegetarian Course (100% vegetables, no meat/fish/seafood) + 1 × regular Omakase (¥36,300 listed). Both courses paid AT the restaurant (no advance course payment; the ¥7,280 already paid was AutoReserve's confirmation fee). Cancel ≤2 days = 100%. Tel 050-3550-5938, email reservations@udatsu-sushi.com."
   },
   {
    "group": "Tickets & bookings",
@@ -1148,8 +1141,8 @@
          "address": "2-48-10 Kamimeguro, Meguro-ku, Tokyo 153-0051",
          "map": "https://www.google.com/maps/search/?api=1&query=Udatsu%20Sushi%20Kamimeguro",
          "hours": "Fri dinner 18:00–23:00 (L.O. 21:30)",
-         "price": "chef's selection ¥36,300 pp; veg course priced on booking",
-         "booking": "booked via AutoReserve; cancellation fee = listed course price if no-show; confirm veg course (2 days' notice) by Sep 2",
+         "price": "regular omakase ¥36,300; Vegetarian Course priced at the restaurant — both paid on the day",
+         "booking": "booked via AutoReserve; CONFIRMED Sep 1 by email: 2 guests, 1 Vegetarian Course + 1 regular Omakase; cancellation fee = listed course price if no-show",
          "phone": "050-3550-5938",
          "transit": "Nakameguro stn 5 min walk (Tōyoko line from Shibuya, 3 min, ¥160)",
          "veg": "vegetable omakase — must be pre-noted",
@@ -1269,8 +1262,8 @@
          "address": "2-48-10 Kamimeguro, Meguro-ku, Tokyo 153-0051",
          "map": "https://www.google.com/maps/search/?api=1&query=Udatsu%20Sushi%20Kamimeguro",
          "hours": "Fri dinner 18:00–23:00 (L.O. 21:30)",
-         "price": "chef's selection ¥36,300 pp; veg course priced on booking",
-         "booking": "booked via AutoReserve; cancellation fee = listed course price if no-show; confirm veg course (2 days' notice) by Sep 2",
+         "price": "regular omakase ¥36,300; Vegetarian Course priced at the restaurant — both paid on the day",
+         "booking": "booked via AutoReserve; CONFIRMED Sep 1 by email: 2 guests, 1 Vegetarian Course + 1 regular Omakase; cancellation fee = listed course price if no-show",
          "phone": "050-3550-5938",
          "transit": "Nakameguro stn 5 min walk (Tōyoko line from Shibuya, 3 min, ¥160)",
          "veg": "vegetable omakase — must be pre-noted",
@@ -1390,8 +1383,8 @@
          "address": "2-48-10 Kamimeguro, Meguro-ku, Tokyo 153-0051",
          "map": "https://www.google.com/maps/search/?api=1&query=Udatsu%20Sushi%20Kamimeguro",
          "hours": "Fri dinner 18:00–23:00 (L.O. 21:30)",
-         "price": "chef's selection ¥36,300 pp; veg course priced on booking",
-         "booking": "booked via AutoReserve; cancellation fee = listed course price if no-show; confirm veg course (2 days' notice) by Sep 2",
+         "price": "regular omakase ¥36,300; Vegetarian Course priced at the restaurant — both paid on the day",
+         "booking": "booked via AutoReserve; CONFIRMED Sep 1 by email: 2 guests, 1 Vegetarian Course + 1 regular Omakase; cancellation fee = listed course price if no-show",
          "phone": "050-3550-5938",
          "transit": "Nakameguro stn 5 min walk (Tōyoko line from Shibuya, 3 min, ¥160)",
          "veg": "vegetable omakase — must be pre-noted",
@@ -1435,17 +1428,17 @@
      "slot": "dinner",
      "name": "Udatsu Sushi (booked 20:30)",
      "why": "Booked anchor.",
-     "price": "¥36,300 pp chef's selection",
-     "booking": "booked (AutoReserve); veg course must be pre-noted",
+     "price": "regular omakase ¥36,300; Vegetarian Course priced at the restaurant",
+     "booking": "booked (AutoReserve); veg course CONFIRMED by email Sep 1 — 2 guests: 1 Vegetarian + 1 regular",
      "phone": "050-3550-5938",
-     "veg": "vegetable omakase",
+     "veg": "Vegetarian Course confirmed — 100% vegetables, no meat/fish/seafood",
      "status": "verified"
     }
    ],
    "notes": [
     "Toyosu is CLOSED Sunday — Friday is the day for it.",
     "teamLab: barefoot and knee-deep water — wear shorts; QR appears on DMM My Tickets after midnight.",
-    "Confirm Rachel's vegetable course with Udatsu by Sep 2 (2 days' notice).",
+    "Udatsu confirmed by email Sep 1: 2 guests, 1 Vegetarian Course + 1 regular Omakase — both paid at the restaurant on the night.",
     "Kama-Asa closes 17:30 — the Friday Kappabashi stop is a scout unless you take option B."
    ],
    "leg": "tokyo-front",
@@ -10687,8 +10680,8 @@
    "anchors": [
     {
      "time": "11:00",
-     "title": "Leave hotel → N'EX Tokyo → Narita T1",
-     "detail": "N'EX departs Tokyo ~11:33 (Sōbu underground platforms, Marunouchi side of the station — 5 min from the hotel lobby); ~55–60 min to Terminal 1. Book reserved seats on Eki-net now (window opened Aug 23; free cancel till 21:00 Sep 22).",
+     "title": "Leave hotel → N'EX Tokyo 11:33 → Narita T1 12:31 (BOOKED — E48412)",
+     "detail": "N'EX (Shinjuku) 21, Sōbu underground platforms, Marunouchi side of the station — 5 min from the hotel lobby. Car 3, seats 3-A/3-B, ¥6,280 for 2 incl. basic fare. Paper tickets picked up Sep 19–22 (QR / code 20292476220521218) — must be issued before boarding.",
      "address": "Tokyo Station Sobu underground platforms",
      "map": "https://www.google.com/maps/search/?api=1&query=Tokyo+Station+Narita+Express+platform",
      "phone": ""
@@ -10792,17 +10785,17 @@
         },
         {
          "time": "11:15",
-         "title": "N'EX Tokyo → Narita T1 (≈11:33 dep, ≈12:30 arr)",
+         "title": "N'EX (Shinjuku) 21 Tokyo 11:33 → Narita T1 12:31 (booked)",
          "why": "Sōbu underground platforms are on the Marunouchi side — the hotel side.",
          "address": "Tokyo Station",
          "map": "https://www.google.com/maps/search/?api=1&query=Tokyo+Station+Marunouchi+South+Exit",
-         "hours": "N'EX roughly every 30 min",
-         "price": "≈¥3,070 pp ordinary reserved (inferred)",
-         "booking": "Eki-net (JR East) — reserve now; pickup by QR/e-ticket or at a reserved-seat machine with the booking card",
+         "hours": "dep 11:33, arr 12:31",
+         "price": "¥6,280 for 2 incl. basic fare (paid)",
+         "booking": "Eki-net res E48412, car 3 seats 3-A/3-B — paper tickets issued Sep 19–22 (QR / code 20292476220521218)",
          "phone": "",
-         "transit": "N'EX 55–60 min",
+         "transit": "N'EX 58 min",
          "veg": "",
-         "status": "verified (Eki-net rules) / fare and exact departure inferred",
+         "status": "verified",
          "source": "https://real-japan-guide.com/jr-east-train-reservation-eki-net-english-2026/"
         }
        ],
@@ -10993,7 +10986,7 @@
    ],
    "notes": [
     "Autumnal Equinox holiday: Daimaru opens 10:00, Gransta 08:00; East Gardens open (closed yesterday).",
-    "Reserve N'EX seats on Eki-net now — holiday demand; free cancellation until 21:00 the day before.",
+    "N'EX booked (E48412, car 3 seats 3-A/B, ¥6,280 for 2) — paper tickets must be issued before boarding; pick up at a Tokyo Stn machine Sep 19–22 (QR / code 20292476220521218).",
     "Ron Mueck's last day is today — not doable on this timeline."
    ],
    "leg": "tokyo-finale",

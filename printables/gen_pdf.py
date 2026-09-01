@@ -28,7 +28,7 @@ NEX = "N'EX"
 story = []
 story.append(P('JAPAN 2026 - BOOKING CODES &amp; PICKUP SHEET',
                ParagraphStyle('t', fontName='Helvetica-Bold', fontSize=12.5, leading=14, textColor=ink)))
-story.append(P("Gur &amp; Rachel  ·  Sep 3-23  ·  compiled Aug 31 (N'EX pending)  ·  live plan: Trip Desk artifact on claude.ai",
+story.append(P("Gur &amp; Rachel  ·  Sep 3-23  ·  compiled Sep 1 — all transport booked  ·  live plan: Trip Desk artifact on claude.ai",
                ParagraphStyle('st', fontName='Helvetica', fontSize=7.2, leading=9, textColor=mut, spaceAfter=4)))
 
 story.append(P('FLIGHTS', sec))
@@ -38,13 +38,15 @@ story.append(P(f'{B("ANA NH984")} Thu Sep 10, CTS 13:45 &gt; ITM 15:40 · ref {C
 story.append(P(f'{B("El Al LY92")} Wed Sep 23, NRT T1 15:35 &gt; TLV 22:20 · PNR {C("YJ5PON")} · at NRT ~13:00 (holiday)'))
 story.append(P('Check ANA Manage Booking shows 2 bags pp - add online if 1PC.', wstyle))
 
-story.append(P('TRAINS - PAPER-TICKET PICKUPS (the two that bite)', sec))
+story.append(P('TRAINS - PAPER-TICKET PICKUPS (the three that bite)', sec))
 story.append(P(f'{B("Azusa 42")} Sat Sep 19, Matsumoto 15:10 &gt; Shinjuku 18:04 · car 5, seats 1-A/B · Eki-net {C("E37835")}<br/>'
                f'PICK UP in Tokyo {B("Sep 3-6")}, any JR East reserved-seat machine · QR / code {C("29372419579521238")}<br/>'
                'Ticket valid through to Tokyo Stn: stay inside gates at Shinjuku, Chuo rapid onward.'))
 story.append(P(f'{B("Hida 7")} Wed Sep 16, Nagoya 10:48 &gt; Takayama 13:12 · car 8, seats 9-C/D · e5489 {C("45760")}, receipt {C("AEC9782M")}<br/>'
                f'PICK UP at Osaka/Shin-Osaka {B("Sep 14-15")}, JR-West green machine outside gates.'))
 story.append(P('Needs the PHYSICAL Mastercard ...1969 in the machine + your 4-digit ID. Pack that card!', wstyle))
+story.append(P(f'{B(NEX + " (Shinjuku) 21")} Wed Sep 23, Tokyo 11:33 &gt; Narita T1 12:31 · car 3, seats 3-A/B · Eki-net {C("E48412")} · ¥6,280 for 2 incl. basic fare (paid)<br/>'
+               f'PICK UP at Tokyo Stn {B("Sep 19-22")} (staying inside the station) · QR in the E48412 email / code {C("20292476220521218")} · must be issued before boarding.'))
 
 story.append(P('TRAINS &amp; BUSES - APP / EMAIL TICKETS', sec))
 story.append(P(f'{B("Nozomi 84")} Wed Sep 16, Shin-Osaka 09:24 &gt; Nagoya 10:13 · car 14, seats 2-D/E · Smart-EX res {C("2001")} · QR at gate (app/email)'))
@@ -52,7 +54,6 @@ story.append(P(f'{B("Shirakawa-go bus OUT")} Thu Sep 17, Takayama Nohi BC 07:50 
 story.append(P(f'{B("Shirakawa-go bus BACK")} Thu Sep 17, 16:35 &gt; Takayama 17:25 · res {C("08312035491")} · car 01, seats 7A/B'))
 story.append(P('The JapanBusOnline EMAILS are the tickets - print both + screenshot; show to driver. No counter exchange.', wstyle))
 story.append(P(f'{B("Hirayu &gt; Matsumoto bus")} Sat Sep 19, 12:55 &gt; 14:23 · highwaybus.com {C("185319539")} · bus 1, seats 03A/B · MOBILE ticket: screenshot email · at terminal 12:35 · cancel online only until 11:20'))
-story.append(P(f'{B(NEX)} Wed Sep 23, Tokyo ~11:33 &gt; NRT T1 12:31 - {B("TO BOOK")} on Eki-net (write res here: ______________ )'))
 
 story.append(P('HOTELS - ALL ON KLOOK', sec))
 hotel_rows = [
@@ -79,7 +80,7 @@ story.append(P('Screenshot each voucher in the Klook app. Kutsuroginoya = Hitoeg
 
 story.append(P('TICKETS &amp; RESTAURANTS', sec))
 story.append(P(f'{B("teamLab Planets")} Fri Sep 4, 11:00-11:30 entry · QR appears on {B("DMM My Tickets")} after 00:00 Sep 4 - the email does NOT admit. Barefoot + knee-deep water: shorts.'))
-story.append(P(f'{B("Udatsu Sushi")} Fri Sep 4, 20:30 · AutoReserve, name Aven Gur · veg omakase for Rachel requested by email Aug 31 (reservations@udatsu-sushi.com) · tel 050-3550-5938'))
+story.append(P(f'{B("Udatsu Sushi")} Fri Sep 4, 20:30 · AutoReserve, name Aven Gur · CONFIRMED Sep 1: 2 guests, 1 Vegetarian Course + 1 regular Omakase, both paid at the restaurant · tel 050-3550-5938'))
 story.append(P(f'{B("LE MiDi")} Wed Sep 16, 19:00 (kitchen closes 20:30 - be on time) · {B("Kyoya")} Thu Sep 17, 19:00 · both AutoReserve, fees paid'))
 story.append(P(f'{B("IRORIYA")} Sun Sep 20, 19:00 · TableCheck {C("#EUQMTC")} · {B("FARO")} Tue Sep 22, 19:00 · TableCheck {C("#C3SAA5")} (Rachel vegan course confirmed)'))
 
@@ -99,5 +100,5 @@ f2 = Frame(M + colw + GUT, M, colw, H - 2 * M, leftPadding=0, rightPadding=0, to
 doc.addPageTemplates([PageTemplate(id='two', frames=[f1, f2])])
 doc.build(story)
 
-from pypdf import PdfReader
-print('pages:', len(PdfReader('preflight-codes.pdf').pages))
+import re as _re
+print("pages:", len(_re.findall(rb"/Type\s*/Page[^s]", open("preflight-codes.pdf","rb").read())))

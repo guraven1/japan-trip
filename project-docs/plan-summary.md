@@ -12,11 +12,11 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 
 ## Fri 2026-09-04 — Tokyo · front · Tokyo · Shibuya Stream Hotel
 - ⏰ 11:00 teamLab Planets TOKYO — Entry window 11:00–11:30; QR on DMM My Tickets after 00:00 Sep 4. Shin-Toyosu (Yurikamome) 1 min.
-- ⏰ 20:30 Udatsu Sushi — AutoReserve booking; vegetable omakase for Rachel needs 2 days' notice — confirm by Sep 2. Fri dinner 18:00–23:00 (L.O. 21:30).
+- ⏰ 20:30 Udatsu Sushi — AutoReserve booking; CONFIRMED Sep 1 by email: 2 guests, 1 Vegetarian Course (100% vegetables) + 1 regular Omakase, both paid at the restaurant. Fri dinner 18:00–23:00 (L.O. 21:30).
   - A [**DEFAULT**] Toyosu morning → teamLab → Kiyosumi-Shirakawa coffee → Kuramae → (Kappabashi scout) → Udatsu: Toyosu Market → Senkyaku Banrai → teamLab Planets TOKYO → Kiyosumi-Shirakawa → Kuramae → Kappabashi scout → Ginza line Tawaramachi → Shibuya → Tōyoko to Nakameguro; river walk → Udatsu Sushi — booking none
   - B [alt] teamLab → HOTALUNA boat Odaiba→Asakusa → Kappabashi proper → Udatsu: Lie-in, leave 10:00 → teamLab Planets TOKYO → Yurikamome to Odaiba-Kaihinkōen; lunch at Aqua City / Decks → HOTALUNA Odaiba Seaside Park → Asakusa → Kappabashi → Fuglen Asakusa → Udatsu Sushi — booking light by 2026-09-03: HOTALUNA boat 14:25 — online the day before (same-day first-come also possible)
   - C [rainy] teamLab → Roppongi art triangle (Ron Mueck / Picasso×Paul Smith / 21_21) → Udatsu: teamLab Planets TOKYO → Taxi/Ōedo line to Roppongi; lunch at Roppongi Hills → Ron Mueck → National Art Center → 21_21 DESIGN SIGHT → Taxi / Hibiya→Nakameguro; pre-dinner drink riverside → Udatsu Sushi — booking light by 2026-09-04: Ron Mueck timed ticket — same-day online is fine on a weekday
-- Gotchas: Toyosu is CLOSED Sunday — Friday is the day for it. · teamLab: barefoot and knee-deep water — wear shorts; QR appears on DMM My Tickets after midnight. · Confirm Rachel's vegetable course with Udatsu by Sep 2 (2 days' notice). · Kama-Asa closes 17:30 — the Friday Kappabashi stop is a scout unless you take option B.
+- Gotchas: Toyosu is CLOSED Sunday — Friday is the day for it. · teamLab: barefoot and knee-deep water — wear shorts; QR appears on DMM My Tickets after midnight. · Udatsu confirmed by email Sep 1: 2 guests, 1 Vegetarian Course + 1 regular Omakase — both paid at the restaurant on the night. · Kama-Asa closes 17:30 — the Friday Kappabashi stop is a scout unless you take option B.
 
 ## Sat 2026-09-05 — Tokyo · front · Tokyo · Shibuya Stream Hotel
 - ⏰ 19:30 The SG Club (conf HLCCCM) — 1-7-8 Jinnan; Sat 17:00–03:00; 8 min walk from hotel. Eat 17:30–19:00 nearby.
@@ -188,16 +188,15 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 - Gotchas: East Gardens and Nezu Museum CLOSED today (substitute closure) — don't plan them. · Ginza Bar High Five / Star Bar are open Tue if you prefer a classic counter to a rooftop. · Sunset 17:37; blue hour 17:45–18:15.
 
 ## Wed 2026-09-23 — Tokyo · finale · Tokyo · The Tokyo Station Hotel (Marunouchi) → Narita
-- ⏰ 11:00 Leave hotel → N'EX Tokyo → Narita T1 — N'EX departs Tokyo ~11:33 (Sōbu underground platforms, Marunouchi side of the station — 5 min from the hotel lobby); ~55–60 min to Terminal 1. Book reserved seats on Eki-net now (window opened Aug 23; free cancel till 21:00 Sep 22).
+- ⏰ 11:00 Leave hotel → N'EX Tokyo 11:33 → Narita T1 12:31 (BOOKED — E48412) — N'EX (Shinjuku) 21, Sōbu underground platforms, Marunouchi side of the station — 5 min from the hotel lobby. Car 3, seats 3-A/3-B, ¥6,280 for 2 incl. basic fare. Paper tickets picked up Sep 19–22 (QR / code 20292476220521218) — must be issued before boarding.
 - ⏰ 15:35 LY92 Narita → Tel Aviv — Terminal 1; be at check-in by 12:45.
   - A [**DEFAULT**] Palace loop walk → East Gardens 09:00 → Daimaru depachika / Gransta → 10:45 checkout → N'EX: Imperial Palace outer loop → Breakfast: The Atrium → East Gardens via Ōte-mon → Daimaru Tokyo B1 depachika + Gransta → Checkout → N'EX Tokyo → Narita T1 — booking none
   - B [alt] Marunouchi Naka-dōri → Tokyo Station Gallery 10:00 → Daimaru → N'EX: Marunouchi Naka-dōri public art walk → KITTE 6F roof garden → Tokyo Station Gallery → Daimaru / Gransta as A → N'EX as A — booking none
   - C [alt] Tsukiji Outer Market breakfast → back by 10:15 → N'EX: Taxi to Tsukiji Outer Market → Taxi back, pack → Checkout → N'EX as A — booking none
-- Gotchas: Autumnal Equinox holiday: Daimaru opens 10:00, Gransta 08:00; East Gardens open (closed yesterday). · Reserve N'EX seats on Eki-net now — holiday demand; free cancellation until 21:00 the day before. · Ron Mueck's last day is today — not doable on this timeline.
+- Gotchas: Autumnal Equinox holiday: Daimaru opens 10:00, Gransta 08:00; East Gardens open (closed yesterday). · N'EX booked (E48412, car 3 seats 3-A/B, ¥6,280 for 2) — paper tickets must be issued before boarding; pick up at a Tokyo Stn machine Sep 19–22 (QR / code 20292476220521218). · Ron Mueck's last day is today — not doable on this timeline.
 
 ## Must-do list (checklist on the page)
-- N'EX Tokyo Stn → Narita T1, Wed Sep 23 ~11:30 — Now (holiday; free cancel to 21:00 Sep 22)
-- Udatsu Sushi — confirm final: 2 guests, 1 veg + 1 regular. Restaurant replied Aug 31 (veg course = 100% vegetables ✓) but shows only 1 guest vs AutoReserve's 2; reply sent asking to register one reservation, 2 guests total. Chase by Sep 2; phone backup 050-3550-5938.
+- Pick up N'EX paper tickets at Tokyo Station — Sep 19–22 (you're staying inside the station). Any JR East reserved-seat machine; QR in the Eki-net 'E48412' email or pickup code 20292476220521218; must be issued before boarding Sep 23.
 - Sumo resale watch — one day, any seat (Sep 20 or 21) — Daily until Sep 19/20 (calendar reminder set)
 - Email The Tokyo Station Hotel about the takkyūbin bags — Sun Sep 13 (calendar reminder set)
 - Pick up Hida 7 paper tickets at Osaka / Shin-Osaka — Sep 14–15 (calendar reminder set)
@@ -208,7 +207,7 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 - **El Al LY91 TLV → NRT** — Wed Sep 2 19:45 → Thu Sep 3 13:20 (T1). PNR YJ5PON (both); Gur also YFYDLE. Premium, 2 bags pp.
 - **ANA NH59 HND T2 → CTS** — Mon Sep 7 10:00 → 11:35. Ref FMSXWA. Leave Shibuya Stream 07:45 (Yamanote → Shinagawa → Keikyū, ~40 min). Bag drop closes 09:30. E-ticket shows 1PC baggage — check Manage Booking; add 2nd piece online if flying with 2 bags each.
 - **ANA NH984 CTS → ITM** — Thu Sep 10 13:45 → 15:40. Ref DHYPIM. Bag drop closes 13:15. Then Hankyu limousine bus → Kyoto Stn (~55 min, every 30 min).
-- **El Al LY92 NRT T1 → TLV** — Wed Sep 23 15:35 → 22:20. Holiday — be at NRT ~13:00; leave hotel ~11:00 by N'EX (book on Eki-net).
+- **El Al LY92 NRT T1 → TLV** — Wed Sep 23 15:35 → 22:20. Holiday — be at NRT ~13:00; N'EX booked: Tokyo 11:33 → T1 12:31 (E48412, car 3 seats 3-A/B).
 - **Shibuya Stream Hotel · Sep 3–7** — Klook PBZ943404. Standard Double, room only. Connected to Shibuya Stn. Non-refundable after Sep 2 22:00 JST.
 - **Sapporo Stream Hotel · Sep 7–9** — Klook KGG392117. Superior Double, atop COCONO Susukino. Free cancel to Sep 4 21:59 JST. Check-in 15:00 / out 11:00. No own parking (COCONO lot ¥2,000/night).
 - **Takinoya, Noboribetsu · Sep 9** — Klook JFN966234. 1 Japanese-style room for 4, kaiseki + breakfast. NON-REFUNDABLE. Vegan (Tamar) + vegetarian (Rachel) confirmed Aug 29. Check-in from 14:00, out by 11:00. Confirm dinner seating (aim 18:00).
@@ -222,9 +221,9 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 - **Sep 17 · Shirakawa-gō express bus** — BOTH LEGS booked & paid on japanbusonline (Nohi Bus, ¥5,600 for 2 each way). OUT: 07:50 → 08:40, res 08312001231, car 01 seats 11A/11B. RETURN: 16:35 → 17:25, res 08312035491, car 01 seats 7A/7B; free cancel to 13:45 JST on the day. E-tickets = the two confirmation emails (Aug 30 & Aug 31) — print them or show on phone to the driver; no counter exchange.
 - **Sep 19 · Bus Hirayu 12:55 → Matsumoto BT 14:23** — highwaybus.com res 185319539. Bus 1, seats 03A/03B, ¥6,000 for 2. MOBILE TICKET — screenshot the email; show at boarding. Cancel online only until 11:20 that day. Be at Hirayu terminal 12:35.
 - **Sep 19 · Azusa 42 Matsumoto 15:10 → Shinjuku 18:04** — Eki-net res E37835. Car 5, seats 1-A/1-B, ¥13,460 for 2. ⚠ PAPER tickets: pick up at any JR East reserved-seat machine in Tokyo Sep 3–6 with QR / code 29372419579521238. Ticket valid to Tokyo Stn: at Shinjuku stay inside the gates, Chūō rapid to Tokyo.
-- **Sep 23 · N'EX Tokyo Stn → Narita T1** — TO BOOK on Eki-net (same account as the Azusa). Target ~11:30 → T1 ~12:30. ~¥3,250 pp. Free cancel to 21:00 Sep 22.
+- **Sep 23 · N'EX (Shinjuku) 21 Tokyo 11:33 → Narita T1 12:31** — Eki-net res E48412 (member 411453331). Car 3, seats 3-A/3-B, ¥6,280 for 2 incl. basic fare (Mastercard …6051). ⚠ PAPER tickets — must be issued before boarding: JR East reserved-seat machine, QR in the E48412 email or pickup code 20292476220521218; pick up at Tokyo Stn Sep 19–22.
 - **teamLab Planets · Fri Sep 4 11:00–11:30** — DMM My Tickets QR (appears after 00:00 Sep 4; the email alone does not admit). Adults ×2, ¥9,200 paid. Change date/time up to 3× on My Tickets, ≥2 h before entry. No refunds.
-- **Udatsu Sushi · Fri Sep 4 20:30** — 2-48-10 Kamimeguro, Nakameguro. AutoReserve, name Aven Gur. Chef's selection ¥36,300 pp; ¥7,280 confirmation fee paid. Cancel ≤2 days = 100%. Tel 050-3550-5938, email reservations@udatsu-sushi.com. Confirm Rachel's vegetable omakase (2 days' notice) — NOT on the booking as of Aug 31.
+- **Udatsu Sushi · Fri Sep 4 20:30** — 2-48-10 Kamimeguro, Nakameguro. AutoReserve, name Aven Gur. FINAL (restaurant email Sep 1): 2 guests, counter — 1 × Vegetarian Course (100% vegetables) + 1 × regular Omakase (¥36,300 listed). Both courses paid AT the restaurant (the ¥7,280 already paid was AutoReserve's confirmation fee). Cancel ≤2 days = 100%. Tel 050-3550-5938, email reservations@udatsu-sushi.com.
 - **The SG Club (Sip, B1) · Sat Sep 5 19:30** — 1-7-8 Jinnan, Shibuya. TableCheck conf HLCCCM. Seat-only, free cancel. 15 min late = may cancel; 90-min limit when busy.
 - **Sōjiki Nakahigashi · Fri Sep 11 18:00** — Near Ginkaku-ji. Pocket Concierge #885962, PREPAID ¥31,460. Veg note on file (fish dashi unavoidable). Changes after 18:00 Sep 10 by phone only: 075-752-3500. Smart casual.
 - **Hikiniku to Come · Sat Sep 12 12:45 check-in** — 363 Kiyomoto-chō, Higashiyama. TableCheck #RQAM9V, PREPAID ¥5,960. Show the number at the door; 10 min late = auto-cancel; expect a wait after check-in.
