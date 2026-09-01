@@ -14,3 +14,4 @@
 - Only booked/verified activities are approved; rest of the daily itinerary is tentative until Gur signs off — wants ≥3 options per day, then calendar events + a mobile trip page (decided Aug 30)
 - Use Google Calendar for all calendar-related actions without needing to confirm
 - Decision Aug 31: dropped the Osaka night helicopter (Sep 15) — overly pricey, not that exciting. Sep 15 evening freed: dinner moves earlier (Yugen 19:30 now viable); no heliport logistics.
+- Future-trip wishlist (Sep 1): Nakasendo trail Magome→Tsumago + Kiso Valley — deliberately left out of this trip (only near-miss day Sep 16 is fully committed); pair with Matsumoto castle on a future itinerary.
