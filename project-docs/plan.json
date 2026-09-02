@@ -194,7 +194,7 @@
   {
    "group": "Tickets & bookings",
    "title": "Enoteca Via Salaria · Sun Sep 13 19:00",
-   "detail": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku (near Tōfuku-ji). TableCheck, 2 pax, 9-dish course ¥9,680 pp + 10% service = ¥21,296 at venue; wine pairing requested: small amount, premium (list ¥8,400 pp). Rachel noted vegetarian (not strict). Same-day cancel = 100%; 15 min late may cancel. Tel 075-366-5361; manage https://tblc.hk/rSFWL9D."
+   "detail": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku (near Tōfuku-ji). TableCheck, 2 pax, 9-dish course ¥9,680 pp + 10% service = ¥21,296 at venue; wine pairing requested: small amount, premium (list ¥8,400 pp). Rachel noted vegetarian (not strict) — chef Shinya Sakai emailed Sep 2: regular course adjusted to be vegetarian-friendly; confirmed dairy/eggs/chicken & beef broth all OK. Same-day cancel = 100%; 15 min late may cancel. Tel 075-366-5361, email 1101salaria@gmail.com; manage https://tblc.hk/rSFWL9D."
   },
   {
    "group": "Tickets & bookings",
@@ -380,7 +380,7 @@
   },
   {
    "title": "Enoteca Via Salaria (Sep 13, 19:00)",
-   "detail": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku 605-0994 · booked via TableCheck, 2 pax, ¥9,680 course + pairing · same-day cancel 100%",
+   "detail": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku 605-0994 · booked via TableCheck, 2 pax, ¥9,680 course + pairing · same-day cancel 100% · email 1101salaria@gmail.com (chef Shinya Sakai)",
    "map": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Via%20Salaria%20Kyoto",
    "phone": "075-366-5361",
    "leg": "kyoto"
@@ -5430,7 +5430,7 @@
     {
      "time": "19:00",
      "title": "Dinner — Enoteca Via Salaria (booked, TableCheck)",
-     "detail": "Italian wine-pairing dinner in Higashiyama (near Tōfuku-ji, NOT Gion). 2 pax, 9-dish course ¥9,680 pp + 10% service (¥21,296 at venue); pairing requested: small amount, premium wines (list ¥8,400 pp). Rachel noted vegetarian (not strict) on the booking. Same-day cancel 100%; call if >15 min late. From the Bon Odori at Kitano Tenmangū allow ~35 min by taxi — leave by 18:15 (travel time inferred).",
+     "detail": "Italian wine-pairing dinner in Higashiyama (near Tōfuku-ji, NOT Gion). 2 pax, 9-dish course ¥9,680 pp + 10% service (¥21,296 at venue); pairing requested: small amount, premium wines (list ¥8,400 pp). Chef confirmed (Sep 2) a vegetarian-friendly version of the regular course for Rachel — dairy, eggs, chicken/beef broth all OK. Same-day cancel 100%; call if >15 min late. From the Bon Odori at Kitano Tenmangū allow ~35 min by taxi — leave by 18:15 (travel time inferred).",
      "address": "29-15 Ichinohashi Miyanouchi-cho, Higashiyama-ku, Kyoto 605-0994",
      "map": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Via%20Salaria%20Kyoto",
      "phone": "075-366-5361"
@@ -5882,7 +5882,7 @@
      "price": "¥9,680 pp course + 10% service + pairing (small/premium, list ¥8,400 pp)",
      "booking": "booked — TableCheck (https://tblc.hk/rSFWL9D); same-day cancel 100%",
      "phone": "075-366-5361",
-     "veg": "vegetarian (not strict) noted on the booking",
+     "veg": "vegetarian-friendly version of the regular course confirmed by the chef (Sep 2); dairy, eggs, chicken/beef broth OK",
      "status": "verified"
     },
     {
