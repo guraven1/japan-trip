@@ -386,6 +386,20 @@
    "leg": "kyoto"
   },
   {
+   "title": "K36 The Bar & Rooftop (Sep 12 option)",
+   "detail": "The Hotel Seiryu Kyoto Kiyomizu, Higashiyama (beside Yasaka pagoda) · rooftop first-come, no outside reservations, closed in rain · ~15:00–24:00 · smart casual",
+   "map": "https://www.google.com/maps/search/?api=1&query=K36%20The%20Bar%20Rooftop%20Hotel%20Seiryu%20Kyoto",
+   "phone": "",
+   "leg": "kyoto"
+  },
+  {
+   "title": "Cave de K (Sep 12 option)",
+   "detail": "Nishida's champagne/wine bar near the Ritz-Carlton, Kiyamachi–Nijō · 11:00–24:00 · reservations recommended, walk-in if space",
+   "map": "https://www.google.com/maps/search/?api=1&query=Cave%20de%20K%20Kyoto",
+   "phone": "",
+   "leg": "kyoto"
+  },
+  {
    "title": "Hotel Royal Classic Osaka",
    "detail": "Klook EEV842685 · 4-3-3 Namba, Chuo-ku, Osaka 542-0076 (Kengo Kuma building on the old Shin-Kabukiza site, Nankai/Midōsuji Namba 2 min) · check-in 15:00 / out 11:00 (inferred) · luggage to desk 08:30 Sep 15 for takkyūbin to The Tokyo Station Hotel (Klook YTX109746, arr Sep 19)",
    "map": "https://www.google.com/maps/search/?api=1&query=Hotel%20Royal%20Classic%20Osaka%20Namba",
@@ -5363,13 +5377,34 @@
      "phone": "050-5457-0541",
      "veg": "vegan",
      "status": "verified"
+    },
+    {
+     "slot": "aperitif (optional)",
+     "name": "K36 The Bar & Rooftop — The Hotel Seiryu Kyoto Kiyomizu",
+     "why": "OPTION, not planned: Minoru Nishida-supervised rooftop beside the Yasaka pagoda — best sunset view in Kyoto (sunset ≈18:05 on Sep 12); it sits on the Kōdai-ji → Yasaka stretch of option A. Be up by ~17:15 to beat the golden-hour queue.",
+     "price": "cocktails ≈¥2,000–3,000 (inferred)",
+     "booking": "Rooftop: NO reservations for non-hotel-guests — first-come; closes in rain. Indoor bar bookable (AutoReserve). Smart casual. Sep hours ~15:00–24:00.",
+     "phone": "",
+     "veg": "n/a (drinks; light snacks)",
+     "status": "partly verified (hotel site: rooftop guest-only reservations, hours) / prices inferred"
+    },
+    {
+     "slot": "nightcap (optional)",
+     "name": "Cave de K — champagne & wine bar (Kiyamachi–Nijō, near the Ritz-Carlton)",
+     "why": "OPTION, not planned: Nishida's wine bar — magnum champagne by the glass, European wines, cheese, Ibérico, patisserie. Natural swap for Bar K6 as the nightcap (same owner, same neighbourhood as L'Escamoteur); the cheese/dessert plates also work as a light dinner for Rachel if Tenshō is skipped.",
+     "price": "by the glass ≈¥1,500–4,000; plates ≈¥1,500–3,000 (inferred)",
+     "booking": "Reservations recommended (Tabelog or phone), walk-in if space. 11:00–24:00. Decide on the day or the day before.",
+     "phone": "",
+     "veg": "cheese, desserts, some plates — ham/charcuterie is not",
+     "status": "partly verified (50 Best / Star Wine List / Tabelog listing) / prices inferred"
     }
    ],
    "notes": [
     "Hikiniku: 10 min late = auto-cancel of a prepaid ¥5,960 — be at the door 12:40.",
     "Kōdai-ji is ¥800 (not ¥600) in 2026.",
     "L'Escamoteur takes no reservations; go before 21:00 or expect a queue.",
-    "Night Market Sat 16:00–23:00 / Sun 15:00–22:00, held in rain."
+    "Night Market Sat 16:00–23:00 / Sun 15:00–22:00, held in rain.",
+    "Bar options written down Sep 2, undecided: K36 rooftop (Seiryu, Yasaka pagoda) at ~17:15 for sunset — no reservations for outsiders, weather-dependent; and Cave de K (Nishida's champagne bar, Kiyamachi–Nijō) as a reservable nightcap in place of Bar K6. If both: K36 17:15 → dinner → Cave de K ~21:30, and let L'Escamoteur go. Not to-dos — decide on the day."
    ],
    "leg": "kyoto",
    "base": "Kyoto · HOTEL RINGS KYOTO (Nakagyō)"
