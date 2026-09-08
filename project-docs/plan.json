@@ -33,9 +33,9 @@
  },
  "act_now": [
   {
-   "title": "Get the Sep 9 charter confirmed + brief the driver (Klook VQR223298)",
-   "deadline": "Today, Sep 8 (fallback decision by 07:30 Sep 9)",
-   "detail": "Status was 'Confirming' at booking. In the Klook chat send: pick-up 08:30 Sapporo Stream Hotel, 4 pax + 4 suitcases, route Nakayama Pass → Nishiyama craters → Usuzan Ropeway → Tōyako Onsen lunch → Lake Kuttara → drop-off Takinoya, Noboribetsu Onsen ~16:15 (one-way, no return); ask if a drop-off surcharge applies. If not confirmed by 07:30 tomorrow: Dōnan Bus 'Kōsoku Onsen-gō' ~10:00 from the Sapporo Station bus terminal counter, or JR ltd express + local bus. Rental car: cancelled (no IDPs)."
+   "title": "Brief the Sep 9 driver in the Klook chat (VQR223298 — confirmed)",
+   "deadline": "Tonight, Sep 8",
+   "detail": "Confirmed. Open the voucher PDF for the pick-up time / operator phone. In the Klook chat send: pick-up 08:30 Sapporo Stream Hotel lobby, 4 pax + 4 suitcases, route Nakayama Pass → Nishiyama craters → Usuzan Ropeway → Tōyako Onsen lunch → Lake Kuttara → drop-off Takinoya, Noboribetsu Onsen ~16:15 (one-way, no return to Sapporo); ask whether a drop-off surcharge applies. Bring ~¥8,000 cash for tolls/parking/ropeway; overtime ¥3,000 per 30 min cash. Rental car: cancelled (no IDPs)."
   },
   {
    "title": "Pick up N'EX paper tickets at Tokyo Station",
@@ -239,7 +239,7 @@
   {
    "group": "Logistics",
    "title": "Chartered car + driver · Wed Sep 9 (Sapporo → Tōya → Noboribetsu)",
-   "detail": "Klook booking VQR223298 — 'Hokkaido Car Rental with Driver', Japanese driver, Sapporo suburb/other area, 10 hours, 1 vehicle (1–9 pax). ₪1,409.35 paid (≈¥62,000, inferred). Pick-up Sapporo Stream Hotel 08:30 (time to be agreed in the Klook chat). Status at booking (Sep 8 10:42): 'Confirming booking' — operator confirmation pending. Cancellation window closed 2026-09-02 00:00 JST (non-refundable unless the operator declines). Excludes tolls, parking, entry fees, driver meals. Mobile voucher. Rental car (Tamar's group) cancelled Sep 8 — no valid IDPs."
+   "detail": "Klook booking VQR223298 (order 5584856647) — 'Hokkaido Car Rental with Driver to Sapporo Urban/Sapporo Suburb', Japanese driver, Sapporo suburb/other area, 10 hours, 1 vehicle (1–9 pax). ₪1,409.35 paid (≈¥62,000, inferred). CONFIRMED Sep 8 10:56 JST — voucher PDF attached to the Klook email ('You're on your way! Booking VQR223298 confirmed'); present the mobile voucher; valid only on Sep 9. Pick-up Sapporo Stream Hotel (driver holds a name sign); pick-up time to confirm in the Klook chat (08:30). No refund for latecomers/no-shows. Overtime ¥3,000 per half hour (max 2 h), cash to the driver. Excludes tolls, parking, entry fees. Cancellation window closed 2026-09-02. Rental car (Tamar's group) cancelled Sep 8 — no valid IDPs."
   }
  ],
  "reference": [
@@ -3604,11 +3604,11 @@
    "anchors": [
     {
      "time": "08:30",
-     "title": "Chartered car with driver — pick-up at Sapporo Stream Hotel (Klook VQR223298, 10 h, up to 9 pax)",
-     "detail": "Booked Sep 8, ₪1,409.35 (≈¥62,000, inferred) per vehicle; status 'Confirming' at booking — Klook will notify when the operator confirms (no free cancellation: the window closed Sep 2; auto-refund only if the operator declines). 10 h charter = 08:30–18:30; plan to be dropped at Takinoya ~16:15. Message the operator via Klook chat with the route (Nakayama Pass → Nishiyama craters → Usuzan Ropeway → Tōya lunch → Lake Kuttara → Takinoya, Noboribetsu Onsen — one-way, no return to Sapporo) and ask whether the out-of-town drop-off carries a surcharge. Tolls, parking (~¥1,500 total) and entry fees are NOT included — cash on the day. Fallback if not confirmed by ~07:30: Dōnan Bus 'Kōsoku Onsen-gō' ~10:00 from Sapporo Station bus terminal (buy at the counter), or JR ltd express + local bus.",
+     "title": "Chartered car with driver — pick-up at Sapporo Stream Hotel (Klook VQR223298 CONFIRMED, 10 h, up to 9 pax)",
+     "detail": "CONFIRMED by Klook Sep 8 10:56 JST (voucher PDF in the email; mobile voucher, valid only on Sep 9). Order 5584856647, ₪1,409.35 paid (≈¥62,000, inferred) per vehicle. Driver holds a sign with the lead traveller's name (Gur Aven) at the pick-up; be on time — no refund for latecomers/no-shows. 10 h charter: 08:30–18:30; plan to be dropped at Takinoya ~16:15. Overtime ¥3,000 per half hour, max 2 h, cash to the driver. Tolls, parking and entry fees are not included — cash on the day. Pick-up TIME is not in the email: check the voucher PDF / Klook chat and confirm 08:30 with the operator, and send the route (Nakayama Pass → Nishiyama craters → Usuzan Ropeway → Tōya lunch → Lake Kuttara → Takinoya, Noboribetsu Onsen; one-way, no return) and ask if the out-of-town drop-off carries a surcharge.",
      "address": "Sapporo Stream Hotel lobby",
      "map": "https://www.google.com/maps/search/?api=1&query=Sapporo%20Stream%20Hotel",
-     "phone": "Klook app chat (booking VQR223298)"
+     "phone": "Klook app chat (booking VQR223298 / order 5584856647)"
     },
     {
      "time": "14:00",
@@ -3783,12 +3783,12 @@
          "source": "https://www.visit-hokkaido.jp/en/spot/detail_11429.html"
         }
        ],
-       "fallback": "Charter not confirmed by 07:30: switch to Option C (bus/JR). Rain/cloud: skip the ropeway (views vanish), keep Nishiyama (30 min under umbrellas), add Tōya Volcano Science Museum (¥600) in the Visitor Center, then drive on early and do Jigokudani + Ōyunuma in daylight before check-in.",
+       "fallback": "Rain/cloud: skip the ropeway (views vanish), keep Nishiyama (30 min under umbrellas), add Tōya Volcano Science Museum (¥600) in the Visitor Center, then drive on early and do Jigokudani + Ōyunuma in daylight before check-in.",
        "cost": "≈¥62,000 charter per vehicle (≈¥15,500 pp for four, paid) + ≈¥14,000 for two on the day (agejaga ¥800, ropeway ¥4,000, parking ¥1,500, lunch ¥4,500, toll ¥1,400, tips not expected)",
        "book": {
         "need": "done",
         "by": "2026-09-08",
-        "what": "Klook charter VQR223298 booked Sep 8 (confirmation pending from the operator)"
+        "what": "Klook charter VQR223298 CONFIRMED Sep 8 (mobile voucher in email)"
        }
       },
       {
@@ -3901,7 +3901,7 @@
        "key": "C",
        "role": "alt",
        "character": "no-car / rain day — onsen town",
-       "title": "Fallback if the charter is not confirmed: Curb Market breakfast → Noboribetsu early: Jigokudani in daylight → Ōyunuma foot bath → Enma-dō → Takinoya",
+       "title": "Fallback (charter is confirmed — only if the driver no-shows): Curb Market breakfast → Noboribetsu early: Jigokudani in daylight → Ōyunuma foot bath → Enma-dō → Takinoya",
        "summary": "Only if Klook fails to confirm the driver: Rain makes the valley steam harder: a market breakfast, then a full afternoon in the onsen town with the rubber boots they lend you.",
        "timeline": [
         {
@@ -4039,7 +4039,7 @@
     }
    ],
    "notes": [
-    "CHARTER (decided Sep 8): Klook chartered car with Japanese driver, VQR223298, 10 h from 08:30, pick-up Sapporo Stream — status 'Confirming' at booking; watch the Klook app/email. Tell the driver the route and the one-way drop at Takinoya. Cash for tolls/parking/entries (~¥8,000 for the group). Takinoya: ask the dinner seating at check-in.",
+    "CHARTER (booked Sep 8, CONFIRMED 10:56 JST): Klook chartered car with Japanese driver, VQR223298, 10 h from 08:30, pick-up Sapporo Stream lobby — driver holds a name sign (Gur Aven). Overtime ¥3,000/30 min cash, max 2 h. Tell the driver the route and the one-way drop at Takinoya. Cash for tolls/parking/entries (~¥8,000 for the group). Takinoya: ask the dinner seating at check-in.",
     "Wednesday closures: Masazushi (Otaru), Molière, Cafe Lake Toya, Bar Owl&Rooster — Bōyōtei at Tōya has irregular closures: have the driver phone ahead (0142-75-2311).",
     "Sunset Sep 9 ≈17:55; Oni-bi no Michi runs to 21:30 — after an 18:00 dinner you have ~90 min.",
     "Tōya nightly fireworks 20:45–21:05 (to Oct 31): doing them means skipping Oni-bi and a 55-min drive each way after dinner — decide consciously; default is no.",
