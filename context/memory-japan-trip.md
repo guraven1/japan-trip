@@ -15,3 +15,4 @@
 - Use Google Calendar for all calendar-related actions without needing to confirm
 - Decision Aug 31: dropped the Osaka night helicopter (Sep 15) — overly pricey, not that exciting. Sep 15 evening freed: dinner moves earlier (Yugen 19:30 now viable); no heliport logistics.
 - Future-trip wishlist (Sep 1): Nakasendo trail Magome→Tsumago + Kiso Valley — deliberately left out of this trip (only near-miss day Sep 16 is fully committed); pair with Matsumoto castle on a future itinerary.
+- Sep 8 (in Hokkaido): nobody in the group has a valid (≤1-year) IDP — rental car cancelled; no driving anywhere on the trip. Hokkaido re-planned by train/bus: Otaru+Nikka by JR, Sapporo→Noboribetsu by Dōnan bus, ryokan→CTS by bus+JR.

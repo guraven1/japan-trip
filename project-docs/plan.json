@@ -33,6 +33,13 @@
  },
  "act_now": [
   {
+   "title": "Book the Sapporo → Noboribetsu Onsen bus for Wed Sep 9 (4 seats)",
+   "deadline": "Today, Sep 8",
+   "detail": "Dōnan Bus 'Kōsoku Onsen-gō' from Sapporo Station bus terminal, ~10:00 departure, ≈¥2,500 pp — counter or online. Fallback: JR ltd express + local bus. Also: cancel/return the rental car (Tamar).",
+   "link": "",
+   "leg": "hokkaido"
+  },
+  {
    "title": "Pick up N'EX paper tickets at Tokyo Station",
    "deadline": "Sep 19–22 (you're staying inside the station)",
    "detail": "Any JR East reserved-seat machine; QR in the Eki-net 'E48412' email or pickup code 20292476220521218. Seat + basic-fare tickets print together; must be issued before boarding on Sep 23.",
@@ -2948,15 +2955,15 @@
     "hokkaido"
    ],
    "bases": [
-    "Sapporo · Sapporo Stream Hotel (car day, back to Susukino by night)"
+    "Sapporo · Sapporo Stream Hotel (train day — no car; back to Susukino by night)"
    ],
    "anchors": [
     {
-     "time": "08:00",
-     "title": "Rental car pick-up (Sep 8–10)",
-     "detail": "Reservation is in Tamar's name — get the company, branch address, confirmation number and pick-up time from her; ETC card recommended; return at New Chitose Airport by ~12:15 Sep 10",
-     "address": "Sapporo (branch TBC by Tamar)",
-     "map": "https://www.google.com/maps/search/?api=1&query=rent%20a%20car%20Susukino%20Sapporo",
+     "time": "10:30",
+     "title": "NO CAR — JR to Otaru & Yoichi (no valid IDPs in the group)",
+     "detail": "Rental cancelled Sep 8: nobody holds an IDP issued within the last year, and Japan cannot issue one. JR Rapid Airport Sapporo → Otaru 32 min (Suica ~¥750, every 15 min); Hakodate line Otaru → Yoichi 25 min (roughly hourly) — Nikka Distillery is opposite Yoichi station (walk-in last entry 15:30). Back to Otaru for Kikkōgura (to 18:00), Sakaimachi, canal at dusk (17:55), Masazushi 19:00; Rapid Airport back till late.",
+     "address": "Sapporo Station",
+     "map": "https://www.google.com/maps/search/?api=1&query=Sapporo%20Station",
      "phone": ""
     }
    ],
@@ -2964,13 +2971,164 @@
     {
      "label": null,
      "leg": "hokkaido",
-     "recommended": "A",
+     "recommended": "E",
      "options": [
       {
-       "key": "A",
+       "key": "E",
        "role": "default",
+       "character": "train day — no car",
+       "title": "Train day: Sapporo → Yoichi (Nikka, everyone tastes) → Otaru sake, Sakaimachi, canal at dusk → Masazushi → back",
+       "summary": "The coast is out, but Yoichi and Otaru are on the rail line: the birthplace of Japanese whisky with nobody driving, then Otaru's brewery, glass street and gas-lit canal, and its sushi institution.",
+       "timeline": [
+        {
+         "time": "10:30",
+         "title": "JR Rapid Airport Sapporo → Otaru",
+         "why": "Every 15 min; 32 min; luggage-free day so the unreserved cars are fine.",
+         "address": "Sapporo Station",
+         "map": "https://www.google.com/maps/search/?api=1&query=Sapporo%20Station",
+         "hours": "every ~15 min",
+         "price": "≈¥750 pp",
+         "booking": "none (Suica)",
+         "phone": "",
+         "transit": "Suica tap",
+         "veg": "",
+         "status": "inferred (train/bus times — verify in Google Maps / at the counter)",
+         "source": ""
+        },
+        {
+         "time": "11:10",
+         "title": "JR Hakodate line Otaru → Yoichi",
+         "why": "Roughly hourly — check the next departure on arrival at Otaru; 25 min.",
+         "address": "Otaru Station",
+         "map": "https://www.google.com/maps/search/?api=1&query=Otaru%20Station",
+         "hours": "≈hourly",
+         "price": "≈¥360 pp",
+         "booking": "none (Suica)",
+         "phone": "",
+         "transit": "Suica tap",
+         "veg": "",
+         "status": "inferred (train/bus times — verify in Google Maps / at the counter)",
+         "source": ""
+        },
+        {
+         "time": "11:45",
+         "title": "Nikka Whisky Yoichi Distillery — museum, still house, restaurant lunch, tasting bar",
+         "why": "Directly opposite Yoichi station. With no driver, all four can use the tasting bar.",
+         "address": "7-6 Kurokawa-cho, Yoichi",
+         "map": "https://www.google.com/maps/search/?api=1&query=Nikka%20Whisky%20Yoichi%20Distillery",
+         "hours": "09:15–16:15; walk-in last entry 15:30",
+         "price": "free entry; paid pours ¥300–1,500",
+         "booking": "walk-in",
+         "phone": "",
+         "transit": "2 min walk from Yoichi station",
+         "veg": "restaurant has limited veg; Tamar packed lunch",
+         "status": "verified (hours) / transit inferred",
+         "source": ""
+        },
+        {
+         "time": "14:00",
+         "title": "JR Yoichi → Otaru",
+         "why": "25 min.",
+         "address": "Yoichi Station",
+         "map": "https://www.google.com/maps/search/?api=1&query=Yoichi%20Station",
+         "hours": "≈hourly",
+         "price": "≈¥360 pp",
+         "booking": "none (Suica)",
+         "phone": "",
+         "transit": "Suica tap",
+         "veg": "",
+         "status": "inferred (train/bus times — verify in Google Maps / at the counter)",
+         "source": ""
+        },
+        {
+         "time": "14:45",
+         "title": "Tanaka Sake Brewery Kikkōgura",
+         "why": "Free tastings of everything incl. amazake — vegan, so Tamar's tasting stop.",
+         "address": "3-2-5 Shinko, Otaru",
+         "map": "https://www.google.com/maps/search/?api=1&query=Tanaka%20Sake%20Brewery%20Kikkogura%20Otaru",
+         "hours": "09:00–18:00 daily",
+         "price": "free; bottles ¥1,500–3,000",
+         "booking": "none",
+         "phone": "",
+         "transit": "15 min walk from Otaru station",
+         "veg": "sake/amazake vegan",
+         "status": "verified",
+         "source": ""
+        },
+        {
+         "time": "15:30",
+         "title": "Sakaimachi street — Kitaichi Glass No. 3 Hall, music-box museum, LeTAO / Rokkatei",
+         "why": "Otaru's merchant street; the tour buses are gone by late afternoon.",
+         "address": "Sakaimachi, Otaru",
+         "map": "https://www.google.com/maps/search/?api=1&query=Sakaimachi%20Street%20Otaru",
+         "hours": "shops ≈09:00–18:00",
+         "price": "free",
+         "booking": "none",
+         "phone": "",
+         "transit": "walk",
+         "veg": "",
+         "status": "verified",
+         "source": ""
+        },
+        {
+         "time": "17:30",
+         "title": "Otaru Canal at dusk (sunset 17:55)",
+         "why": "Gas lamps on the stone warehouses from Asakusa Bridge — the blue-hour version beats midday.",
+         "address": "Otaru Canal",
+         "map": "https://www.google.com/maps/search/?api=1&query=Otaru%20Canal",
+         "hours": "24h",
+         "price": "free",
+         "booking": "none",
+         "phone": "",
+         "transit": "walk 5 min",
+         "veg": "",
+         "status": "verified",
+         "source": ""
+        },
+        {
+         "time": "19:00",
+         "title": "Dinner: Otaru Masazushi Honten (or walk-in sushi on Sushi-ya-dōri)",
+         "why": "Otaru's sushi institution; Tue 17:00–21:00 (LO 20:30). TAKUMI 12 nigiri ¥6,820.",
+         "address": "1-1-1 Hanazono, Otaru",
+         "map": "https://www.google.com/maps/search/?api=1&query=Otaru%20Masazushi%20Honten",
+         "hours": "Tue 17:00–21:00 (LO 20:30)",
+         "price": "¥6,820–19,800",
+         "booking": "TableCheck if a 19:00 slot exists; otherwise walk-in",
+         "phone": "",
+         "transit": "10 min walk from the canal",
+         "veg": "Rachel: tamago/kappa/veg rolls; Tamar: konbini/vegan café",
+         "status": "verified",
+         "source": ""
+        },
+        {
+         "time": "20:45",
+         "title": "JR Rapid Airport Otaru → Sapporo",
+         "why": "32 min; runs until late.",
+         "address": "Otaru Station",
+         "map": "https://www.google.com/maps/search/?api=1&query=Otaru%20Station",
+         "hours": "until ~23:00",
+         "price": "≈¥750 pp",
+         "booking": "none (Suica)",
+         "phone": "",
+         "transit": "Suica tap",
+         "veg": "",
+         "status": "inferred (train/bus times — verify in Google Maps / at the counter)",
+         "source": ""
+        }
+       ],
+       "fallback": "Rain: same day — Otaru's glass halls and museums are indoor. Cape Kamui by Chūō Bus from Otaru/Yoichi exists but is ~1.5 h each way with sparse departures — skipped.",
+       "cost": "≈¥10,000 for two excl. dinner (trains ≈¥4,500, pours ≈¥3,000, sweets) + Masazushi ≈¥14,000",
+       "book": {
+        "need": "light",
+        "by": "2026-09-08",
+        "what": "Masazushi 19:00 (TableCheck) if available; otherwise walk-in"
+       }
+      },
+      {
+       "key": "A",
+       "role": "alt",
        "character": "coast & scenery — the classic drive",
-       "title": "Shakotan (Shimamui Coast, Cape Kamui) → Nikka Yoichi → Otaru dusk + Masazushi",
+       "title": "[needs car — not possible] Shakotan (Shimamui Coast, Cape Kamui) → Nikka Yoichi → Otaru dusk + Masazushi",
        "summary": "'Shakotan blue' is the single most spectacular thing within reach of Sapporo, the Nikka distillery is the birthplace of Japanese whisky, and Otaru's canal at dusk plus sushi at Masazushi closes the loop.",
        "timeline": [
         {
@@ -3106,7 +3264,7 @@
        "key": "B",
        "role": "alt",
        "character": "water & onsen, close to town",
-       "title": "Lake Shikotsu clear-kayak (private) → Jōzankei gorge → Hōheikyō Onsen",
+       "title": "[needs car — not possible] Lake Shikotsu clear-kayak (private) → Jōzankei gorge → Hōheikyō Onsen",
        "summary": "Japan's clearest caldera lake from a glass-bottom kayak, then the gorge and a giant outdoor onsen with a famous curry house — all within an hour of Sapporo.",
        "timeline": [
         {
@@ -3212,7 +3370,7 @@
        "key": "C",
        "role": "alt",
        "character": "adventure — longest drive",
-       "title": "Niseko rafting (NAC) → Mt Yōtei / Fukidashi Park → Yoichi wineries → Sapporo",
+       "title": "[needs car — not possible] Niseko rafting (NAC) → Mt Yōtei / Fukidashi Park → Yoichi wineries → Sapporo",
        "summary": "A bookable half-day on the Shiribetsu river under Mt Yōtei, but September water is mellow — pick this only if the group wants a paddle more than the coast.",
        "timeline": [
         {
@@ -3303,7 +3461,7 @@
        "key": "D",
        "role": "rainy",
        "character": "slow Otaru + Yoichi (least driving, indoor-friendly)",
-       "title": "Otaru canal early → Sakaimachi glass & music boxes → Masazushi lunch → Nikka Yoichi → Kikkōgura → back",
+       "title": "[needs car — not possible] Otaru canal early → Sakaimachi glass & music boxes → Masazushi lunch → Nikka Yoichi → Kikkōgura → back",
        "summary": "The rain-day version of A: Otaru's museums, glass halls and sushi, then the distillery — never more than 10 minutes from shelter.",
        "timeline": [
         {
@@ -3426,6 +3584,7 @@
     }
    ],
    "notes": [
+    "NO CAR (decided Sep 8): nobody in the group holds an IDP issued within the last year, and Japan cannot issue or translate Israeli licences — rental cancelled. Options A–D are archived; Hokkaido continues by train/bus.",
     "Nikka guided-tour reservations opened ~Aug 11 for Sep 8 — book immediately or plan the walk-in (last entry 15:30). The designated driver cannot taste anywhere on this route.",
     "Cape Kamui gates: 08:00–17:30 in Sep, entry until 16:30; closed by wind ≥15 m/s — check the morning of at kanko-shakotan.jp.",
     "Uni season ended in August; ikura/salmon/hokke are the September plates.",
@@ -3446,6 +3605,14 @@
    ],
    "anchors": [
     {
+     "time": "10:00",
+     "title": "Dōnan Bus 'Kōsoku Onsen-gō' Sapporo Stn bus terminal → Noboribetsu Onsen (no car)",
+     "detail": "Direct to the onsen town, ~1 h 50, ≈¥2,500 pp (inferred), reserved seats — book Sep 8 at the Sapporo Station bus terminal counter or online (Dōnan Bus / Japan Bus Online). Fallback: JR limited express Suzuran/Hokuto Sapporo → Noboribetsu ~70 min, then Dōnan local bus 15 min up to the onsen town.",
+     "address": "Sapporo Station Bus Terminal",
+     "map": "https://www.google.com/maps/search/?api=1&query=Sapporo%20Station%20Bus%20Terminal",
+     "phone": ""
+    },
+    {
      "time": "14:00",
      "title": "Takinoya check-in window opens (aim 15:30)",
      "detail": "Klook JFN966234, non-refundable; check-in from 14:00, check-out by 11:00; vegan/vegetarian meals CONFIRMED; kaiseki dinner in Genseirin dining — seating time not published: ask at check-in (typically 18:00 or 18:30); Kumoi-no-yu rooftop bath + Chien-no-yu 5-spring bath; free parking for guests",
@@ -3458,13 +3625,13 @@
     {
      "label": null,
      "leg": "hokkaido",
-     "recommended": "A",
+     "recommended": "C",
      "options": [
       {
        "key": "A",
-       "role": "default",
+       "role": "alt",
        "character": "volcano route",
-       "title": "Nakayama Pass → Nishiyama craters → Usuzan Ropeway / Shōwa-shinzan → Tōya lunch → Takinoya → kaiseki → Oni-bi no Michi",
+       "title": "[needs car — not possible] Nakayama Pass → Nishiyama craters → Usuzan Ropeway / Shōwa-shinzan → Tōya lunch → Takinoya → kaiseki → Oni-bi no Michi",
        "summary": "A road and a kindergarten swallowed in 2000, a mountain born in 1943, the caldera from above — landscape you can't see anywhere else in Japan — and it lands you at the ryokan on time.",
        "timeline": [
         {
@@ -3615,7 +3782,7 @@
        "key": "B",
        "role": "alt",
        "character": "water & quiet",
-       "title": "Lake Shikotsu → Lake Kuttara → Bear Park lookout → Takinoya",
+       "title": "[needs car — not possible] Lake Shikotsu → Lake Kuttara → Bear Park lookout → Takinoya",
        "summary": "Use this if Sep 8 was Shakotan or Niseko and you still want a paddle: clear-water kayak, then the perfect-circle caldera and the ropeway lookout over it.",
        "timeline": [
         {
@@ -3719,8 +3886,8 @@
       },
       {
        "key": "C",
-       "role": "rainy",
-       "character": "least driving, indoor-leaning",
+       "role": "default",
+       "character": "no-car / rain day — onsen town",
        "title": "Curb Market breakfast → Noboribetsu early: Jigokudani in daylight → Ōyunuma foot bath → Enma-dō → Takinoya",
        "summary": "Rain makes the valley steam harder: a market breakfast, then a full afternoon in the onsen town with the rubber boots they lend you.",
        "timeline": [
@@ -3734,22 +3901,22 @@
          "price": "¥2,000–4,000",
          "booking": "none",
          "phone": "011-621-7044",
-         "transit": "10 min drive from Susukino; free parking",
+         "transit": "taxi 10 min from Susukino (≈¥1,500) — optional; or hotel breakfast and go straight to the bus",
          "veg": "fruit/melon stalls only — Tamar: hotel breakfast (Splish 06:30–10:00)",
          "status": "inferred",
          "source": ""
         },
         {
          "time": "10:00",
-         "title": "Dō-ō Expressway Sapporo-Minami IC → Noboribetsu-Higashi IC",
-         "why": "1 h 20 direct.",
+         "title": "Dōnan Bus 'Kōsoku Onsen-gō' → Noboribetsu Onsen (or JR + local bus)",
+         "why": "Direct bus from Sapporo Station bus terminal to the onsen town; reserved seats.",
          "address": "Noboribetsu-Higashi IC",
          "map": "https://www.google.com/maps/search/?api=1&query=Noboribetsu-Higashi%20IC",
          "hours": "",
-         "price": "toll ≈¥2,700 standard car (inferred)",
-         "booking": "",
+         "price": "≈¥2,500 pp bus (inferred)",
+         "booking": "reserve Sep 8 (counter/online)",
          "phone": "",
-         "transit": "≈1 h 20 + 10 min to the onsen town",
+         "transit": "≈1 h 50 (inferred); alt JR ltd express to Noboribetsu ~70 min + local bus 15 min",
          "veg": "",
          "status": "inferred",
          "source": ""
@@ -3764,7 +3931,7 @@
          "price": "¥1,000–2,000",
          "booking": "none",
          "phone": "",
-         "transit": "park at Jigokudani lot (¥500/day, shared with Ōyunuma lot)",
+         "transit": "bus stops in the onsen town; Jigokudani is a 10-min walk uphill",
          "veg": "Tamar: grilled corn/potato at Onsen Ichiba, konbini",
          "status": "inferred",
          "source": "https://www.hotel489.jp/archives/179"
@@ -3859,6 +4026,7 @@
     }
    ],
    "notes": [
+    "NO CAR: Tōya volcanoes dropped; the day is Option C (onsen town) arriving by direct bus. Takinoya: ask the dinner seating at check-in.",
     "Wednesday closures: Masazushi (Otaru), Molière, Cafe Lake Toya, Bar Owl&Rooster — none affect Option A.",
     "Sunset Sep 9 ≈17:55; Oni-bi no Michi runs to 21:30 — after an 18:00 dinner you have ~90 min.",
     "Tōya nightly fireworks 20:45–21:05 (to Oct 31): doing them means skipping Oni-bi and a 55-min drive each way after dinner — decide consciously; default is no.",
@@ -3889,11 +4057,11 @@
      "phone": "+81-143-84-2222"
     },
     {
-     "time": "12:15",
-     "title": "Return rental car at New Chitose Airport",
-     "detail": "Refuel before the expressway (Noboribetsu-Higashi IC area); most CTS rental returns are at off-airport depots with a shuttle to the terminal — allow 25 min from depot to check-in desk; confirm depot address/return time with Tamar's booking",
-     "address": "New Chitose Airport rental car return (depot TBC)",
-     "map": "https://www.google.com/maps/search/?api=1&query=New%20Chitose%20Airport%20rent%20a%20car%20return",
+     "time": "10:45",
+     "title": "Bus + JR to New Chitose (no car)",
+     "detail": "Takinoya → Dōnan local bus down to JR Noboribetsu station (15 min, ≈¥350) → JR limited express Suzuran/Hokuto to Minami-Chitose (~45 min; buy the ticket at Noboribetsu station) → Rapid Airport 1 stop to New Chitose Airport (3 min). ≈75–90 min door to door incl. connections (inferred) — leave the onsen town by 10:45 for the 13:15 bag-drop cutoff.",
+     "address": "Noboribetsu Onsen bus terminal",
+     "map": "https://www.google.com/maps/search/?api=1&query=Noboribetsu%20Onsen%20Bus%20Terminal",
      "phone": ""
     },
     {
@@ -4022,7 +4190,7 @@
        "key": "B",
        "role": "alt",
        "character": "bears + caldera lookout",
-       "title": "Breakfast → Bear Park 09:00 (Kuttara lookout) → 10:30 back → 10:45 leave",
+       "title": "[needs car — not possible] Breakfast → Bear Park 09:00 (Kuttara lookout) → 10:30 back → 10:45 leave",
        "summary": "Sixty minutes is enough: ropeway up, the Lake Kuttara observation deck, the bear enclosures (it's a zoo — go in knowing that), back down by 10:30.",
        "timeline": [
         {
@@ -4083,7 +4251,7 @@
        "key": "C",
        "role": "alt",
        "character": "quiet lakeshore drive",
-       "title": "Breakfast → Lake Kuttara shore by car → back → 10:45 leave",
+       "title": "[needs car — not possible] Breakfast → Lake Kuttara shore by car → back → 10:45 leave",
        "summary": "Fifteen minutes each way to stand on the shore of a caldera lake with no buildings — if Route 350 is open from the Ōyunuma side; otherwise it's a 35-min detour via Kojōhama.",
        "timeline": [
         {
@@ -4426,7 +4594,7 @@
     }
    ],
    "notes": [
-    "Hard stop: bag drop closes 13:15 — be at the rental depot by 12:15 with a full tank (Noboribetsu-Higashi IC area has stations; none at the onsen town).",
+    "Hard stop: bag drop closes 13:15 — no car, so leave the onsen town by 10:45 (bus 15 min → JR Noboribetsu → ltd express → Minami-Chitose → Rapid Airport). Buy the express ticket at the station.",
     "Jigokudani 'Demon Fireworks' are Thu 20:00 on Sep 10 — you'll be in Kyoto; not catchable.",
     "Marine Park Nixe (aquarium-castle) is theme-park-adjacent — skip.",
     "The Kyoto evening of Sep 10 is in the kyoto leg.",
