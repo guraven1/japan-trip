@@ -16,3 +16,5 @@
 - Decision Aug 31: dropped the Osaka night helicopter (Sep 15) — overly pricey, not that exciting. Sep 15 evening freed: dinner moves earlier (Yugen 19:30 now viable); no heliport logistics.
 - Future-trip wishlist (Sep 1): Nakasendo trail Magome→Tsumago + Kiso Valley — deliberately left out of this trip (only near-miss day Sep 16 is fully committed); pair with Matsumoto castle on a future itinerary.
 - Sep 8 (in Hokkaido): nobody in the group has a valid (≤1-year) IDP — rental car cancelled; no driving anywhere on the trip. Hokkaido re-planned by train/bus: Otaru+Nikka by JR, Sapporo→Noboribetsu by Dōnan bus, ryokan→CTS by bus+JR.
+
+- Sep 8 (in Sapporo): booked a Klook chartered car with Japanese driver for Wed Sep 9 (VQR223298, 10 h, ₪1,409 per vehicle, pick-up Sapporo Stream 08:30) to recover the Tōya volcano day + Lake Kuttara without an IDP. Gur is willing to pay ~¥15k pp for a driver when it saves a whole day; a bus-and-transfer day with suitcases was not attractive.

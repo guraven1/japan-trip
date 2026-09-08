@@ -33,11 +33,9 @@
  },
  "act_now": [
   {
-   "title": "Book the Sapporo → Noboribetsu Onsen bus for Wed Sep 9 (4 seats)",
-   "deadline": "Today, Sep 8",
-   "detail": "Dōnan Bus 'Kōsoku Onsen-gō' from Sapporo Station bus terminal, ~10:00 departure, ≈¥2,500 pp — counter or online. Fallback: JR ltd express + local bus. Also: cancel/return the rental car (Tamar).",
-   "link": "",
-   "leg": "hokkaido"
+   "title": "Get the Sep 9 charter confirmed + brief the driver (Klook VQR223298)",
+   "deadline": "Today, Sep 8 (fallback decision by 07:30 Sep 9)",
+   "detail": "Status was 'Confirming' at booking. In the Klook chat send: pick-up 08:30 Sapporo Stream Hotel, 4 pax + 4 suitcases, route Nakayama Pass → Nishiyama craters → Usuzan Ropeway → Tōyako Onsen lunch → Lake Kuttara → drop-off Takinoya, Noboribetsu Onsen ~16:15 (one-way, no return); ask if a drop-off surcharge applies. If not confirmed by 07:30 tomorrow: Dōnan Bus 'Kōsoku Onsen-gō' ~10:00 from the Sapporo Station bus terminal counter, or JR ltd express + local bus. Rental car: cancelled (no IDPs)."
   },
   {
    "title": "Pick up N'EX paper tickets at Tokyo Station",
@@ -240,8 +238,8 @@
   },
   {
    "group": "Logistics",
-   "title": "Hokkaido rental car · Sep 8–10",
-   "detail": "Booked by Tamar's group — confirm pick-up point/time, return at New Chitose by ~12:15 Sep 10, and that drivers carry IDPs. Tolls: Sapporo–Otaru ¥1,240; Tōya→Noboribetsu ~¥1,400; Noboribetsu→CTS ~¥1,900 (⚠)."
+   "title": "Chartered car + driver · Wed Sep 9 (Sapporo → Tōya → Noboribetsu)",
+   "detail": "Klook booking VQR223298 — 'Hokkaido Car Rental with Driver', Japanese driver, Sapporo suburb/other area, 10 hours, 1 vehicle (1–9 pax). ₪1,409.35 paid (≈¥62,000, inferred). Pick-up Sapporo Stream Hotel 08:30 (time to be agreed in the Klook chat). Status at booking (Sep 8 10:42): 'Confirming booking' — operator confirmation pending. Cancellation window closed 2026-09-02 00:00 JST (non-refundable unless the operator declines). Excludes tolls, parking, entry fees, driver meals. Mobile voucher. Rental car (Tamar's group) cancelled Sep 8 — no valid IDPs."
   }
  ],
  "reference": [
@@ -3605,16 +3603,16 @@
    ],
    "anchors": [
     {
-     "time": "10:00",
-     "title": "Dōnan Bus 'Kōsoku Onsen-gō' Sapporo Stn bus terminal → Noboribetsu Onsen (no car)",
-     "detail": "Direct to the onsen town, ~1 h 50, ≈¥2,500 pp (inferred), reserved seats — book Sep 8 at the Sapporo Station bus terminal counter or online (Dōnan Bus / Japan Bus Online). Fallback: JR limited express Suzuran/Hokuto Sapporo → Noboribetsu ~70 min, then Dōnan local bus 15 min up to the onsen town.",
-     "address": "Sapporo Station Bus Terminal",
-     "map": "https://www.google.com/maps/search/?api=1&query=Sapporo%20Station%20Bus%20Terminal",
-     "phone": ""
+     "time": "08:30",
+     "title": "Chartered car with driver — pick-up at Sapporo Stream Hotel (Klook VQR223298, 10 h, up to 9 pax)",
+     "detail": "Booked Sep 8, ₪1,409.35 (≈¥62,000, inferred) per vehicle; status 'Confirming' at booking — Klook will notify when the operator confirms (no free cancellation: the window closed Sep 2; auto-refund only if the operator declines). 10 h charter = 08:30–18:30; plan to be dropped at Takinoya ~16:15. Message the operator via Klook chat with the route (Nakayama Pass → Nishiyama craters → Usuzan Ropeway → Tōya lunch → Lake Kuttara → Takinoya, Noboribetsu Onsen — one-way, no return to Sapporo) and ask whether the out-of-town drop-off carries a surcharge. Tolls, parking (~¥1,500 total) and entry fees are NOT included — cash on the day. Fallback if not confirmed by ~07:30: Dōnan Bus 'Kōsoku Onsen-gō' ~10:00 from Sapporo Station bus terminal (buy at the counter), or JR ltd express + local bus.",
+     "address": "Sapporo Stream Hotel lobby",
+     "map": "https://www.google.com/maps/search/?api=1&query=Sapporo%20Stream%20Hotel",
+     "phone": "Klook app chat (booking VQR223298)"
     },
     {
      "time": "14:00",
-     "title": "Takinoya check-in window opens (aim 15:30)",
+     "title": "Takinoya check-in window opens (aim ~16:15 after Lake Kuttara)",
      "detail": "Klook JFN966234, non-refundable; check-in from 14:00, check-out by 11:00; vegan/vegetarian meals CONFIRMED; kaiseki dinner in Genseirin dining — seating time not published: ask at check-in (typically 18:00 or 18:30); Kumoi-no-yu rooftop bath + Chien-no-yu 5-spring bath; free parking for guests",
      "address": "162 Noboribetsu Onsen-cho, Noboribetsu, Hokkaido 059-0551",
      "map": "https://www.google.com/maps/search/?api=1&query=Takinoya%20Noboribetsu%20Onsen",
@@ -3625,26 +3623,26 @@
     {
      "label": null,
      "leg": "hokkaido",
-     "recommended": "C",
+     "recommended": "A",
      "options": [
       {
        "key": "A",
-       "role": "alt",
+       "role": "default",
        "character": "volcano route",
-       "title": "[needs car — not possible] Nakayama Pass → Nishiyama craters → Usuzan Ropeway / Shōwa-shinzan → Tōya lunch → Takinoya → kaiseki → Oni-bi no Michi",
-       "summary": "A road and a kindergarten swallowed in 2000, a mountain born in 1943, the caldera from above — landscape you can't see anywhere else in Japan — and it lands you at the ryokan on time.",
+       "title": "With the chartered driver (Klook VQR223298): Nakayama Pass → Nishiyama craters → Usuzan Ropeway / Shōwa-shinzan → Tōya lunch → Lake Kuttara → Takinoya → kaiseki → Oni-bi no Michi",
+       "summary": "Restored Sep 8 with a chartered car and driver (no IDP needed): a road and a kindergarten swallowed in 2000, a mountain born in 1943, the caldera from above, the round lake by Noboribetsu — and it lands you at the ryokan on time with the bags.",
        "timeline": [
         {
          "time": "08:30",
-         "title": "Check out, load car → Rte 230 south",
-         "why": "2 h to Tōya via the pass; no tolls on this route.",
+         "title": "Driver picks you up at Sapporo Stream Hotel (bags in the van) → Rte 230 south",
+         "why": "Klook 10-h charter VQR223298; 2 h to Tōya via the pass; no tolls on this route. Give the driver the route list at pick-up.",
          "address": "Sapporo Stream Hotel → Route 230",
          "map": "https://www.google.com/maps/search/?api=1&query=Michi-no-eki%20Boyo%20Nakayama",
          "hours": "hotel check-out 11:00",
          "price": "no toll",
          "booking": "",
          "phone": "",
-         "transit": "Susukino → Nakayama Pass ≈1 h 10",
+         "transit": "Susukino → Nakayama Pass ≈1 h 10 (driver)",
          "veg": "",
          "status": "verified",
          "source": "https://www.tokyuhotels.co.jp/en/sapporostream/qa/index.html"
@@ -3711,12 +3709,12 @@
         },
         {
          "time": "14:45",
-         "title": "Drive Tōya → Noboribetsu Onsen",
-         "why": "55 min via Rte 37 → Dō-ō Expressway (Abuta-Tōyako IC → Noboribetsu-Higashi IC) → Rte 2.",
+         "title": "Driver: Tōya → Noboribetsu (via Lake Kuttara)",
+         "why": "55 min via Rte 37 → Dō-ō Expressway (toll ≈¥1,400, cash, not included in the charter) or Rte 37 free ≈1 h 15; ask the driver to come in via Route 350 for the Kuttara shore.",
          "address": "Noboribetsu Onsen",
          "map": "https://www.google.com/maps/search/?api=1&query=Noboribetsu%20Onsen",
          "hours": "",
-         "price": "toll Abuta-Tōyako IC → Noboribetsu-Higashi IC ≈¥1,400 (standard car; inferred) — or Rte 37 free ≈1 h 15",
+         "price": "toll Abuta-Tōyako IC → Noboribetsu-Higashi IC ≈¥1,400 (inferred), paid by you",
          "booking": "",
          "phone": "",
          "transit": "≈55 min",
@@ -3725,7 +3723,22 @@
          "source": ""
         },
         {
-         "time": "15:45",
+         "time": "15:40",
+         "title": "Lake Kuttara shore (Route 350) — 20 min stop",
+         "why": "The near-perfect circle caldera lake with Japan's 2nd-clearest water; no public transport, so this is the one day it's easy.",
+         "address": "Lake Kuttara, Shiraoi-cho (Route 350 from Rte 36 / Kojōhama side)",
+         "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Kuttara",
+         "hours": "road open (closes in winter); free",
+         "price": "free",
+         "booking": "none",
+         "phone": "0144-82-2216 (Shiraoi tourist assoc.)",
+         "transit": "≈15 min from Noboribetsu Onsen by car",
+         "veg": "",
+         "status": "verified",
+         "source": "https://www.japan.travel/en/spot/1911/"
+        },
+        {
+         "time": "16:15",
          "title": "Check in Takinoya → Kumoi-no-yu rooftop bath, yukata",
          "why": "Two baths fed from Jigokudani: the rooftop cave-rotenburo and the five-spring ground-floor bath.",
          "address": "162 Noboribetsu Onsen-cho, Noboribetsu 059-0551",
@@ -3734,7 +3747,7 @@
          "price": "booked (Klook JFN966234)",
          "booking": "booked; confirm dinner seating time at check-in",
          "phone": "+81-143-84-2222",
-         "transit": "ryokan parking free for guests (inferred)",
+         "transit": "dropped at the door by the charter (ends 18:30 latest)",
          "veg": "vegan/veg kaiseki confirmed with the ryokan",
          "status": "verified",
          "source": "https://www.klook.com/en-MY/hotels/detail/1109314-noboribetsu-onsenkyo-takinoya/"
@@ -3770,12 +3783,12 @@
          "source": "https://www.visit-hokkaido.jp/en/spot/detail_11429.html"
         }
        ],
-       "fallback": "Rain/cloud: skip the ropeway (views vanish), keep Nishiyama (30 min under umbrellas), add Tōya Volcano Science Museum (¥600) in the Visitor Center, then drive on early and do Jigokudani + Ōyunuma in daylight before check-in.",
-       "cost": "≈¥12,000 for two excl. ryokan (agejaga ¥800, ropeway ¥4,000, parking ¥1,000, lunch ¥4,500, toll ¥1,400)",
+       "fallback": "Charter not confirmed by 07:30: switch to Option C (bus/JR). Rain/cloud: skip the ropeway (views vanish), keep Nishiyama (30 min under umbrellas), add Tōya Volcano Science Museum (¥600) in the Visitor Center, then drive on early and do Jigokudani + Ōyunuma in daylight before check-in.",
+       "cost": "≈¥62,000 charter per vehicle (≈¥15,500 pp for four, paid) + ≈¥14,000 for two on the day (agejaga ¥800, ropeway ¥4,000, parking ¥1,500, lunch ¥4,500, toll ¥1,400, tips not expected)",
        "book": {
-        "need": "none",
-        "by": null,
-        "what": "No advance booking — walk in / buy on the day"
+        "need": "done",
+        "by": "2026-09-08",
+        "what": "Klook charter VQR223298 booked Sep 8 (confirmation pending from the operator)"
        }
       },
       {
@@ -3886,10 +3899,10 @@
       },
       {
        "key": "C",
-       "role": "default",
+       "role": "alt",
        "character": "no-car / rain day — onsen town",
-       "title": "Curb Market breakfast → Noboribetsu early: Jigokudani in daylight → Ōyunuma foot bath → Enma-dō → Takinoya",
-       "summary": "Rain makes the valley steam harder: a market breakfast, then a full afternoon in the onsen town with the rubber boots they lend you.",
+       "title": "Fallback if the charter is not confirmed: Curb Market breakfast → Noboribetsu early: Jigokudani in daylight → Ōyunuma foot bath → Enma-dō → Takinoya",
+       "summary": "Only if Klook fails to confirm the driver: Rain makes the valley steam harder: a market breakfast, then a full afternoon in the onsen town with the rubber boots they lend you.",
        "timeline": [
         {
          "time": "08:30",
@@ -4026,12 +4039,12 @@
     }
    ],
    "notes": [
-    "NO CAR: Tōya volcanoes dropped; the day is Option C (onsen town) arriving by direct bus. Takinoya: ask the dinner seating at check-in.",
-    "Wednesday closures: Masazushi (Otaru), Molière, Cafe Lake Toya, Bar Owl&Rooster — none affect Option A.",
+    "CHARTER (decided Sep 8): Klook chartered car with Japanese driver, VQR223298, 10 h from 08:30, pick-up Sapporo Stream — status 'Confirming' at booking; watch the Klook app/email. Tell the driver the route and the one-way drop at Takinoya. Cash for tolls/parking/entries (~¥8,000 for the group). Takinoya: ask the dinner seating at check-in.",
+    "Wednesday closures: Masazushi (Otaru), Molière, Cafe Lake Toya, Bar Owl&Rooster — Bōyōtei at Tōya has irregular closures: have the driver phone ahead (0142-75-2311).",
     "Sunset Sep 9 ≈17:55; Oni-bi no Michi runs to 21:30 — after an 18:00 dinner you have ~90 min.",
     "Tōya nightly fireworks 20:45–21:05 (to Oct 31): doing them means skipping Oni-bi and a 55-min drive each way after dinner — decide consciously; default is no.",
-    "Jigokudani/Ōyunuma parking ¥500/day covers both lots once each; cash machine at the gate. Takinoya guests can walk instead.",
-    "Bring: towel for the foot bath, bear bells not needed here, cash for parking machines."
+    "Jigokudani/Ōyunuma: walk from Takinoya (no parking needed). The charter is dropped at 16:15; Oni-bi no Michi is on foot after dinner.",
+    "Bring: towel for the foot bath, cash for parking machines and the ropeway (¥2,000 pp), the Klook voucher on the phone."
    ],
    "leg": "hokkaido",
    "base": "Noboribetsu · Takinoya (check-in from 14:00)"
