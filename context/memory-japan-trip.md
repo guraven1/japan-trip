@@ -19,3 +19,4 @@
 
 - Sep 8 (in Sapporo): booked a Klook chartered car with Japanese driver for Wed Sep 9 (VQR223298, 10 h, ₪1,409 per vehicle, pick-up Sapporo Stream 08:30) to recover the Tōya volcano day + Lake Kuttara without an IDP. Gur is willing to pay ~¥15k pp for a driver when it saves a whole day; a bus-and-transfer day with suitcases was not attractive.
 - Sep 8 10:56 JST: Klook confirmed the Sep 9 charter (VQR223298, order 5584856647). Overtime ¥3,000/30 min cash, max 2 h; driver holds a name sign.
+- Voucher KLK7584714917: pick-up 09:00 (Gur chose 09:00 at checkout, not 08:30), 4 pax/4 bags, drop-off Noboribetsu Onsen, itinerary entered at checkout; fuel, tolls and parking included.
