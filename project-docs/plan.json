@@ -3629,7 +3629,7 @@
        "key": "A",
        "role": "default",
        "character": "volcano route",
-       "title": "With the chartered driver (Klook VQR223298, 09:00 pick-up): Nakayama Pass → Nishiyama craters → Usuzan Ropeway / Shōwa-shinzan → Tōya lunch → Lake Kuttara → Takinoya → kaiseki → Oni-bi no Michi",
+       "title": "With the chartered driver (Klook VQR223298, 09:00 pick-up): Takino Hill of the Buddha → Nakayama Pass → Usuzan Ropeway / Shōwa-shinzan → lunch at the base → Nishiyama craters → Lake Kuttara → Takinoya → kaiseki → Oni-bi no Michi",
        "summary": "Restored Sep 8 with a chartered car and driver (no IDP needed): a road and a kindergarten swallowed in 2000, a mountain born in 1943, the caldera from above, the round lake by Noboribetsu — and it lands you at the ryokan on time with the bags.",
        "timeline": [
         {
@@ -3648,7 +3648,22 @@
          "source": "https://www.tokyuhotels.co.jp/en/sapporostream/qa/index.html"
         },
         {
-         "time": "10:10",
+         "time": "09:40",
+         "title": "Makomanai Takino Cemetery — Hill of the Buddha (Tadao Ando)",
+         "why": "Added on the day (Sep 9): the buried Buddha in the lavender dome, 40 min south of Susukino; 30–40 min visit.",
+         "address": "2 Takino, Minami-ku, Sapporo 005-0862",
+         "map": "https://www.google.com/maps/search/?api=1&query=Hill%20of%20the%20Buddha%20Makomanai%20Takino%20Cemetery",
+         "hours": "Apr–Oct 09:00–16:00 (inferred)",
+         "price": "¥300 pp (inferred)",
+         "booking": "none",
+         "phone": "011-592-1223",
+         "transit": "charter: Susukino → Takino ≈40 min (Rte 453); Takino → Nakayama Pass ≈55 min",
+         "veg": "",
+         "status": "inferred",
+         "source": ""
+        },
+        {
+         "time": "11:15",
          "title": "Michi-no-eki Bōyō Nakayama (Nakayama Pass) — agejaga + Yōtei view",
          "why": "The deep-fried potato-on-a-stick is a Hokkaido soul food and the pass frames Mt Yōtei.",
          "address": "345 Kawakami, Kimobetsu-cho, Abuta-gun (Route 230)",
@@ -3661,21 +3676,6 @@
          "veg": "agejaga batter — ask whether egg/milk is used (Tamar); coffee/produce stalls",
          "status": "verified",
          "source": "https://hokkaido-michinoeki.jp/michinoeki/364/"
-        },
-        {
-         "time": "11:15",
-         "title": "Nishiyama Crater Walking Trail (Usu west craters)",
-         "why": "The 2000 eruption craters with the buried road, utility poles and kindergarten preserved in place; 20–40 min walk, free.",
-         "address": "Nishiyama Sanroku Kako Walking Path, Toyako-cho, Abuta-gun",
-         "map": "https://www.google.com/maps/search/?api=1&query=Nishiyama%20Crater%20Walking%20Trail%20Toyako",
-         "hours": "07:00–18:00 (to Nov 10); free",
-         "price": "free",
-         "booking": "none",
-         "phone": "0142-75-2446 (Toyako tourist assoc.)",
-         "transit": "Nakayama → Nishiyama lot ≈45 min (Rte 230 → Tōyako Onsen → Rte 37)",
-         "veg": "",
-         "status": "verified",
-         "source": "https://www.japan-guide.com/e/e6727.html"
         },
         {
          "time": "12:30",
@@ -3693,9 +3693,9 @@
          "source": "https://usuzan.hokkaido.jp/en/"
         },
         {
-         "time": "14:15",
-         "title": "Lunch at Tōyako Onsen: Bōyōtei (Showa-retro Western) or Matsumaeya (seafood)",
-         "why": "Bōyōtei's demi-glace hamburg is a local institution; note Cafe Lake Toya (the veg-friendly one) is CLOSED Wed/Thu.",
+         "time": "13:45",
+         "title": "Lunch at the Shōwa-shinzan / ropeway base restaurants (Tōya town skipped)",
+         "why": "Takino pushed the day back: eat at the foot of the ropeway instead of Tōyako Onsen (Bōyōtei lunch ends 15:00). Rachel: noodles/omelette; Tamar: packed lunch.",
          "address": "Boyotei: 36-12 Toyako-Onsen, Toyako-cho · Matsumaeya: 40-16 Toyako-Onsen",
          "map": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Boyotei%20Toyako",
          "hours": "Bōyōtei 11:00–15:00 & 17:30–20:30, irregular closures (AutoReserve bookable); Matsumaeya 12:00–15:00",
@@ -3708,7 +3708,22 @@
          "source": "https://www.laketoya.com/en/restaurant/"
         },
         {
-         "time": "15:15",
+         "time": "14:30",
+         "title": "Nishiyama Crater Walking Trail (Usu west craters)",
+         "why": "The 2000 eruption craters with the buried road, utility poles and kindergarten preserved in place; 20–40 min walk, free. First stop to drop if running late.",
+         "address": "Nishiyama Sanroku Kako Walking Path, Toyako-cho, Abuta-gun",
+         "map": "https://www.google.com/maps/search/?api=1&query=Nishiyama%20Crater%20Walking%20Trail%20Toyako",
+         "hours": "07:00–18:00 (to Nov 10); free",
+         "price": "free",
+         "booking": "none",
+         "phone": "0142-75-2446 (Toyako tourist assoc.)",
+         "transit": "Nakayama → Nishiyama lot ≈45 min (Rte 230 → Tōyako Onsen → Rte 37)",
+         "veg": "",
+         "status": "verified",
+         "source": "https://www.japan-guide.com/e/e6727.html"
+        },
+        {
+         "time": "15:20",
          "title": "Driver: Tōya → Noboribetsu (via Lake Kuttara)",
          "why": "55 min via Rte 37 → Dō-ō Expressway (toll included in the charter); ask the driver to come in via Route 350 for the Kuttara shore.",
          "address": "Noboribetsu Onsen",
@@ -3723,7 +3738,7 @@
          "source": ""
         },
         {
-         "time": "16:10",
+         "time": "16:20",
          "title": "Lake Kuttara shore (Route 350) — 20 min stop",
          "why": "The near-perfect circle caldera lake with Japan's 2nd-clearest water; no public transport, so this is the one day it's easy.",
          "address": "Lake Kuttara, Shiraoi-cho (Route 350 from Rte 36 / Kojōhama side)",
@@ -3738,9 +3753,9 @@
          "source": "https://www.japan.travel/en/spot/1911/"
         },
         {
-         "time": "16:45",
+         "time": "16:50",
          "title": "Check in Takinoya → Kumoi-no-yu rooftop bath, yukata",
-         "why": "Two baths fed from Jigokudani: the rooftop cave-rotenburo and the five-spring ground-floor bath.",
+         "why": "Hard deadline for the driver: Takinoya by 17:15. Ask the driver to phone Takinoya in the morning to set dinner at 18:30.",
          "address": "162 Noboribetsu Onsen-cho, Noboribetsu 059-0551",
          "map": "https://www.google.com/maps/search/?api=1&query=Takinoya%20Noboribetsu%20Onsen",
          "hours": "check-in from 14:00",
@@ -3753,7 +3768,7 @@
          "source": "https://www.klook.com/en-MY/hotels/detail/1109314-noboribetsu-onsenkyo-takinoya/"
         },
         {
-         "time": "18:00",
+         "time": "18:30",
          "title": "Kaiseki dinner (Genseirin dining room)",
          "why": "Hokkaido-ingredient kaiseki; vegan and vegetarian courses confirmed in advance.",
          "address": "Takinoya",
@@ -3768,7 +3783,7 @@
          "source": "https://www.ryokancollection.com/ryokan/takinoya/"
         },
         {
-         "time": "20:00",
+         "time": "20:15",
          "title": "Oni-bi no Michi — illuminated Jigokudani path to Tessen Pond",
          "why": "Nightly, free, sunset–21:30; the steaming valley lit by 'demon fire' lanterns, 5 min walk from the ryokan.",
          "address": "Jigokudani, Noboribetsu Onsen-cho, Noboribetsu 059-0551",
@@ -4044,7 +4059,8 @@
     "Sunset Sep 9 ≈17:55; Oni-bi no Michi runs to 21:30 — after an 18:00 dinner you have ~90 min.",
     "Tōya nightly fireworks 20:45–21:05 (to Oct 31): doing them means skipping Oni-bi and a 55-min drive each way after dinner — decide consciously; default is no.",
     "Jigokudani/Ōyunuma: walk from Takinoya (no parking needed). Dropped ~16:45; Oni-bi no Michi is on foot after dinner.",
-    "Bring: towel for the foot bath, cash for the ropeway, the Klook voucher on the phone (KLK7584714917)."
+    "Bring: towel for the foot bath, cash for the ropeway, the Klook voucher on the phone (KLK7584714917).",
+    "Sep 9 on-the-day change: Makomanai Takino (Hill of the Buddha) added as the first stop; Tōya town lunch dropped; dinner asked for 18:30; drop Nishiyama, then Kuttara, if behind — Takinoya by 17:15."
    ],
    "leg": "hokkaido",
    "base": "Noboribetsu · Takinoya (check-in from 14:00)"
