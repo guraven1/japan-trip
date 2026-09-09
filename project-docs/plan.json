@@ -4078,20 +4078,20 @@
    ],
    "anchors": [
     {
-     "time": "11:00",
-     "title": "Takinoya check-out (latest)",
-     "detail": "Check-out by 11:00 — leave by 10:45 to be safe",
-     "address": "162 Noboribetsu Onsen-cho, Noboribetsu",
-     "map": "https://www.google.com/maps/search/?api=1&query=Takinoya%20Noboribetsu%20Onsen",
-     "phone": "+81-143-84-2222"
-    },
-    {
-     "time": "10:45",
-     "title": "Bus + JR to New Chitose (no car)",
-     "detail": "Takinoya → Dōnan local bus down to JR Noboribetsu station (15 min, ≈¥350) → JR limited express Suzuran/Hokuto to Minami-Chitose (~45 min; buy the ticket at Noboribetsu station) → Rapid Airport 1 stop to New Chitose Airport (3 min). ≈75–90 min door to door incl. connections (inferred) — leave the onsen town by 10:45 for the 13:15 bag-drop cutoff.",
+     "time": "10:30",
+     "title": "Dōnan Bus 1003 Noboribetsu Onsen 10:30 → New Chitose Airport domestic terminal 11:35 (direct, no car)",
+     "detail": "Found on Willer Sep 9 (Dōnan Bus Co., daytime bus, 4 seats per row, ≈¥2,200 pp): boards 'Noboribetsu Onsen' bus terminal 10:30 (or 'Daiichi Takimoto mae' 10:24 by the Jigokudani gate); arrives domestic terminal stop No.29 at 11:35 / bus stop No.2 at 11:40 — 1 h 40 before the 13:15 bag-drop cutoff. Book 2 seats (Gur & Rachel; Tamar's group → Niseko). The 11:45 departure arriving 12:52–12:57 is too tight — don't. Leave Takinoya by 10:10 (5–7 min walk downhill with bags). BOOKING PENDING — mobile ticket via Willer.",
      "address": "Noboribetsu Onsen bus terminal",
      "map": "https://www.google.com/maps/search/?api=1&query=Noboribetsu%20Onsen%20Bus%20Terminal",
      "phone": ""
+    },
+    {
+     "time": "11:00",
+     "title": "Takinoya check-out (latest)",
+     "detail": "Check-out by 11:00 — leave the ryokan by 10:10 for the 10:30 bus",
+     "address": "162 Noboribetsu Onsen-cho, Noboribetsu",
+     "map": "https://www.google.com/maps/search/?api=1&query=Takinoya%20Noboribetsu%20Onsen",
+     "phone": "+81-143-84-2222"
     },
     {
      "time": "13:45",
@@ -4177,23 +4177,23 @@
          "source": "https://www.klook.com/en-MY/hotels/detail/1109314-noboribetsu-onsenkyo-takinoya/"
         },
         {
-         "time": "10:45",
-         "title": "Depart → refuel near Noboribetsu-Higashi IC → Dō-ō Expressway → New Chitose Airport IC",
-         "why": "≈55 km expressway, 45 min, plus 10 min each end; refuelling before return is mandatory on most rentals.",
+         "time": "10:10",
+         "title": "Walk down to the Noboribetsu Onsen bus terminal → Dōnan Bus 1003 10:30 → CTS domestic 11:35",
+         "why": "Direct highway bus (Willer/Dōnan, ≈¥2,200 pp); no transfers with the bags.",
          "address": "Noboribetsu-Higashi IC → Shin-Chitose-Kūkō IC",
          "map": "https://www.google.com/maps/search/?api=1&query=New%20Chitose%20Airport%20rent%20a%20car%20return",
          "hours": "",
-         "price": "toll ≈¥1,900 standard car / ≈¥1,400 ETC (inferred); fuel ≈¥3,000 for the 3 days",
+         "price": "≈¥2,200 pp (Willer listing, to confirm at booking)",
          "booking": "",
          "phone": "",
-         "transit": "Onsen town → IC 10 min; expressway 45 min; IC → rental depot 5–10 min; depot shuttle to terminal 10–15 min → at check-in ≈12:30",
+         "transit": "Takinoya → terminal 5–7 min downhill; bus 65 min; arrive domestic terminal 11:35",
          "veg": "",
          "status": "inferred",
          "source": "https://www.japan-guide.com/e/e6753.html"
         },
         {
-         "time": "12:35",
-         "title": "Bag drop by 13:15 → lunch in the domestic terminal",
+         "time": "11:45",
+         "title": "Bag drop (closes 13:15) → lunch in the domestic terminal",
          "why": "Ramen Dōjō (3F) for Gur/Rachel; soba/onigiri and a Suage soup-curry counter for a veg option.",
          "address": "New Chitose Airport Domestic Terminal 3F",
          "map": "https://www.google.com/maps/search/?api=1&query=Hokkaido%20Ramen%20Dojo%20New%20Chitose%20Airport",
@@ -4208,7 +4208,7 @@
         }
        ],
        "fallback": "Rain at dawn: skip the trail (mud) and do the rooftop bath; foot bath from the Ōyunuma parking side is a shorter 10-min walk if you drive up at 09:00 (¥500 parking).",
-       "cost": "≈¥8,000 for two (toll ¥1,900, fuel ¥3,000, airport lunch ¥3,500)",
+       "cost": "≈¥8,000 for two (bus ¥4,400, airport lunch ¥3,500)",
        "book": {
         "need": "none",
         "by": null,
@@ -4623,6 +4623,7 @@
     }
    ],
    "notes": [
+    "Sep 9 decision: Dōnan Bus 1003 (Noboribetsu Onsen 10:30 → CTS domestic 11:35) replaces the local bus + JR chain. Book 2 seats on Willer; the 11:45 bus is too tight for the 13:15 bag drop.",
     "Hard stop: bag drop closes 13:15 — no car, so leave the onsen town by 10:45 (bus 15 min → JR Noboribetsu → ltd express → Minami-Chitose → Rapid Airport). Buy the express ticket at the station.",
     "Jigokudani 'Demon Fireworks' are Thu 20:00 on Sep 10 — you'll be in Kyoto; not catchable.",
     "Marine Park Nixe (aquarium-castle) is theme-park-adjacent — skip.",
