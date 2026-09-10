@@ -4658,13 +4658,13 @@
     {
      "label": null,
      "leg": "kyoto",
-     "recommended": "A",
+     "recommended": "B",
      "options": [
       {
        "key": "A",
-       "role": "default",
+       "role": "alt",
        "character": "classic + outdoors",
-       "title": "Arashiyama done right: torokko → Hozugawa boat → Shigetsu → Ōkōchi Sansō → Sagano back-temples → Otagi",
+       "title": "[rain forecast — boat/torokko NOT booked] Arashiyama done right: torokko → Hozugawa boat → Shigetsu → Ōkōchi Sansō → Sagano back-temples → Otagi",
        "summary": "The last season of the old trolley cars, a 2-hour gorge descent, and the only weekday you can get into Otagi Nenbutsu-ji — all before a 40-minute taxi to dinner.",
        "timeline": [
         {
@@ -4813,7 +4813,7 @@
       },
       {
        "key": "B",
-       "role": "alt",
+       "role": "default",
        "character": "shopping & craft",
        "title": "Craft & shopping downtown: Aritsugu → Ippōdō → Sugimoto Residence → Kaikadō → vintage",
        "summary": "Kyoto's three great craft counters plus a 150-year-old merchant house that opens today for the first time in months — all within a taxi hop and fully weatherproof.",
@@ -5090,6 +5090,7 @@
     }
    ],
    "notes": [
+    "Sep 10 decision: rain forecast (showers, afternoon thunderstorm risk) — Option B (downtown craft day, indoor) is the default; boat + torokko not booked. If the morning is dry: Arashiyama without the boat (JR 10:00, Tenryū-ji, Shigetsu, grove, Gi-ō-ji moss, taxi to Nakahigashi).",
     "Book torokko + Klook boat now; torokko free refund until 23:59 Sep 10, boat free cancel until 23:59 Sep 10.",
     "Otagi last entry ~15:45 (closes 16:00) — do not linger at Adashino.",
     "Kaikadō is closed Sun/Mon: today or Saturday only.",
