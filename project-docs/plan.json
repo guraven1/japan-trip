@@ -33,9 +33,32 @@
  },
  "act_now": [
   {
-   "title": "Sep 9 charter — confirmed; just be in the lobby at 09:00 (Klook VQR223298)",
-   "deadline": "Wed Sep 9, 08:50",
-   "detail": "Voucher KLK7584714917 on the phone. Pick-up 09:00 Sapporo Stream Hotel, driver holds a 'GUR AVEN' sign; 4 pax + 4 bags; drop-off Noboribetsu Onsen (Takinoya). Itinerary is on the voucher (Nakayama Pass, Nishiyama craters, Usuzan ropeway, Tōya, Kuttara shore). Fuel/tolls/parking included — cash only for the ropeway (¥2,000 pp) and food. Optional: a Klook-chat message naming Takinoya as the exact drop-off. Rental car: cancelled (no IDPs)."
+   "title": "Book Saturday dinner (Sep 12) — Tenshō or cenci",
+   "deadline": "Today, Sep 10",
+   "detail": "Miyagawachō Tenshō tempura counter (Sat seatings 17:30/19:30; miyagawacho-tensho.com first, TableAll #396 otherwise; veg tempura for Rachel) OR cenci (Kyoto-vegetable Italian, Okazaki; online only via cenci-kyoto.com; adapts for vegetarian). Fallback: Tousuiro again / Night Market. Optional: Cave de K ~21:30 (Tabelog/phone).",
+   "link": "https://www.tableall.com/restaurant/396",
+   "leg": "kyoto"
+  },
+  {
+   "title": "Email Kutsuroginoya Yuu (Okuhida, Sep 18) — Rachel's vegetarian kaiseki",
+   "deadline": "ASAP (stay is Sep 18; no email found in Gmail)",
+   "detail": "Text ready (EN+JP) in Ryokan_Dietary_Emails.md: booking GFV226893, Aven Gur, 2 guests, one vegetarian (no meat/fish), kombu/vegetable dashi not bonito, ask for written confirmation. Also drop the note in Klook 'Manage booking' → special request.",
+   "link": "",
+   "leg": "takayama"
+  },
+  {
+   "title": "Tonight: Tousuiro Kiyamachi 19:00 — phone for a table",
+   "deadline": "Today, Sep 10, from the bus",
+   "detail": "075-251-1600. Kamogawa yuka deck if dry (¥1,500 pp deck fee), indoor tatami in rain (automatic). Last entry 20:00.",
+   "link": "",
+   "leg": "kyoto"
+  },
+  {
+   "title": "Osaka Monday dinner — kushiage 010 19:30 (TableCheck)",
+   "deadline": "By Sat Sep 12",
+   "detail": "Kitashinchi kushiage counter; or Kushikatsu Bon if Tue goes to Yugen. Walk-in fallback: Time Out Market Osaka.",
+   "link": "https://www.tablecheck.com/en/kushiage010",
+   "leg": "osaka"
   },
   {
    "title": "Pick up N'EX paper tickets at Tokyo Station",
@@ -4658,8 +4681,174 @@
     {
      "label": null,
      "leg": "kyoto",
-     "recommended": "B",
+     "recommended": "E",
      "options": [
+      {
+       "key": "E",
+       "role": "default",
+       "character": "half outdoors, half under cover",
+       "title": "Dry at breakfast: Arashiyama morning WITHOUT the boat → Shigetsu → covered afternoon downtown (Sugimoto, Aritsugu, Ippōdō) → Nakahigashi",
+       "summary": "Decided Sep 10 on the bus: the forecast is afternoon-storm shaped, so the temples and the grove go before noon and the craft counters after — nothing needs booking and nothing is lost if the sky closes in at 13:00.",
+       "timeline": [
+        {
+         "time": "08:45",
+         "title": "Hotel → Karasuma-Oike → Kyoto → JR Sagano line → Saga-Arashiyama",
+         "why": "20 min from Kyoto Stn; walk 10 min to Tenryū-ji north gate.",
+         "address": "Saga-Arashiyama Station",
+         "map": "https://www.google.com/maps/search/?api=1&query=Saga-Arashiyama%20Station",
+         "hours": "",
+         "price": "¥240 JR + ¥220 subway pp",
+         "booking": "none",
+         "phone": "",
+         "transit": "subway 6 min + JR 15 min",
+         "veg": "",
+         "status": "verified",
+         "source": ""
+        },
+        {
+         "time": "09:30",
+         "title": "Tenryū-ji — Sōgenchi garden (skip the halls)",
+         "why": "The Muromachi pond garden against the hill; 30 min is enough.",
+         "address": "68 Saga-Tenryūji Susukinobaba-chō, Ukyō-ku",
+         "map": "https://www.google.com/maps/search/?api=1&query=Tenryu-ji%20Kyoto",
+         "hours": "08:30–17:00",
+         "price": "¥500 garden",
+         "booking": "none",
+         "phone": "075-881-1235",
+         "transit": "",
+         "veg": "",
+         "status": "verified",
+         "source": "https://www.tenryuji.com/en/"
+        },
+        {
+         "time": "10:15",
+         "title": "Bamboo grove (early, before the crowds) → Ōkōchi Sansō villa & garden + matcha",
+         "why": "Silent-film star's hillside estate with the best-kept garden in Arashiyama; matcha and sweet included, quiet at midday.",
+         "address": "8 Sagaogurayama Tabuchiyama-cho, Ukyo Ward, Kyoto",
+         "map": "https://www.google.com/maps/search/?api=1&query=Okochi%20Sanso%20Villa",
+         "hours": "09:00–17:00 (pass-1/japan-guide; official page did not list hours)",
+         "price": "¥1,000 pp incl. matcha",
+         "booking": "none",
+         "phone": "075-872-2233",
+         "transit": "8 min walk through the grove from Tenryū-ji north gate",
+         "veg": "",
+         "status": "verified",
+         "source": "https://okochisansogarden.com/en/visit"
+        },
+        {
+         "time": "11:15",
+         "title": "Gi-ō-ji (moss garden — best when wet) → back down via Jōjakkō-ji",
+         "why": "The Sagano back-road: three small temples most day-trippers never reach; Gi-ō-ji's moss and thatched gate is the standout.",
+         "address": "32 Sagatoriimoto Kozaka-cho, Ukyo Ward, Kyoto",
+         "map": "https://www.google.com/maps/search/?api=1&query=Gioji%20Temple%20Kyoto",
+         "hours": "Gi-ō-ji 09:00–16:50; Adashino 09:00–17:00",
+         "price": "Gi-ō-ji ¥300, Adashino ¥500 (Jōjakkō-ji ¥500 if entered)",
+         "booking": "none",
+         "phone": "",
+         "transit": "walk 15–20 min north",
+         "veg": "",
+         "status": "inferred",
+         "source": "https://www.japan-guide.com/e/e3912.html"
+        },
+        {
+         "time": "12:15",
+         "title": "Lunch: Shigetsu (Tenryū-ji shōjin ryōri)",
+         "why": "Michelin Bib Gourmand Zen temple cuisine inside a World Heritage garden — 100 % vegetarian.",
+         "address": "68 Susukinobaba-cho, Saga-Tenryuji, Ukyo Ward, Kyoto 616-8385",
+         "map": "https://www.google.com/maps/search/?api=1&query=Shigetsu%20Tenryuji%20Kyoto",
+         "hours": "11:00–14:00",
+         "price": "Yuki ¥3,800 / Tsuki ¥6,500 / Hana ¥9,000 pp (incl. ¥500 garden entry)",
+         "booking": "required for 2+: phone 075-882-9725 (09:00–17:00) or form on tenryuji.com; Yuki ≥2 days ahead, Tsuki/Hana ≥3 days → book by Sep 8",
+         "phone": "075-882-9725",
+         "transit": "10 min walk from boat landing at Togetsukyō",
+         "veg": "entirely vegetarian (dashi is kombu/shiitake)",
+         "status": "verified",
+         "source": "https://www.tenryuji.com/en/shigetsu/"
+        },
+        {
+         "time": "13:30",
+         "title": "JR Saga-Arashiyama → Kyoto → Karasuma-Oike (hotel, dry off)",
+         "why": "Back downtown before the afternoon storms.",
+         "address": "",
+         "map": "https://www.google.com/maps/search/?api=1&query=Saga-Arashiyama%20Station",
+         "hours": "",
+         "price": "¥460 pp",
+         "booking": "none",
+         "phone": "",
+         "transit": "35 min",
+         "veg": "",
+         "status": "verified",
+         "source": ""
+        },
+        {
+         "time": "14:30",
+         "title": "Sugimoto Residence (Important Cultural Property machiya) — public opening day 1",
+         "why": "1870 merchant house of a kimono wholesaler, shown with its summer fittings; open only Sep 11–27 Fri/Sat/Sun.",
+         "address": "116 Yada-cho, Ayanokoji-dori Shinmachi Nishi-iru, Shimogyo Ward, Kyoto",
+         "map": "https://www.google.com/maps/search/?api=1&query=Sugimoto%20Residence%20Kyoto",
+         "hours": "Fri–Sun Sep 11–27, 10:00–17:00 (reception closes 16:00) per kanko.jp; pass-1 read 13:00–17:00 — check the door",
+         "price": "¥1,500 pp",
+         "booking": "no reservation",
+         "phone": "",
+         "transit": "8 min walk south-west of hotel",
+         "veg": "",
+         "status": "verified",
+         "source": "https://blog.kanko.jp/kyoto-sightseeing/event9/sugimotohouse9"
+        },
+        {
+         "time": "15:45",
+         "title": "Aritsugu (Nishiki)",
+         "why": "Knife-makers since 1560; free name engraving on purchase and they will fit a handle while you wait.",
+         "address": "219 Kajiya-cho, Nishikikoji-dori Gokomachi Nishi-iru, Nakagyo Ward, Kyoto 604-8052",
+         "map": "https://www.google.com/maps/search/?api=1&query=Aritsugu%20Nishiki%20Kyoto",
+         "hours": "10:00–17:00 (last new orders 16:30); closed Wed",
+         "price": "knives ¥15,000–60,000",
+         "booking": "none; arrive at 10:00 to avoid the queue",
+         "phone": "075-221-1091",
+         "transit": "3 min walk",
+         "veg": "",
+         "status": "verified",
+         "source": "https://japaneseknifelab.com/en/map/kyoto/"
+        },
+        {
+         "time": "16:15",
+         "title": "Ippōdō Tea main store + Kaboku tearoom",
+         "why": "Tea merchant since 1717; Kaboku lets you brew your own gyokuro at the counter.",
+         "address": "52 Tokiwagi-cho, Teramachi-dori Nijo-agaru, Nakagyo Ward, Kyoto 604-0915",
+         "map": "https://www.google.com/maps/search/?api=1&query=Ippodo%20Tea%20Kyoto%20Main%20Store",
+         "hours": "10:00–17:00 (tearoom last call 16:30); closed 2nd Wed",
+         "price": "tearoom ¥1,000–2,000 pp",
+         "booking": "walk-in",
+         "phone": "075-211-4018",
+         "transit": "10 min walk north on Teramachi",
+         "veg": "",
+         "status": "verified",
+         "source": "https://global.ippodo-tea.co.jp/pages/store-kyoto"
+        },
+        {
+         "time": "17:20",
+         "title": "Taxi to Nakahigashi",
+         "why": "20 min from downtown; arrive 17:50.",
+         "address": "32-3 Jodoji Ishibashi-cho, Sakyo Ward, Kyoto",
+         "map": "https://www.google.com/maps/search/?api=1&query=Sojiki%20Nakahigashi%20Kyoto",
+         "hours": "",
+         "price": "≈¥2,000",
+         "booking": "",
+         "phone": "",
+         "transit": "taxi 20 min",
+         "veg": "",
+         "status": "inferred",
+         "source": ""
+        }
+       ],
+       "fallback": "Raining at breakfast: Option B (craft day) as is. Storm at noon in Arashiyama: skip Gi-ō-ji, eat at Shigetsu, train back.",
+       "cost": "≈¥22,000 for two excl. dinner (Shigetsu ¥7,600–13,000, entries ¥4,600, Sugimoto ¥3,000, trains/taxi ¥3,500)",
+       "book": {
+        "need": "none",
+        "by": null,
+        "what": "No advance booking — Shigetsu: phone 075-882-9725 the day before if you want a table (asks for 3 days' notice; walk-in possible on a weekday)"
+       }
+      },
       {
        "key": "A",
        "role": "alt",
@@ -4813,9 +5002,9 @@
       },
       {
        "key": "B",
-       "role": "default",
+       "role": "rainy",
        "character": "shopping & craft",
-       "title": "Craft & shopping downtown: Aritsugu → Ippōdō → Sugimoto Residence → Kaikadō → vintage",
+       "title": "Raining at breakfast: craft & shopping downtown — Aritsugu → Ippōdō → Sugimoto Residence → Kaikadō → vintage",
        "summary": "Kyoto's three great craft counters plus a 150-year-old merchant house that opens today for the first time in months — all within a taxi hop and fully weatherproof.",
        "timeline": [
         {
@@ -5022,37 +5211,6 @@
         "by": "2026-09-08",
         "what": "NORU Secret Kyoto e-bike 09:00 (noru.cc / GetYourGuide)"
        }
-      },
-      {
-       "key": "D",
-       "role": "rainy",
-       "character": "shopping & craft",
-       "title": "Same as Option B (all indoor)",
-       "summary": "Option B is the rainy plan: craft counters, machiya, tearoom, vintage.",
-       "timeline": [
-        {
-         "time": "10:00",
-         "title": "Aritsugu → Ippōdō → Yoshikawa → Sugimoto Residence → Kaikadō → vintage",
-         "why": "See Option B.",
-         "address": "Nakagyo Ward, Kyoto",
-         "map": "https://www.google.com/maps/search/?api=1&query=Aritsugu%20Nishiki%20Kyoto",
-         "hours": "see B",
-         "price": "",
-         "booking": "",
-         "phone": "",
-         "transit": "",
-         "veg": "",
-         "status": "verified",
-         "source": ""
-        }
-       ],
-       "fallback": "",
-       "cost": "≈¥20,000 for two before purchases",
-       "book": {
-        "need": "none",
-        "by": null,
-        "what": "No advance booking — walk in / buy on the day"
-       }
       }
      ]
     }
@@ -5090,7 +5248,7 @@
     }
    ],
    "notes": [
-    "Sep 10 decision: rain forecast (showers, afternoon thunderstorm risk) — Option B (downtown craft day, indoor) is the default; boat + torokko not booked. If the morning is dry: Arashiyama without the boat (JR 10:00, Tenryū-ji, Shigetsu, grove, Gi-ō-ji moss, taxi to Nakahigashi).",
+    "Sep 10 decision (on the bus): forecast is hot + afternoon thunderstorms, not all-day rain → Option E (Arashiyama morning without the boat, covered afternoon) if dry at breakfast; Option B (craft day) if raining. Boat + torokko NOT booked.",
     "Book torokko + Klook boat now; torokko free refund until 23:59 Sep 10, boat free cancel until 23:59 Sep 10.",
     "Otagi last entry ~15:45 (closes 16:00) — do not linger at Adashino.",
     "Kaikadō is closed Sun/Mon: today or Saturday only.",
@@ -5599,6 +5757,7 @@
     }
    ],
    "notes": [
+    "Sep 10 decision: A as planned but storm-shaped — Fushimi Inari 07:30 and Kiyomizu before the heat; after Hikiniku do Kōdai-ji/Gion lanes only if the radar is clear, otherwise arcades/Ippōdō or Funaoka Onsen; K36 rooftop shuts in rain. Saturday dinner still to book: Tenshō (own site → TableAll) or cenci (online) — Gur to choose.",
     "Hikiniku: 10 min late = auto-cancel of a prepaid ¥5,960 — be at the door 12:40.",
     "Kōdai-ji is ¥800 (not ¥600) in 2026.",
     "L'Escamoteur takes no reservations; go before 21:00 or expect a queue.",
@@ -5639,13 +5798,13 @@
     {
      "label": null,
      "leg": "kyoto",
-     "recommended": "A",
+     "recommended": "B",
      "options": [
       {
        "key": "A",
-       "role": "default",
+       "role": "alt",
        "character": "city",
-       "title": "Sleep in → Fushimi sake district (Gekkeikan, canal, Fujioka) → back → 16:00 Kamishichiken Bon Odori → Via Salaria",
+       "title": "Wet at 08:00 (else Fushimi goes to Monday): Sleep in → Fushimi sake district (Gekkeikan, canal, Fujioka) → back → 16:00 Kamishichiken Bon Odori → Via Salaria",
        "summary": "A gentle brewery-quarter morning, then the one day a year Kyoto's oldest hanamachi's geiko and maiko dance in public, and a booked Italian wine-pairing dinner in Higashiyama to finish.",
        "timeline": [
         {
@@ -5764,9 +5923,9 @@
       },
       {
        "key": "B",
-       "role": "alt",
+       "role": "default",
        "character": "outdoors",
-       "title": "Kurama–Kibune hike + Hirobun nagashi-sōmen → Bon Odori → Via Salaria",
+       "title": "Dry at 08:00: Kurama–Kibune hike + Hirobun nagashi-sōmen → Bon Odori → Via Salaria",
        "summary": "A 90-minute temple-to-shrine ridge walk and lunch on a platform over a mountain stream in its last fortnight, back in town for the geiko dance.",
        "timeline": [
         {
@@ -6116,6 +6275,7 @@
     }
    ],
    "notes": [
+    "Sep 10 decision: Kurama–Kibune in the morning if dry at 08:00 (shaded ridge walk, done by 13:00, Hirobun sōmen walk-in); Fushimi sake district moves to Monday morning en route to Osaka. Bon Odori 16:00 only if dry (open car park). Via Salaria 19:00 booked — leave Kitano by 18:15.",
     "Dinner (Via Salaria) is in southern Higashiyama near Tōfuku-ji, not Gion — from Kitano Tenmangū allow ~35 min by taxi (inferred); leave the Bon Odori by 18:15. 9 courses + pairing runs ~2.5 h, so the Night Market afterwards is optional at best.",
     "Bon Odori VIP room: price/booking not published on the city page — email shichido.kyoto@gmail.com this week; 3 sessions 14:00–19:30.",
     "Bon Odori rain date Sep 19 = after you leave; the stage is an open car park (no roof).",
@@ -6777,6 +6937,7 @@
     }
    ],
    "notes": [
+    "Sep 10 decision: Fushimi sake district Monday morning (Gekkeikan 09:30, kura walk, Fujioka Bar En 11:30) → Keihan Chūshojima → Yodoyabashi → Namba by ~13:00. If Sunday was wet and Fushimi got done then: Option C (slow Kyoto) instead. Send the big bags to Osaka Sunday night if you want a bag-free Fushimi.",
     "Kaikadō is closed Monday; buy caddies Fri or Sat.",
     "Pick up Hida paper tickets at Shin-Osaka/Osaka Station Sep 14–15 (Osaka leg).",
     "Hida tickets: collect at Osaka Station's green machine while passing Umeda today (card …1969 + res 45760 + 4-digit ID); machines are in the Central concourse; Midori-no-madoguchi if the card is refused.",
