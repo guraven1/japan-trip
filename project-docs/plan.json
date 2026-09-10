@@ -4681,13 +4681,13 @@
     {
      "label": null,
      "leg": "kyoto",
-     "recommended": "E",
+     "recommended": "B",
      "options": [
       {
        "key": "E",
-       "role": "default",
+       "role": "alt",
        "character": "half outdoors, half under cover",
-       "title": "Dry at breakfast: Arashiyama morning WITHOUT the boat → Shigetsu → covered afternoon downtown (Sugimoto, Aritsugu, Ippōdō) → Nakahigashi",
+       "title": "[Only if the warning is lifted by breakfast] Arashiyama morning WITHOUT the boat → Shigetsu → covered afternoon downtown (Sugimoto, Aritsugu, Ippōdō) → Nakahigashi",
        "summary": "Decided Sep 10 on the bus: the forecast is afternoon-storm shaped, so the temples and the grove go before noon and the craft counters after — nothing needs booking and nothing is lost if the sky closes in at 13:00.",
        "timeline": [
         {
@@ -5002,9 +5002,9 @@
       },
       {
        "key": "B",
-       "role": "rainy",
+       "role": "default",
        "character": "shopping & craft",
-       "title": "Raining at breakfast: craft & shopping downtown — Aritsugu → Ippōdō → Sugimoto Residence → Kaikadō → vintage",
+       "title": "craft & shopping downtown — Aritsugu → Ippōdō → Sugimoto Residence → Kaikadō → vintage",
        "summary": "Kyoto's three great craft counters plus a 150-year-old merchant house that opens today for the first time in months — all within a taxi hop and fully weatherproof.",
        "timeline": [
         {
@@ -5248,7 +5248,7 @@
     }
    ],
    "notes": [
-    "Sep 10 decision (on the bus): forecast is hot + afternoon thunderstorms, not all-day rain → Option E (Arashiyama morning without the boat, covered afternoon) if dry at breakfast; Option B (craft day) if raining. Boat + torokko NOT booked.",
+    "Sep 10 16:10 JST — Osaka Regional HQ outlook: warning-level heavy rain for central Kinki (Kyoto) from late night Sep 10 to early evening Sep 11; worst window early morning–noon (up to 40 mm/h, ~80 mm/24h), thunderstorms, landslide advisory for hillsides. → Option B (craft day, all indoor) is the plan; sleep in, Aritsugu 10:00, Ippōdō, Sugimoto 13:30, Kaikadō 15:00. Arashiyama OFF (gorge + hills; JR Sagano can be suspended). Nakahigashi 18:00: taxi both ways, leave 15 min early; if a warning is still in force at 17:00 phone 075-752-3500 to confirm they are open.",
     "Book torokko + Klook boat now; torokko free refund until 23:59 Sep 10, boat free cancel until 23:59 Sep 10.",
     "Otagi last entry ~15:45 (closes 16:00) — do not linger at Adashino.",
     "Kaikadō is closed Sun/Mon: today or Saturday only.",
