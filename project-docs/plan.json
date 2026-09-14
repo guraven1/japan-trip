@@ -33,27 +33,6 @@
  },
  "act_now": [
   {
-   "title": "Shirakawa-gō express bus — 07:50 out / 16:35 back (Thu Sep 17)",
-   "deadline": "Now (window opened Aug 30); pay within 3 days",
-   "detail": "japanbusonline.com, ¥2,800 each way. Morning departures sell out in September. Exchange e-ticket at the Nohi counter Sep 16.",
-   "link": "https://japanbusonline.com/en/CourseSearch/11900040002",
-   "leg": "takayama"
-  },
-  {
-   "title": "N'EX Tokyo Stn → Narita T1, Wed Sep 23 ~11:30",
-   "deadline": "Now (holiday; free cancel to 21:00 Sep 22)",
-   "detail": "Eki-net, same account as the Azusa; ~¥3,250 pp. QR e-ticket or machine pickup at Tokyo Stn Sep 19–22.",
-   "link": "https://www.eki-net.com/en/jreast-train-reservation/Top/Index",
-   "leg": "tokyo-finale"
-  },
-  {
-   "title": "Udatsu Sushi — confirm Rachel's vegetable omakase",
-   "deadline": "By Wed Sep 2",
-   "detail": "They ask 2 days' notice. Message via AutoReserve or call 050-3550-5938 (Fri Sep 4, 20:30, 2 pax).",
-   "link": "",
-   "leg": "tokyo-front"
-  },
-  {
    "title": "AIROS Osaka night helicopter — send the reservation request (Tue Sep 15)",
    "deadline": "By Sat Sep 5 (keeps a free date change; cancellation fees start 10 days out)",
    "detail": "10-min Downtown Skyline ¥74,200 per flight (≤3 pax). Request ~18:45 (sunset 18:08). Weather cancellation = full refund.",
@@ -69,7 +48,7 @@
   },
   {
    "title": "Email The Tokyo Station Hotel about the takkyūbin bags",
-   "deadline": "Sun Sep 13 (calendar reminder set)",
+   "deadline": "Draft ready in Gmail (to info@thetokyostationhotel.jp) — send Sep 14",
    "detail": "2 bags arriving ~Sep 16–17 for check-in Sep 19; guest Gur Aven; Klook YTX109746; please hold.",
    "link": "",
    "leg": "tokyo-finale"
@@ -115,7 +94,7 @@
   {
    "group": "Flights",
    "title": "El Al LY92 NRT T1 → TLV",
-   "detail": "Wed Sep 23 15:35 → 22:20. Holiday — be at NRT ~13:00; leave hotel ~11:00 by N'EX (book on Eki-net)."
+   "detail": "Wed Sep 23 15:35 → 22:20. Holiday — be at NRT ~13:00; N'EX 11:33 from Tokyo Stn is booked (Eki-net E48412, paper tickets in hand)."
   },
   {
    "group": "Hotels",
@@ -170,7 +149,7 @@
   {
    "group": "Trains & buses",
    "title": "Sep 17 · Shirakawa-gō express bus",
-   "detail": "japanbusonline.com — book 07:50 out / 16:35 back (¥2,800 each way). Pay within 3 days or it auto-cancels. Exchange e-ticket at Nohi Bus Center (in front of Takayama Stn, 06:30–19:00)."
+   "detail": "japanbusonline e-tickets, PAID. Out Thu Sep 17 07:50 Takayama Nohi Bus Center → Shirakawa-gō (Ogimachi) 08:40, res 08312001231, bus 01 seats 11A/11B. Back 16:35 Shirakawa-gō → Takayama 17:25, res 08312035491, bus 01 seats 7A/7B. ¥5,600 for 2 each way. Show the e-ticket e-mail (phone is accepted; a printout is safer — ask Ouan to print) to the driver at boarding; no counter exchange needed. Changes only by cancelling on japanbusonline before the deadline."
   },
   {
    "group": "Trains & buses",
@@ -185,7 +164,7 @@
   {
    "group": "Trains & buses",
    "title": "Sep 23 · N'EX Tokyo Stn → Narita T1",
-   "detail": "TO BOOK on Eki-net (same account as the Azusa). Target ~11:30 → T1 ~12:30. ~¥3,250 pp. Free cancel to 21:00 Sep 22."
+   "detail": "BOOKED — Eki-net res E48412. Narita Express 21, Tokyo 11:33 → Narita Airport Terminal 1 12:31, car 3 seats 3-A/3-B, ¥6,280 for 2 (Sōbu/Narita line fare ticket + reserved ltd-exp ticket). Paper tickets already collected at Narita Airport station on Sep 3 (pickup code 20292476220521218 if a reprint is ever needed). Sōbu underground platforms, Marunouchi side of the station."
   },
   {
    "group": "Tickets & bookings",
@@ -7160,7 +7139,7 @@
     {
      "time": "13:12",
      "title": "Hida 7 arrives Takayama",
-     "detail": "Paper tickets picked up at Osaka Stn Sep 14–15. Nohi Bus Center is directly across the station forecourt (counter 06:30–19:00 daily, tel 0577-32-1688) — exchange/collect the Sep 17 Shirakawa-gō e-ticket here on arrival.",
+     "detail": "Paper tickets picked up at Osaka Stn Sep 14–15. Nohi Bus Center is directly across the station forecourt (counter 06:30–19:00 daily, tel 0577-32-1688). The Sep 17 Shirakawa-gō buses are booked and paid (japanbusonline e-tickets) — no exchange needed; ask Ouan to print the two e-ticket e-mails as a backup.",
      "address": "Takayama Station, Showamachi 1-22-2, Takayama",
      "map": "https://www.google.com/maps/search/?api=1&query=Takayama%20Station%20Gifu",
      "phone": ""
@@ -7280,8 +7259,8 @@
        "timeline": [
         {
          "time": "13:20",
-         "title": "Bags to Takayama Ouan, ticket exchange at Nohi Bus Center",
-         "why": "Both are on the station forecourt; collecting the Shirakawa-gō e-ticket now saves the 07:35 queue tomorrow.",
+         "title": "Bags to Takayama Ouan (ask the desk to print the Shirakawa-gō e-tickets)",
+         "why": "Bus e-tickets are already paid; the driver accepts the e-mail on a phone, but a printout is the safer backup.",
          "address": "Nohi Bus Center, 6-125 Hanasato-machi, Takayama",
          "map": "https://www.google.com/maps/search/?api=1&query=Takayama%20Nohi%20Bus%20Center",
          "hours": "counter 06:30–19:00 daily",
@@ -7677,7 +7656,7 @@
    "notes": [
     "Leave the hotel by 08:20 at the latest; Shin-Osaka's Shinkansen gates are a 5-min walk from the Midōsuji platform.",
     "If the Hida paper tickets were not collected on Sep 14/15, the Shin-Osaka JR-West green machines are the last chance (card …1969 + res 45760 + 4-digit ID) — allow 10 min.",
-    "Collect/exchange tomorrow's 07:50 Shirakawa-gō e-ticket at the Nohi counter this afternoon (06:30–19:00) — the counter queue at 07:30 can be 20 min.",
+    "Tomorrow's 07:50 Shirakawa-gō bus is booked (res 08312001231, seats 11A/11B) — show the e-ticket e-mail to the driver; be at the Nohi Bus Center by 07:35.",
     "All brewery tasting counters close at 16:00 even though shops stay open later; do sake before the Yatai Kaikan if you care more about sake than floats.",
     "LE MiDi kitchen closes 20:30 — do not be late for the 19:00 seating.",
     "Morning markets (Miyagawa / Jinya-mae, ~07:00–12:00) are only reachable Sep 17 before the 07:50 bus — realistically skip."
@@ -7697,8 +7676,8 @@
    "anchors": [
     {
      "time": "07:50",
-     "title": "Nohi bus Takayama → Shirakawa-gō (user booking on japanbusonline)",
-     "detail": "Reservation-required service; bookable 08/30–09/30; ~50 min, arr ~08:40; ¥2,800 one way. Show the e-ticket at the Nohi counter / driver. Return 16:35 → Takayama ~17:25.",
+     "title": "Nohi bus Takayama → Shirakawa-gō (booked, e-ticket)",
+     "detail": "BOOKED & PAID on japanbusonline: res 08312001231, bus 01 seats 11A/11B, arr 08:40. Show the e-ticket e-mail (or printout) to the driver. Return 16:35 → Takayama 17:25: res 08312035491, bus 01 seats 7A/7B. ¥5,600 for 2 each way.",
      "address": "Takayama Nohi Bus Center, 6-125 Hanasato-machi",
      "map": "https://www.google.com/maps/search/?api=1&query=Takayama%20Nohi%20Bus%20Center",
      "phone": "0577-32-1688"
@@ -10778,7 +10757,7 @@
     {
      "time": "11:00",
      "title": "Leave hotel → N'EX Tokyo → Narita T1",
-     "detail": "N'EX departs Tokyo ~11:33 (Sōbu underground platforms, Marunouchi side of the station — 5 min from the hotel lobby); ~55–60 min to Terminal 1. Book reserved seats on Eki-net now (window opened Aug 23; free cancel till 21:00 Sep 22).",
+     "detail": "N'EX 21 departs Tokyo 11:33 → Narita Airport T1 12:31 — BOOKED, Eki-net E48412, car 3 seats 3-A/3-B; paper tickets (fare + ltd-exp) already in hand. Sōbu underground platforms, Marunouchi side of the station — 5 min from the hotel lobby.",
      "address": "Tokyo Station Sobu underground platforms",
      "map": "https://www.google.com/maps/search/?api=1&query=Tokyo+Station+Narita+Express+platform",
      "phone": ""
@@ -11083,7 +11062,6 @@
    ],
    "notes": [
     "Autumnal Equinox holiday: Daimaru opens 10:00, Gransta 08:00; East Gardens open (closed yesterday).",
-    "Reserve N'EX seats on Eki-net now — holiday demand; free cancellation until 21:00 the day before.",
     "Ron Mueck's last day is today — not doable on this timeline."
    ],
    "leg": "tokyo-finale",
