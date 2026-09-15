@@ -89,9 +89,9 @@
    "leg": "osaka"
   },
   {
-   "title": "Bags → Tokyo Station Hotel: ONLY if the reservation is confirmed by 08:00 Sep 16 — otherwise carry to Takayama and ship from Takayama Ouan",
-   "deadline": "Wed Sep 16, 08:00 (Nozomi 09:24)",
-   "detail": "Sep 15: The Tokyo Station Hotel (Ms Nobe, reservations +81 3 5220 1112) cannot find the booking under Klook YTX109746 or supplier ref 260710173148900856 and will only accept pre-arrival luggage once the reservation is confirmed. Klook ticket open. IF CONFIRMED by 08:00 Sep 16: hand bags to Hotel Royal Classic Osaka desk, label = hotel name + 'AVEN GUR' + 'check-in 19 Sep' in the memo. IF NOT: take the bags on Nozomi 84 + Hida 7 (both have luggage space; Hida car 8 seats 9-C/D — use the rear-of-car luggage area), and ship from Takayama Ouan's front desk on Sep 17 or 18 (next-day to Tokyo) once the hotel confirms. Do NOT ship unconfirmed: a refused parcel sits at a Yamato depot in Tokyo while you're in the Alps.",
+   "title": "Hand big bags to the Osaka hotel desk 08:00 Sep 16 — takkyūbin → The Tokyo Station Hotel (hotel agreed to hold them)",
+   "deadline": "Wed Sep 16, 08:00 (before the 09:24 Nozomi)",
+   "detail": "Sep 15 18:50: Ms Risa Nagai (reservations) — the hotel has a booking under the same name, cannot yet match it to Klook YTX109746, but 'this time you can send the luggage to us and we will keep them'. Label: The Tokyo Station Hotel, 1-9-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005, tel 03-5220-1111 · guest AVEN GUR · memo 'check-in 19 September'. 2 bags, ~¥2,500 each, arrives Sep 17. Keep the Klook ticket open: get the hotel confirmation number before Sep 19 check-in.",
    "link": "",
    "leg": "osaka"
   },
@@ -6960,8 +6960,8 @@
    "anchors": [
     {
      "time": "08:00 Sep 16",
-     "title": "Luggage decision: ship from Osaka only if The Tokyo Station Hotel has confirmed the reservation; else carry to Takayama",
-     "detail": "See act-now. Hotel cannot locate the Klook booking (Sep 15). Fallback: bags ride Nozomi + Hida, shipped from Takayama Ouan Sep 17/18.",
+     "title": "Big luggage to the Osaka front desk for Yamato takkyūbin → The Tokyo Station Hotel (hotel agreed Sep 15 to hold them)",
+     "detail": "Label: hotel name + AVEN GUR + memo 'check-in 19 September'. Arrives Sep 17. Klook confirmation number still to obtain for check-in.",
      "address": "Hotel Royal Classic Osaka front desk",
      "map": "https://www.google.com/maps/search/?api=1&query=Hotel%20Royal%20Classic%20Osaka%20Namba",
      "phone": "+81 6-6633-0030"
@@ -7446,7 +7446,7 @@
     }
    ],
    "notes": [
-    "Sep 15: Tokyo Station Hotel cannot find the Klook reservation (YTX109746 / 260710173148900856) — luggage-ahead only once confirmed. Klook ticket open. Fallback = carry bags to Takayama, ship from Ouan.",
+    "Sep 15 18:50: Tokyo Station Hotel (Ms Nagai) has a booking under the same name and will accept and hold the luggage even though it cannot yet match the Klook reference. Ship from Osaka Sep 16 as planned. Still chase Klook for the hotel confirmation number.",
     "Kiku-Masamune Sake Museum is CLOSED TUESDAYS from Apr 2026 — use Hakutsuru + Sawanotsuru (or Kobe Shushinkan/Fukuju) instead.",
     "Go Kobe → heliport directly (Sannomiya → Osaka → Nishikujō → Sakurajima ~50 min); returning to Namba first wastes 40 min. Luggage is already handed over at 08:30.",
     "Post-flight dinner: Bon seats until 21:30 (verified); 010 closes 22:00; Yugen 18:00–22:00 — ask for 20:30 or keep Yugen for a non-heli plan.",

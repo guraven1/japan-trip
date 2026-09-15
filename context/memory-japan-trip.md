@@ -21,3 +21,4 @@
 - Sep 8 10:56 JST: Klook confirmed the Sep 9 charter (VQR223298, order 5584856647). Overtime ¥3,000/30 min cash, max 2 h; driver holds a name sign.
 - Voucher KLK7584714917: pick-up 09:00 (Gur chose 09:00 at checkout, not 08:30), 4 pax/4 bags, drop-off Noboribetsu Onsen, itinerary entered at checkout; fuel, tolls and parking included.
 - Sep 15: The Tokyo Station Hotel could not locate the Klook booking (YTX109746 / supplier ref 260710173148900856); refuses pre-arrival luggage until confirmed. Klook ticket opened. Contingency: carry bags to Takayama, ship from Ouan.
+- Sep 15 18:50: Tokyo Station Hotel agreed to accept the luggage anyway (booking exists under the same name). Ship from Osaka Sep 16.
