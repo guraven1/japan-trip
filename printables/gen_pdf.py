@@ -64,7 +64,7 @@ hotel_rows = [
     ['Sep 14-16', 'Hotel Royal Classic Osaka', 'EEV842685'],
     ['Sep 16-18', 'Takayama Ouan', 'ERB149933'],
     ['Sep 18', 'Kutsuroginoya Yuu, Okuhida', 'GFV226893'],
-    ['Sep 19-23', 'The Tokyo Station Hotel', 'YTX109746'],
+    ['Sep 19-23', 'The Tokyo Station Hotel (hotel conf. 2505981305)', 'YTX109746'],
 ]
 t = Table(hotel_rows, colWidths=[15 * mm, colw - 15 * mm - 21 * mm, 21 * mm])
 t.setStyle(TableStyle([

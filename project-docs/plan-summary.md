@@ -205,9 +205,7 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 - Osaka Monday dinner — kushiage 010 19:30 (TableCheck) — By Sat Sep 12. Kitashinchi kushiage counter; or Kushikatsu Bon if Tue goes to Yugen. Walk-in fallback: Time Out Market Osaka.
 - Pick up N'EX paper tickets at Tokyo Station — Sep 19–22 (you're staying inside the station). Any JR East reserved-seat machine; QR in the Eki-net 'E48412' email or pickup code 20292476220521218; must be issued before boarding Sep 23.
 - Sumo resale watch — one day, any seat (Sep 20 or 21) — Daily until Sep 19/20 (calendar reminder set)
-- Email The Tokyo Station Hotel about the takkyūbin bags — Sun Sep 13 (calendar reminder set)
 - Pick up Hida 7 paper tickets at Osaka / Shin-Osaka — Sep 14–15 (calendar reminder set)
-- Hand big bags to the Osaka hotel desk 08:00 Sep 16 — takkyūbin → The Tokyo Station Hotel (hotel agreed Sep 15 to hold them; label hotel name + AVEN GUR + memo 'check-in 19 September'; still chase Klook for the hotel confirmation number)
 - Spa block Tue Sep 22, 14:30 — Four Seasons Ōtemachi — By Tue Sep 15 (holiday Tuesday)
 
 ## Bookings
@@ -222,7 +220,7 @@ Generated 2026-08-30. Principle: decide on the go. Booked anchors are fixed; eve
 - **Hotel Royal Classic Osaka · Sep 14–16** — Klook EEV842685. Standard Queen, 100 m from Namba Stn. Free cancel to Sep 11 08:59 JST. Luggage handover for takkyūbin on Sep 15 (hotel holds nothing after checkout).
 - **Takayama Ouan · Sep 16–18** — Klook ERB149933. Wa Deluxe Double, rooftop onsen, 3 min from JR Takayama. Free cancel to Sep 13 21:59 JST.
 - **Kutsuroginoya Yuu, Okuhida · Sep 18** — Klook GFV226893. Maisonette with private open-air bath, kaiseki + breakfast. Location: Hitoegane 200-228, Shin-Hirayu (bus stop Ippōsui) — NOT Tochio. Tel 0578-89-3345. Free pickup from Hirayu terminal on call. Check-in 15:00 / out 10:00. Free cancel to Sep 11 21:59 JST. TO DO: request Rachel's kaiseki without meat/fish.
-- **The Tokyo Station Hotel · Sep 19–23** — Klook YTX109746. City View King, room only. Inside Tokyo Station (Marunouchi). Non-refundable after Sep 17 22:00 JST. Email Sep 13–14 about 2 takkyūbin bags arriving Sep 16–17.
+- **The Tokyo Station Hotel · Sep 19–23** — Klook YTX109746 · HOTEL CONFIRMATION 2505981305 (guest GUR AVEN, via Klook support Sep 16). City View King, room only. Non-refundable after Sep 17 22:00 JST. 2 bags sent from Osaka Sep 16, arriving Sep 17; hotel holding them.
 - **Sep 16 · Nozomi 84 Shin-Osaka 09:24 → Nagoya 10:13** — Smart-EX res 2001 (membership 4455495660). Car 14, seats 2-D/2-E. Board with QR ticket or registered IC. 35-min transfer to Hida 7.
 - **Sep 16 · Hida 7 Nagoya 10:48 → Takayama 13:12** — e5489 res 45760, receipt AEC9782M. Car 8, seats 9-C/9-D (D = river side after Gifu). ⚠ PAPER tickets: pick up at a JR-West green machine/office outside the gates at Osaka or Shin-Osaka Sep 14–15 — needs Mastercard …1969 + 4-digit ID.
 - **Sep 17 · Shirakawa-gō express bus** — BOTH LEGS booked & paid on japanbusonline (Nohi Bus, ¥5,600 for 2 each way). OUT: 07:50 → 08:40, res 08312001231, car 01 seats 11A/11B. RETURN: 16:35 → 17:25, res 08312035491, car 01 seats 7A/7B; free cancel to 13:45 JST on the day. E-tickets = the two confirmation emails (Aug 30 & Aug 31) — print them or show on phone to the driver; no counter exchange.

@@ -75,23 +75,9 @@
    "leg": "tokyo-finale"
   },
   {
-   "title": "Email The Tokyo Station Hotel about the takkyūbin bags",
-   "deadline": "Sun Sep 13 (calendar reminder set)",
-   "detail": "2 bags arriving ~Sep 16–17 for check-in Sep 19; guest Gur Aven; Klook YTX109746; please hold.",
-   "link": "",
-   "leg": "tokyo-finale"
-  },
-  {
    "title": "Pick up Hida 7 paper tickets at Osaka / Shin-Osaka",
    "deadline": "Sep 14–15 (calendar reminder set)",
    "detail": "JR-West green machine outside the gates; res 45760, Mastercard …1969 + 4-digit ID.",
-   "link": "",
-   "leg": "osaka"
-  },
-  {
-   "title": "Hand big bags to the Osaka hotel desk 08:00 Sep 16 — takkyūbin → The Tokyo Station Hotel (hotel agreed to hold them)",
-   "deadline": "Wed Sep 16, 08:00 (before the 09:24 Nozomi)",
-   "detail": "Sep 15 18:50: Ms Risa Nagai (reservations) — the hotel has a booking under the same name, cannot yet match it to Klook YTX109746, but 'this time you can send the luggage to us and we will keep them'. Label: The Tokyo Station Hotel, 1-9-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005, tel 03-5220-1111 · guest AVEN GUR · memo 'check-in 19 September'. 2 bags, ~¥2,500 each, arrives Sep 17. Keep the Klook ticket open: get the hotel confirmation number before Sep 19 check-in.",
    "link": "",
    "leg": "osaka"
   },
@@ -162,7 +148,7 @@
   {
    "group": "Hotels",
    "title": "The Tokyo Station Hotel · Sep 19–23",
-   "detail": "Klook YTX109746. City View King, room only. Inside Tokyo Station (Marunouchi). Non-refundable after Sep 17 22:00 JST. Email Sep 13–14 about 2 takkyūbin bags arriving Sep 16–17."
+   "detail": "Klook YTX109746 · HOTEL CONFIRMATION NUMBER 2505981305 (from Klook support, Sep 16; guest GUR AVEN). City View King, room only. Inside Tokyo Station (Marunouchi). Non-refundable after Sep 17 22:00 JST. Luggage: 2 bags sent by takkyūbin from Osaka Sep 16, arriving Sep 17 — hotel agreed to hold (Ms Nagai, reservations, +81 3 5220 1112)."
   },
   {
    "group": "Trains & buses",
@@ -555,7 +541,7 @@
   },
   {
    "title": "The Tokyo Station Hotel",
-   "detail": "Klook YTX109746. 1-9-1 Marunouchi, Chiyoda-ku 100-0005 — inside the red-brick station, Marunouchi South exit. Check-in 15:00 / out 12:00. Bar Oak closed Sun+Mon; Yakitori Seo closed Sun.",
+   "detail": "Klook YTX109746 · hotel confirmation 2505981305 (guest GUR AVEN). 1-9-1 Marunouchi, Chiyoda-ku 100-0005 — inside the red-brick station, Marunouchi South exit. Check-in 15:00 / out 12:00. Bar Oak closed Sun+Mon; Yakitori Seo closed Sun.",
    "map": "https://www.google.com/maps/search/?api=1&query=The+Tokyo+Station+Hotel",
    "phone": "+81 3 5220 1111",
    "leg": "tokyo-finale"
