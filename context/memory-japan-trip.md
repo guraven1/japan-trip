@@ -23,3 +23,4 @@
 - Sep 15: The Tokyo Station Hotel could not locate the Klook booking (YTX109746 / supplier ref 260710173148900856); refuses pre-arrival luggage until confirmed. Klook ticket opened. Contingency: carry bags to Takayama, ship from Ouan.
 - Sep 15 18:50: Tokyo Station Hotel agreed to accept the luggage anyway (booking exists under the same name). Ship from Osaka Sep 16.
 - Sep 16: Klook support (Akmal I.) confirmed the Tokyo Station Hotel reservation — hotel confirmation number 2505981305, guest GUR AVEN. Bags shipped from Osaka Sep 16.
+- Sep 16: hotel (Ms Shimosu) matched the reservation and will deliver the 2 suitcases to the room. Sep 17: asked the hotel to accept a third bag from Tamar on Sep 18 ~18:00.
